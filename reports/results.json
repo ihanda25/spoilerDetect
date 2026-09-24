@@ -1,0 +1,171 @@
+{
+  "model": "microsoft/MiniLM-L12-H384-uncased",
+  "revision": "44acabbec0ef496f6dbc93adadea57f376b7c0ec",
+  "seed": 42,
+  "device": "mps",
+  "max_length": 192,
+  "batch_size": 16,
+  "epochs": 2,
+  "learning_rate": 2e-05,
+  "truncated_review_counts": {
+    "train": 5089,
+    "validation": 656,
+    "test": 640
+  },
+  "elapsed_seconds": 221.37945675849915,
+  "before": {
+    "accuracy": 0.275,
+    "precision": 0.275,
+    "recall": 1.0,
+    "f1": 0.43137254901960786,
+    "roc_auc": 0.5027937304075235,
+    "average_precision": 0.26849230485680814,
+    "brier_score": 0.25231145758474127,
+    "confusion_matrix": [
+      [
+        0,
+        725
+      ],
+      [
+        0,
+        275
+      ]
+    ]
+  },
+  "after": {
+    "accuracy": 0.774,
+    "precision": 0.6324324324324324,
+    "recall": 0.4254545454545455,
+    "f1": 0.508695652173913,
+    "roc_auc": 0.7782068965517243,
+    "average_precision": 0.6012994866955101,
+    "brier_score": 0.15937518055323988,
+    "confusion_matrix": [
+      [
+        657,
+        68
+      ],
+      [
+        158,
+        117
+      ]
+    ]
+  },
+  "always_no_spoiler": {
+    "accuracy": 0.725,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "roc_auc": 0.5,
+    "average_precision": 0.275,
+    "brier_score": 0.275,
+    "confusion_matrix": [
+      [
+        725,
+        0
+      ],
+      [
+        275,
+        0
+      ]
+    ]
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "mean_training_loss": 0.5731880185604096,
+      "validation": {
+        "accuracy": 0.728,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.690969416612799,
+        "average_precision": 0.434232914592029,
+        "brier_score": 0.1835254887219019,
+        "confusion_matrix": [
+          [
+            728,
+            0
+          ],
+          [
+            272,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "epoch": 2,
+      "mean_training_loss": 0.5090665155351162,
+      "validation": {
+        "accuracy": 0.727,
+        "precision": 0.4972375690607735,
+        "recall": 0.33088235294117646,
+        "f1": 0.3973509933774834,
+        "roc_auc": 0.7020594295410473,
+        "average_precision": 0.4802906933032791,
+        "brier_score": 0.1826887180614299,
+        "confusion_matrix": [
+          [
+            637,
+            91
+          ],
+          [
+            182,
+            90
+          ]
+        ]
+      }
+    }
+  ],
+  "examples": [
+    {
+      "text": "The acting was excellent and the soundtrack was beautiful.",
+      "expected_label": 0,
+      "before": 0.5047664046287537,
+      "after": 0.11426407843828201
+    },
+    {
+      "text": "In the final scene, the detective discovers that her brother is the murderer.",
+      "expected_label": 1,
+      "before": 0.5047174692153931,
+      "after": 0.3048396110534668
+    },
+    {
+      "text": "I cannot wait to watch the next episode this weekend.",
+      "expected_label": 0,
+      "before": 0.5043211579322815,
+      "after": 0.12071650475263596
+    },
+    {
+      "text": "The captain dies saving her brother, and the ship sinks in the ending.",
+      "expected_label": 1,
+      "before": 0.5051219463348389,
+      "after": 0.4639410078525543
+    },
+    {
+      "text": "That finale killed me. What an incredible performance!",
+      "expected_label": 0,
+      "before": 0.5036821365356445,
+      "after": 0.1193026676774025
+    },
+    {
+      "text": "Will the captain die next season? Here is my theory.",
+      "expected_label": 0,
+      "before": 0.5050403475761414,
+      "after": 0.13946831226348877
+    },
+    {
+      "text": "The missing daughter was alive all along, hiding in the basement.",
+      "expected_label": 1,
+      "before": 0.5052011609077454,
+      "after": 0.18820038437843323
+    },
+    {
+      "text": "An interview with the actor about costumes and filming locations.",
+      "expected_label": 0,
+      "before": 0.5036981105804443,
+      "after": 0.12086930125951767
+    }
+  ]
+}

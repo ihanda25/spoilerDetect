@@ -1,0 +1,16 @@
+{
+  "status": "stopped",
+  "device": "mps",
+  "history": [],
+  "phase": "training",
+  "updated_at": "2026-09-23 23:21:53 -0400",
+  "evaluation_reviews": 63287,
+  "epoch": 1,
+  "batch": 100,
+  "total_batches": 22699,
+  "mean_loss": 0.695637101374813,
+  "epoch_remaining_minutes": 12550.91980549872,
+  "session_train_reviews": 1965,
+  "stopped_at": "2026-09-23 23:22:54 -0400",
+  "stop_reason": "Killed (SIGTERM) intentionally: projected ~52 days for 3 full epochs on local MPS was judged impractical. No training checkpoint had been saved (first checkpoint interval is every 500 batches; only 100 had completed). Approach is being reconsidered."
+}

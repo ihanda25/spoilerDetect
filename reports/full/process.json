@@ -1,0 +1,8 @@
+{
+  "pid": 76720,
+  "command": [
+    "/Users/ishaanhanda/Desktop/Projects/spoilerDetect/.venv/bin/python",
+    "-u",
+    "/Users/ishaanhanda/Desktop/Projects/spoilerDetect/scripts/full_training.py"
+  ]
+}

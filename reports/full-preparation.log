@@ -1,0 +1,64 @@
+Tokenized 50000 source reviews
+Tokenized 100000 source reviews
+Tokenized 150000 source reviews
+Tokenized 200000 source reviews
+Tokenized 250000 source reviews
+Tokenized 300000 source reviews
+Tokenized 350000 source reviews
+Tokenized 400000 source reviews
+Tokenized 450000 source reviews
+Tokenized 500000 source reviews
+Tokenized 550000 source reviews
+{
+  "excluded_rows": 1028,
+  "max_window_tokens": 512,
+  "overlap_tokens": 64,
+  "split_method": "Same SHA256 movie split as pilot; no sampling; no truncation",
+  "splits": {
+    "train": {
+      "reviews": 444644,
+      "movies": 1244,
+      "spoilers": 116785,
+      "over_192": 283403,
+      "over_512": 77349,
+      "token_length_percentiles": {
+        "50": 240.0,
+        "90": 679.0,
+        "95": 887.0,
+        "99": 1219.0,
+        "100": 3319.0
+      },
+      "tokens": 145808630
+    },
+    "validation": {
+      "reviews": 63836,
+      "movies": 164,
+      "spoilers": 17358,
+      "over_192": 42021,
+      "over_512": 11860,
+      "token_length_percentiles": {
+        "50": 249.0,
+        "90": 703.0,
+        "95": 916.0,
+        "99": 1236.0,
+        "100": 2903.0
+      },
+      "tokens": 21708043
+    },
+    "test": {
+      "reviews": 64405,
+      "movies": 164,
+      "spoilers": 16583,
+      "over_192": 40658,
+      "over_512": 10671,
+      "token_length_percentiles": {
+        "50": 237.0,
+        "90": 657.0,
+        "95": 854.0,
+        "99": 1207.0,
+        "100": 3241.0
+      },
+      "tokens": 20681210
+    }
+  }
+}

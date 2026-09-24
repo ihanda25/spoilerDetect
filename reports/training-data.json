@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "excluded_duplicate_or_empty_rows": 1028,
+  "split_method": "SHA256(42:movie_id) modulo 100, 80/10/10; reservoir sample per split",
+  "splits": {
+    "train": {
+      "rows": 8000,
+      "movies": 1159,
+      "spoilers": 2109,
+      "eligible_rows": 444644,
+      "sha256": "1d2cf2744868bffbd9c334aefe0c52ec2fd383ebd8188351739928f48e95fd92"
+    },
+    "validation": {
+      "rows": 1000,
+      "movies": 153,
+      "spoilers": 272,
+      "eligible_rows": 63836,
+      "sha256": "a1b2b68ddabba4a070dba906a6052c9fabd049381a29c6010dc2197640e89ba7"
+    },
+    "test": {
+      "rows": 1000,
+      "movies": 154,
+      "spoilers": 275,
+      "eligible_rows": 64405,
+      "sha256": "e10045b0f7f15184a336eb6cb2864f5d011b86afaf3c63f7367d0fc92696a67a"
+    }
+  }
+}

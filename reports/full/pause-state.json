@@ -1,0 +1,15 @@
+{
+  "status": "paused",
+  "device": "mps",
+  "history": [],
+  "phase": "training",
+  "updated_at": "2026-09-23 22:27:07 -0400",
+  "evaluation_reviews": 63287,
+  "epoch": 1,
+  "batch": 0,
+  "total_batches": 22699,
+  "paused_at": "2026-09-23 22:27:07 -0400",
+  "pause_method": "SIGSTOP; live training state retained in PID 76720",
+  "disk_resume": "Completed baseline is cached. No training checkpoint yet; after process loss, restart training from pretrained weights and reuse baseline.",
+  "cached_baseline_reviews": 64405
+}

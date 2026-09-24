@@ -1,0 +1,77 @@
+{
+  "status": "epoch_complete",
+  "device": "mps",
+  "epoch": 2,
+  "epochs_planned": 3,
+  "best_f1": 0.5602489406779662,
+  "validation": {
+    "accuracy": 0.7996584999060091,
+    "precision": 0.7269746646795827,
+    "recall": 0.4215347390252333,
+    "f1": 0.5336396455530029,
+    "roc_auc": 0.8148729270057044,
+    "average_precision": 0.6603075325730856,
+    "brier_score": 0.14514679454544732,
+    "confusion_matrix": [
+      [
+        43730,
+        2748
+      ],
+      [
+        10041,
+        7317
+      ]
+    ]
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "mean_training_loss": 0.4718313300060212,
+      "validation": {
+        "accuracy": 0.7919042546525471,
+        "precision": 0.6585214007782101,
+        "recall": 0.48749855974190576,
+        "f1": 0.5602489406779662,
+        "roc_auc": 0.8078919596430149,
+        "average_precision": 0.6431953558193483,
+        "brier_score": 0.1472003823650155,
+        "confusion_matrix": [
+          [
+            42090,
+            4388
+          ],
+          [
+            8896,
+            8462
+          ]
+        ]
+      }
+    },
+    {
+      "epoch": 2,
+      "mean_training_loss": 0.42806983568308604,
+      "validation": {
+        "accuracy": 0.7996584999060091,
+        "precision": 0.7269746646795827,
+        "recall": 0.4215347390252333,
+        "f1": 0.5336396455530029,
+        "roc_auc": 0.8148729270057044,
+        "average_precision": 0.6603075325730856,
+        "brier_score": 0.14514679454544732,
+        "confusion_matrix": [
+          [
+            43730,
+            2748
+          ],
+          [
+            10041,
+            7317
+          ]
+        ]
+      }
+    }
+  ],
+  "elapsed_this_run_seconds": 17386.1308760643,
+  "updated_at": "2026-09-24 10:19:27 -0400",
+  "next_step": "Run scripts/full_finetune_v2.py again for the next epoch."
+}

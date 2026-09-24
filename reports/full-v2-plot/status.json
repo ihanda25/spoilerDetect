@@ -1,0 +1,54 @@
+{
+  "status": "epoch_complete",
+  "device": "mps",
+  "epoch": 1,
+  "epochs_planned": 3,
+  "best_f1": 0.5557763606703248,
+  "validation": {
+    "accuracy": 0.7653831693715145,
+    "precision": 0.572782295041878,
+    "recall": 0.5397511234013135,
+    "f1": 0.5557763606703248,
+    "roc_auc": 0.7876940773656943,
+    "average_precision": 0.5991080778871305,
+    "brier_score": 0.1596936278775651,
+    "confusion_matrix": [
+      [
+        39490,
+        6988
+      ],
+      [
+        7989,
+        9369
+      ]
+    ]
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "mean_training_loss": 0.4840322431151566,
+      "validation": {
+        "accuracy": 0.7653831693715145,
+        "precision": 0.572782295041878,
+        "recall": 0.5397511234013135,
+        "f1": 0.5557763606703248,
+        "roc_auc": 0.7876940773656943,
+        "average_precision": 0.5991080778871305,
+        "brier_score": 0.1596936278775651,
+        "confusion_matrix": [
+          [
+            39490,
+            6988
+          ],
+          [
+            7989,
+            9369
+          ]
+        ]
+      }
+    }
+  ],
+  "elapsed_this_run_seconds": 19782.97123003006,
+  "updated_at": "2026-09-24 16:02:36 -0400",
+  "next_step": "Awaiting explicit user decision on the next epoch (see PLAN.md policy)."
+}

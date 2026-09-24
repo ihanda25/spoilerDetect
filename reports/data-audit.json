@@ -1,0 +1,39 @@
+{
+  "audited_at_utc": "2026-09-24T01:47:24.580762+00:00",
+  "source": "https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset",
+  "author": "Rishabh Misra",
+  "dataset_version": 1,
+  "license_as_listed_by_source": "Attribution 4.0 International (CC BY 4.0)",
+  "archive_bytes": 347575137,
+  "archive_sha256": "1ed1f31b76ead0b004289b72522da2590048602be824ade1d83725eb4f81f7a1",
+  "files": [
+    {
+      "name": "IMDB_movie_details.json",
+      "bytes": 14184615
+    },
+    {
+      "name": "IMDB_reviews.json",
+      "bytes": 952594008
+    }
+  ],
+  "reviews": 573913,
+  "labels": {
+    "spoiler": 150924,
+    "no_spoiler": 422989
+  },
+  "spoiler_fraction": 0.26297365628588304,
+  "movie_metadata_records": 1572,
+  "unique_review_movie_ids": 1572,
+  "movie_ids_without_metadata": 2,
+  "empty_reviews": 0,
+  "rows_missing_required_fields": 0,
+  "duplicate_normalized_text_rows": 564,
+  "duplicate_rows_disagreeing_with_first_label": 118,
+  "mean_review_characters": 1460.5535246631457,
+  "notes": [
+    "Labels describe whole reviews, not individual sentences or review titles.",
+    "Raw data is preserved; no cleaning, sampling, splitting, or training performed.",
+    "Group by movie_id and address duplicates before creating evaluation splits.",
+    "Plot summaries and synopses are metadata, not labeled negative examples."
+  ]
+}

@@ -1,0 +1,20 @@
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at /Users/ishaanhanda/Desktop/Projects/spoilerDetect/models/base and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Evaluation test: 4048/64405
+Evaluation test: 7827/64405
+Evaluation test: 11687/64405
+Evaluation test: 15434/64405
+Evaluation test: 19132/64405
+Evaluation test: 22944/64405
+Evaluation test: 26856/64405
+Evaluation test: 31022/64405
+Evaluation test: 35163/64405
+Evaluation test: 39348/64405
+Evaluation test: 43288/64405
+Evaluation test: 47256/64405
+Evaluation test: 51193/64405
+Evaluation test: 55072/64405
+Evaluation test: 59114/64405
+Evaluation test: 63287/64405
+Epoch 1/3 batch 50/22699 loss=0.6978 epoch ETA=24661.0m
+Epoch 1/3 batch 100/22699 loss=0.6956 epoch ETA=12550.9m
