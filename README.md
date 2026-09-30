@@ -23,14 +23,20 @@ anything below conflicts with one of those files, trust the file.
    roc_auc/average_precision both improved). The user chose not to run epoch 3,
    opting instead to try v3 below since review-only text looked like it was
    nearing its ceiling (recall stuck in the high-0.4s).
-4. **v3, active** — `reports/full-v2-plot/`. **Read
-   `reports/full-v2-plot/PLAN.md` first.** Same MiniLM, same 444,644 reviews,
-   same "plain truncation, no windowing" approach, but each input is now a
-   pair — `[CLS] plot_summary [SEP] review [SEP]` — instead of review text
-   alone, so the model can compare the review against what's actually known to
-   happen in that movie (direct lookup by `movie_id`, not corpus retrieval).
-   Same movie-disjoint splits as every prior experiment, so this is a fair,
-   non-memorizing test of whether plot context helps.
+4. **v3, done through epoch 1, awaiting a decision on epoch 2** —
+   `reports/full-v2-plot/`. **Read `reports/full-v2-plot/PLAN.md` first.** Same
+   MiniLM, same 444,644 reviews, same "plain truncation, no windowing"
+   approach, but each input is now a pair — `[CLS] plot_summary [SEP] review
+   [SEP]` — instead of review text alone, so the model can compare the review
+   against what's actually known to happen in that movie (direct lookup by
+   `movie_id`, not corpus retrieval). Same movie-disjoint splits as every prior
+   experiment, so this is a fair, non-memorizing test of whether plot context
+   helps. Epoch 1: F1=0.556 (~flat vs. v2's 0.560), but **recall improved to
+   0.540** (up from v2's 0.487 — the specific weakness this experiment targets),
+   at the cost of precision (0.573 vs 0.659) and ranking quality (roc_auc=0.788,
+   AP=0.599, both down from v2). Mixed result: better at catching spoilers,
+   worse at ranking confidence. No auto-continuation — the user decides on
+   epoch 2 after seeing each result.
 
    **Run exactly one epoch per invocation, then stop — no auto-continuation for
    this experiment; the user reviews every epoch's result before the next one
