@@ -1,0 +1,683 @@
+[
+  {
+    "id": "tvtropes:train:2913",
+    "blind_id": "s088",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "When Kaylee asks how a client is chosen, Inara tries to explain that it's a process of feeling out a client through compatibility of spirit rather than actually thinking logically and carefully about it.",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Inara’s explanation of selecting clients is routine work practice and characterization.",
+    "prediction": {
+      "excerpt_quote": "When Kaylee asks how a client is chosen, Inara tries to explain that it's a process of feeling out a client through compatibility of spirit rather than actually thinking logically and carefully about it.",
+      "explanation": "The excerpt describes a character interaction and dialogue regarding Inara's profession, which is part of the show's public premise and character dynamics. It does not reveal any consequential plot twists, outcomes, or hidden identities.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8594",
+    "blind_id": "s005",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Then he hears Sherlock being shot at, and tells Soo Lin, \"I have to go and help\".",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Gunfire and an intention to help are incidental action without a consequential outcome.",
+    "prediction": {
+      "excerpt_quote": "Then he hears Sherlock being shot at, and tells Soo Lin, \"I have to go and help\".",
+      "explanation": "The excerpt reveals that Sherlock is being shot at, which is a specific, consequential plot event (the climax of the pilot episode) not included in the public premise. This spoils a major development for a viewer who has not started the series.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8618",
+    "blind_id": "s024",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "\"  Not so related to the trope itself, but it's worth noting that   it's highly possible that it wasn't even Sherlock who fell .",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Explicitly presents an unconfirmed possibility about who fell.",
+    "prediction": {
+      "excerpt_quote": "it's highly possible that it wasn't even Sherlock who fell",
+      "explanation": "The excerpt explicitly discusses the identity of the person who fell from the building, which is a major plot twist and hidden identity revealed in the series finale. This is a consequential later event that spoils the story for a new viewer.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:3445",
+    "blind_id": "s062",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "Season 3 takes place in both universes.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Confirms a second universe and a later season’s operation across both, beyond the supplied premise.",
+    "prediction": {
+      "excerpt_quote": "Season 3 takes place in both universes.",
+      "explanation": "The excerpt reveals a major structural and plot element of the series (the existence of a parallel universe and the show's setting in both) which is a central twist and development not included in the public premise. This is a consequential later event/twist.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8425",
+    "blind_id": "s055",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "\" to Sherlock while on the phone; Sherlock, wrinkling his nose, mouths back \"It's fine!",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "A fragment of ordinary telephone dialogue and facial reaction reveals no outcome.",
+    "prediction": {
+      "excerpt_quote": "to Sherlock while on the phone; Sherlock, wrinkling his nose, mouths back \"It's fine!",
+      "explanation": "The excerpt describes a minor, non-consequential interaction between characters that does not reveal any plot twists, outcomes, or hidden identities. It is safe for someone who has not started the series.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8573",
+    "blind_id": "s049",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "His hand shakes when he's  not  thinking about the war!",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The person and the significance of the reversed shaking pattern are omitted, leaving the possible explanation unresolved.",
+    "prediction": {
+      "excerpt_quote": "His hand shakes when he's  not  thinking about the war!",
+      "explanation": "The excerpt references John Watson's PTSD and military trauma, which is explicitly part of the public premise ('a doctor returning from military service'). It does not reveal a specific plot twist, outcome, or hidden identity, but rather a character trait consistent with the known setup.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8520",
+    "blind_id": "s011",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Sherlock gets off on the  mystery  of the crime.",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Describes Sherlock’s interest in mysteries, consistent with his detective role.",
+    "prediction": {
+      "excerpt_quote": "Sherlock gets off on the  mystery  of the crime.",
+      "explanation": "The excerpt describes a general character trait or reaction to the core premise of the show (solving mysteries) without revealing any specific plot points, outcomes, or twists.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8551",
+    "blind_id": "s030",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Also a rare moment of vulnerability from Sherlock: His panicked \"Are you all right?",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "A concerned question illustrates emotion without revealing what happened.",
+    "prediction": {
+      "excerpt_quote": "Also a rare moment of vulnerability from Sherlock: His panicked \"Are you all right?",
+      "explanation": "The excerpt describes a character's emotional reaction and dialogue without revealing a specific plot outcome, twist, or fate. It is a vague observation of character behavior that does not spoil the story for a new viewer.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8557",
+    "blind_id": "s081",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": ", people probably weren't expecting it to turn out to lead him to  a dogging site .",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The missing antecedent for \"it\" prevents deciding whether the destination resolves an important clue or is incidental comedy.",
+    "prediction": {
+      "excerpt_quote": "people probably weren't expecting it to turn out to lead him to a dogging site",
+      "explanation": "The excerpt reveals a specific plot detail (the investigation leading to a dogging site) which is a non-trivial development in the storyline, likely from the pilot episode. For a viewer who has not started the series, this reveals a specific investigative path and tone that is not part of the general public premise.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2904",
+    "blind_id": "s096",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "Mal crosses this at the battle of Serenity Valley, not even blinking when his comrade is blown away beside him when he realizes that the Independents have lost.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Reveals the Independents’ defeat at Serenity Valley and the death of Mal’s comrade, neither supplied in the premise.",
+    "prediction": {
+      "excerpt_quote": "Mal crosses this at the battle of Serenity Valley, not even blinking when his comrade is blown away beside him when he realizes that the Independents have lost.",
+      "explanation": "The excerpt reveals the outcome of the Battle of Serenity Valley (the Independents' defeat) and a specific character death (Mal's comrade being blown away), which are major plot points and consequences of the series finale.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7269",
+    "blind_id": "s022",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "Though it is justified, as a wounded Reese was able to get a safe distance away there was plenty of time for her to escape too .",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The danger and the woman’s fate are omitted; the escape comparison cannot establish the consequential outcome being discussed.",
+    "prediction": {
+      "excerpt_quote": "Though it is justified, as a wounded Reese was able to get a safe distance away there was plenty of time for her to escape too .",
+      "explanation": "The excerpt discusses a specific scene involving a character named Reese being wounded and another character having the opportunity to escape. This reveals a specific plot event and character dynamic (likely involving a betrayal or conflict with a female character, possibly Shaw or another agent) that occurs later in the series, which is not part of the public premise. It spoils the outcome of a specific confrontation.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2898",
+    "blind_id": "s020",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "Start digging deeper and you have oppression and abuse perpetrated in the name of  making them all Better Worlds .",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The subject of the oppression and the deeper discovery are omitted, preventing identification of a concrete reveal.",
+    "prediction": {
+      "excerpt_quote": "Start digging deeper and you have oppression and abuse perpetrated in the name of making them all Better Worlds .",
+      "explanation": "The excerpt describes the general thematic conflict of the show (the Alliance's oppressive nature), which is part of the public premise and general knowledge about the series. It does not reveal specific plot twists, character fates, or consequential later events.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:3376",
+    "blind_id": "s033",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "\" In \"6:02 AM,\"   just before turning on the machine,  Walternate also compares himself to Oppenheimer - and talks about the nightmares he had after Hiroshima and Nagasaki.",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "Turning on an unspecified machine is mentioned, but the missing context leaves its consequences and significance unresolved.",
+    "prediction": {
+      "excerpt_quote": "In \"6:02 AM,\"   just before turning on the machine,  Walternate also compares himself to Oppenheimer - and talks about the nightmares he had after Hiroshima and Nagasaki.",
+      "explanation": "The excerpt discusses a specific scene and dialogue from the episode '6:02 AM' (Season 2, Episode 12). It reveals that Walternate compares himself to Oppenheimer and mentions nightmares related to Hiroshima and Nagasaki. This is a specific plot point and character detail from a later episode, which constitutes a spoiler for someone who has not started the series, as it reveals character motivations and specific narrative events not part of the public premise.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2954",
+    "blind_id": "s085",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "Subverted in \"Ariel,\" when Jayne tries to use the Alliance-issue stun rifle to try to blow out the lock to get himself and the Tams away from the  Hands of Blue .",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Describes an attempted lock-breaking escape action without confirming escape, betrayal, or another consequential outcome.",
+    "prediction": {
+      "excerpt_quote": "Subverted in \"Ariel,\" when Jayne tries to use the Alliance-issue stun rifle to try to blow out the lock to get himself and the Tams away from the  Hands of Blue .",
+      "explanation": "The excerpt describes a specific plot event and character action (Jayne using a stun rifle to escape the Hands of Blue) from the episode 'Ariel'. For a viewer who has not started the series, this reveals specific narrative details and outcomes of a particular episode, which constitutes a spoiler.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2955",
+    "blind_id": "s090",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "It isn't designed for this kind of thing, though  Mal's shotgun does a much better job .",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "A comparison of weapon effectiveness leaves the action unspecified and reveals no consequential result.",
+    "prediction": {
+      "excerpt_quote": "It isn't designed for this kind of thing, though  Mal's shotgun does a much better job .",
+      "explanation": "The excerpt is a vague, generic comment about a weapon's effectiveness. It does not reveal any specific plot events, character fates, or twists, and is therefore safe for a viewer who has not started the series.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8429",
+    "blind_id": "s099",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Frankland runs into it trying to escape... with  predictable results .",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The object Frankland runs into and the supposedly predictable result are both omitted, preventing identification of his fate.",
+    "prediction": {
+      "excerpt_quote": "Frankland runs into it trying to escape... with  predictable results .",
+      "explanation": "The excerpt refers to a specific character (Frankland) and a specific event (running into something while escaping) with a specific outcome. This reveals a plot point and character fate from the series, which is not part of the public premise.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:3367",
+    "blind_id": "s067",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "Astrid:  Are you sure you don't want me to call  Olivia?",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "An offer to call Olivia is ordinary dialogue.",
+    "prediction": {
+      "excerpt_quote": "Astrid:  Are you sure you don't want me to call  Olivia?",
+      "explanation": "The excerpt is a generic line of dialogue that does not reveal any plot points, character fates, or twists. It is safe for a viewer who has not started the series.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8413",
+    "blind_id": "s077",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Season 2 begins and ends   with a confrontation between Sherlock and Moriarty where the Bee Gees plays.",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Describes confrontations and accompanying music without revealing their results.",
+    "prediction": {
+      "excerpt_quote": "Season 2 begins and ends   with a confrontation between Sherlock and Moriarty where the Bee Gees plays.",
+      "explanation": "The excerpt reveals the specific plot structure of Season 2, stating that it both begins and ends with a confrontation between the protagonist and the antagonist. This is a consequential later event and structural detail not contained in the public premise, thus spoiling the narrative arc of the season.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7235",
+    "blind_id": "s065",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": ":  One episode's PoI, an investment banker, made 100 million on a short sale of Virtanen Pharmaceuticals, believing that their stock would tank when their senior management was convicted of the crimes that Reese and Finch had gotten them arrested for in an earlier episode.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Reveals the earlier arrest of pharmaceutical executives and a banker’s resulting financial success.",
+    "prediction": {
+      "excerpt_quote": "One episode's PoI, an investment banker, made 100 million on a short sale of Virtanen Pharmaceuticals, believing that their stock would tank when their senior management was convicted of the crimes that Reese and Finch had gotten them arrested for in an earlier episode.",
+      "explanation": "The excerpt reveals the specific outcome of a plotline (the conviction of the senior management of Virtanen Pharmaceuticals and the financial gain of a specific character), which is a consequential later event not included in the public premise.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7273",
+    "blind_id": "s037",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "The perpetrator-victim twist was reversed when the Number of the Week was a former construction manager who purchased a rifle and had made threats against a congressman whose budget cuts put him out of work.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Explicitly reveals a reversal of the suspected perpetrator’s victim role and describes the apparent assassination threat.",
+    "prediction": {
+      "excerpt_quote": "The perpetrator-victim twist was reversed when the Number of the Week was a former construction manager who purchased a rifle and had made threats against a congressman whose budget cuts put him out of work.",
+      "explanation": "The excerpt describes the specific plot of a particular episode (identifying the 'Number of the Week' and the specific victim/perpetrator dynamic). While it reveals the outcome of that specific episode's investigation, it does not reveal a major series-wide twist, character fate, or hidden identity that would spoil the overarching narrative for a new viewer. It is a specific plot detail of a single episode, which is generally considered safe or low-level spoiler, but in the context of 'conce",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8585",
+    "blind_id": "s008",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Sherlock is not even above pickpocketing his own brother!",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "Pickpocketing his brother illustrates personality and incidental behavior.",
+    "prediction": {
+      "excerpt_quote": "Sherlock is not even above pickpocketing his own brother!",
+      "explanation": "The excerpt describes a specific, minor comedic incident (pickpocketing) that is not a major plot twist, outcome, or hidden identity. It does not reveal a consequential later event or fate, making it safe for someone who has not started the series.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2881",
+    "blind_id": "s035",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "\" After a successful mission, Mal celebrates a little too much and does not realize his part in a bizarre wedding ritual.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Reveals Mal’s unwitting participation in a wedding ritual, a relationship development beyond the premise.",
+    "prediction": {
+      "excerpt_quote": "After a successful mission, Mal celebrates a little too much and does not realize his part in a bizarre wedding ritual.",
+      "explanation": "The excerpt describes a specific plot event (Mal's participation in a wedding ritual) that occurs in a particular episode. While it reveals a minor plot point, it does not spoil the main outcome, twist, or fate of the series or the character's ultimate destiny. It is a specific scene description rather than a consequential later event or hidden identity.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:3254",
+    "blind_id": "s095",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "She manages to find a job that she enjoys and falls in love with her partner.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The woman and partner are unidentified, leaving the romantic relationship and later status impossible to attribute.",
+    "prediction": {
+      "excerpt_quote": "She manages to find a job that she enjoys and falls in love with her partner.",
+      "explanation": "The excerpt describes a specific romantic outcome and career satisfaction for a character (likely Olivia Dunham) that is not part of the public premise. Revealing that a main character 'falls in love with her partner' and finds a job she enjoys constitutes a consequential plot outcome/twist for a viewer who has not started the series.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7253",
+    "blind_id": "s059",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "Referenced in \"Blue Code,\" when Cara catches Reese getting close to   Jessica's husband.",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "Jessica’s husband is mentioned, but the fragment leaves the significance of that relationship and Reese’s approach unresolved.",
+    "prediction": {
+      "excerpt_quote": "Referenced in \"Blue Code,\" when Cara catches Reese getting close to Jessica's husband.",
+      "explanation": "The excerpt describes a specific scene from a later episode involving a character (Cara) and a plot point (Jessica's husband) that is not part of the public premise. Revealing specific character interactions and plot developments from later in the series constitutes a spoiler for a viewer who has not started the show.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7209",
+    "blind_id": "s051",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "His empire includes several magazine publishers who make a particular point of regularly commissioning   his former fiancee Grace  to do their cover art, thus providing her steady work as an illustrator.",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The sponsor and former fiancé are identified only as \"his\"; the missing antecedent prevents identifying the relationship and concealed support.",
+    "prediction": {
+      "excerpt_quote": "His empire includes several magazine publishers who make a particular point of regularly commissioning his former fiancee Grace to do their cover art, thus providing her steady work as an illustrator.",
+      "explanation": "The excerpt describes a specific, non-public detail about a character's (likely Harold Finch's) business empire and his relationship with a former fiancée named Grace. This is not part of the public premise and reveals specific character backstory and plot points that are not generally known before watching the show, thus constituting a spoiler.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7302",
+    "blind_id": "s007",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": ":  In \"Witness\":  \"You really think we'd go to this much trouble for a witness?",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The question hints at a mistaken role, but does not identify the person or reveal their actual role.",
+    "prediction": {
+      "label": "UNCERTAIN",
+      "explanation": "Invalid, ungrounded or incomplete answer"
+    },
+    "raw_prediction": "SAFE",
+    "valid": false
+  },
+  {
+    "id": "tvtropes:train:7234",
+    "blind_id": "s042",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "The POI in \"Firewall\" is shown to be more than she seems when  she starts the episode with a yellow box .",
+    "source_label": 1,
+    "review_label": null,
+    "review_rationale": "The yellow box’s meaning and the woman’s actual hidden status are not supplied.",
+    "prediction": {
+      "excerpt_quote": "The POI in \"Firewall\" is shown to be more than she seems when she starts the episode with a yellow box .",
+      "explanation": "The excerpt reveals that a specific character (implied to be a main character or someone previously thought safe) is a 'Person of Interest' (yellow box) at the start of the episode 'Firewall'. In the context of the show's premise where Reese and Finch are not POIs, and other main characters are generally not, this is a significant plot point/twist regarding a character's status that is not part of the public premise. It reveals a consequential hidden identity/status.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7240",
+    "blind_id": "s063",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "And yeah, the woman was part of it.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "Neither the woman nor what she participated in is identified.",
+    "prediction": {
+      "excerpt_quote": "And yeah, the woman was part of it.",
+      "explanation": "The excerpt is vague and lacks specific context. Without knowing which 'woman' or 'it' refers to, it does not reveal a specific consequential plot point, twist, or fate. It is too ambiguous to be classified as a spoiler.",
+      "label": "UNCERTAIN",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "UNCERTAIN",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2965",
+    "blind_id": "s001",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "Jayne almost suffers this fate in \"Ariel.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The omitted fate is necessary to know what nearly happens to Jayne.",
+    "prediction": {
+      "excerpt_quote": "Jayne almost suffers this fate in \"Ariel.",
+      "explanation": "The excerpt references a specific plot event in the episode 'Ariel' where a character (Jayne) nearly suffers a specific fate. Without the preceding context defining what 'this fate' is, the statement itself is a vague reference to a specific episode's plot point. However, knowing that Jayne is in danger or nearly suffers a specific outcome in 'Ariel' is a plot detail from the show. For a viewer who has not started the show, knowing that a specific character nearly suffers a specific fate in ",
+      "label": "UNCERTAIN",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "UNCERTAIN",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:3510",
+    "blind_id": "s032",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "Explained in the season one finale as being caused by \"soft spots,\" which cause weird events to radiate out from them.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Provides a finale explanation linking strange events to soft spots, beyond the supplied premise.",
+    "prediction": {
+      "excerpt_quote": "Explained in the season one finale as being caused by \"soft spots,\" which cause weird events to radiate out from them.",
+      "explanation": "The excerpt reveals the specific in-universe explanation for the show's central phenomenon (the Fringe) and explicitly identifies this reveal as occurring in the season one finale. This is a consequential plot point and twist that is not part of the public premise.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7266",
+    "blind_id": "s028",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "Finch invented the concept of online social networking (and made a hefty profit in the process) specifically so that the information would be available for the machine to do so.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Reveals Finch’s invention of social networking and its hidden purpose in supplying the Machine with information.",
+    "prediction": {
+      "excerpt_quote": "Finch invented the concept of online social networking (and made a hefty profit in the process) specifically so that the information would be available for the machine to do so.",
+      "explanation": "This statement reveals a specific, non-public backstory detail regarding Finch's motivation and actions (inventing social networking to feed the Machine) that is not part of the general premise and is typically revealed or implied through later episodes or character exposition, making it a spoiler for a new viewer.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2949",
+    "blind_id": "s082",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "The test was so secret it was even a surprise to Mal, who had every intention of going throught with it.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The test and the act Mal intended to complete are omitted, preventing assessment of the concealed test’s consequence.",
+    "prediction": {
+      "excerpt_quote": "The test was so secret it was even a surprise to Mal, who had every intention of going throught with it.",
+      "explanation": "The excerpt reveals that Mal was secretly subjected to a test and that he intended to proceed with it. This refers to a specific plot point (likely the 'test' of his loyalty or the events surrounding the Alliance's interest in him) that is a consequential development in the series, not part of the public premise of just taking jobs.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:3337",
+    "blind_id": "s097",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "The  Alternate Universe  was suffering from this due to reality breaking down.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Confirms an alternate universe and its consequential deterioration through reality breaking down.",
+    "prediction": {
+      "excerpt_quote": "The  Alternate Universe  was suffering from this due to reality breaking down.",
+      "explanation": "The excerpt references the 'Alternate Universe' and 'reality breaking down,' which are core elements of the show's public premise and long-running mythology. It does not reveal a specific consequential later event, twist, or character fate that would spoil the story for a new viewer.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:2894",
+    "blind_id": "s072",
+    "title": "Firefly (2002 TV series)",
+    "excerpt": "The same part then shows up at the dump on Ariel, only to be tossed aside by Wash.",
+    "source_label": 1,
+    "review_label": 0,
+    "review_rationale": "A discarded mechanical part is incidental scene detail.",
+    "prediction": {
+      "excerpt_quote": "The same part then shows up at the dump on Ariel, only to be tossed aside by Wash.",
+      "explanation": "The excerpt describes a specific, minor plot detail from a particular episode (likely 'The Train Job' or similar) involving a specific location (Ariel) and character action. It does not reveal a major twist, the fate of a main character, or a hidden identity. It is a specific scene description that does not spoil the overarching narrative or the public premise.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7227",
+    "blind_id": "s014",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "The first part definitely, the second part is still in the air but plausiblethey apparently want to shut down the evil operations of the CIA, but they are also trying to stop Reese.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The group and the first and second claims are omitted; its apparent motives are also qualified.",
+    "prediction": {
+      "excerpt_quote": "they apparently want to shut down the evil operations of the CIA, but they are also trying to stop Reese.",
+      "explanation": "The excerpt reveals that the antagonists are specifically targeting Reese and are involved in shutting down CIA operations, which are significant plot developments and character fates that occur well beyond the initial premise of Finch recruiting Reese to stop crimes.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7229",
+    "blind_id": "s058",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "By the end of \"No Good Deed\", the NSA agent has acquired enough information about The Machine to get his own yellow box.",
+    "source_label": 0,
+    "review_label": 1,
+    "review_rationale": "Reveals an episode-end status change: an NSA agent has learned enough about the Machine to receive its yellow designation.",
+    "prediction": {
+      "excerpt_quote": "By the end of \"No Good Deed\", the NSA agent has acquired enough information about The Machine to get his own yellow box.",
+      "explanation": "The excerpt reveals a specific plot development and character status (the NSA agent obtaining a yellow box) that occurs in a later episode, which is a consequential twist not part of the public premise.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:8558",
+    "blind_id": "s041",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Holmes is prone to doing this quite often, usually when confronted with an explanation he dislikes.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The repeated behavior is omitted, so it is impossible to determine what the sentence discloses.",
+    "prediction": {
+      "excerpt_quote": "Holmes is prone to doing this quite often, usually when confronted with an explanation he dislikes.",
+      "explanation": "The excerpt describes a general character trait or behavior pattern of Sherlock Holmes without revealing any specific plot events, twists, or outcomes. It is safe for a viewer who has not started the series.",
+      "label": "SAFE",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SAFE",
+    "valid": true
+  },
+  {
+    "id": "tvtropes:train:7309",
+    "blind_id": "s040",
+    "title": "Person of Interest (2011 TV series)",
+    "excerpt": "\" In flashbacks, Reese and Stanton appear to get a long-distance, high-explosive version of this.",
+    "source_label": 0,
+    "review_label": null,
+    "review_rationale": "The omitted referent for this prevents identifying what explosive event happens to Reese and Stanton.",
+    "prediction": {
+      "excerpt_quote": "In flashbacks, Reese and Stanton appear to get a long-distance, high-explosive version of this.",
+      "explanation": "The excerpt discusses a specific scene involving a character (Stanton) and a plot point (flashbacks, high-explosive event) that is not part of the public premise. Revealing that such a scene exists or describing its nature (flashbacks involving Stanton) spoils specific narrative details and character fates/events for a new viewer.",
+      "label": "SPOILER",
+      "passage_id": "",
+      "passage_quote": ""
+    },
+    "raw_prediction": "SPOILER",
+    "valid": true
+  }
+]

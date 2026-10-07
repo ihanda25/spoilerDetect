@@ -1,0 +1,13 @@
+{
+  "locked_at_utc": "2026-10-07T03:18:03.366943+00:00",
+  "source_sha256": {
+    "POLICY.txt": "2d318ec2b7dd1c1aefa50d6b6115a07a197bc24fcf5f2d86d30f4864885af925",
+    "inputs-a.json": "5e9924f05c3e5e80096727984f4bc7a77758467a2b4722e83a4517cb6312076c",
+    "inputs-b.json": "115b9fa566d222494817d5483eb1a4317bb34c60efcb20e764addcc7ea479b5b",
+    "labels-a.json": "e14f08665e41d67b7ba2ce35cc4da9aee4eefe8213cca89a4d0f2d83982bae90",
+    "labels-b.json": "cb0543e31f85acee94369113622bb59b62fd223eba9f8ce408595aab1e42e570",
+    "mapping.json": "35c688ba87cbd289b3b67ee1dd42ffcce76785e3a222b7ab7d95ea82df4112cb"
+  },
+  "labels_sha256": "2fb269c3f2e69428302e5f8401fa0f835b109067d959b74d8591d2eb39bdcbdd",
+  "warning": "Two prediction-hidden AI reviewers, disjoint 50-row assignments; not human gold, not double review. Parent had prior exposure; labels authored by reviewers without forked history. No revised prompts or model inference."
+}

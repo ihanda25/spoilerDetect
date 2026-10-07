@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "dataset": "Rishabh Misra IMDb Spoiler Dataset v1",
+  "dataset_zip_sha256": "1ed1f31b76ead0b004289b72522da2590048602be824ade1d83725eb4f81f7a1",
+  "method": "Exact raw reviews selected and ordered by saved MiniLM source_lines/movie_ids/labels; no sampling, added rows, or reused token IDs.",
+  "split_method": "SHA256(42:movie_id) mod100, movie-disjoint; original full deduplication exclusions retained.",
+  "license_source": "https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset",
+  "license_metadata": "Source-reported CC BY 4.0; attribution Rishabh Misra, IMDb Spoiler Dataset, 2019, DOI10.13140/RG.2.2.11584.15362.",
+  "overlap_caveat": "Zritze training corpus/split undisclosed; held out for our MiniLM, not established held out for the external RoBERTa.",
+  "splits": {
+    "validation": {
+      "file": "validation.jsonl",
+      "rows": 63836,
+      "spoilers": 17358,
+      "movies": 164,
+      "sha256": "e3dea28118afb1318128ab950281276357833cb9b940d886dccef2722def0034",
+      "source_lines_sha256": "56ce2ca7c1d0ad92c91512ae11a4601466de1d84dc14b4227251a7c5c725004e",
+      "labels_sha256": "4be52350f2753070f14ae81ebdf353512df0739fbb04a82aa0c6b2797286103b",
+      "movie_ids_sha256": "103b1d639c90ffd793affe0bd4c3da9c74c4de6345535b54476020595e4b20ad"
+    },
+    "test": {
+      "file": "test.jsonl",
+      "rows": 64405,
+      "spoilers": 16583,
+      "movies": 164,
+      "sha256": "1f7f5c4089fa73663a37a42aca11fff94b9954b252c4373eb284c5f7deac0783",
+      "source_lines_sha256": "59971650184bbcbafaeeb755be475ff3d5f1f48e5789bd900dfbc64190163a1f",
+      "labels_sha256": "3ce413cf8fc4333ccad500bbc8a75669ea817be45d03b0ca6821bf45c028b309",
+      "movie_ids_sha256": "7b83de9b7125fc522bbcb75ab4087ca49a209f03cf8d55022e3b6e49ee2b8ac1"
+    }
+  }
+}

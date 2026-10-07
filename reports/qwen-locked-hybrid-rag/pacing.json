@@ -1,0 +1,11 @@
+{
+  "policy": "adaptive with 50% token headroom and 4s minimum",
+  "tpm": 8000,
+  "last_total_tokens": 1053,
+  "rate_limit_headers": {
+    "x-ratelimit-limit-tokens": "8000",
+    "x-ratelimit-remaining-tokens": "6891",
+    "x-ratelimit-reset-tokens": "8.317s",
+    "x-ratelimit-remaining-requests": "561"
+  }
+}

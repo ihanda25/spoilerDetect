@@ -1,0 +1,34 @@
+{
+  "checkpoint": "review_epoch2",
+  "split": "test",
+  "reviews": 64405,
+  "frozen_validation_threshold": 0.21579217910766602,
+  "selected_threshold_metrics": {
+    "threshold": 0.21579217910766602,
+    "precision": 0.5330766702662096,
+    "recall": 0.6846770789362601,
+    "f1": 0.5994403674568397,
+    "false_positives": 9945,
+    "false_negatives": 5229
+  },
+  "default_threshold_metrics": {
+    "accuracy": 0.8075615247263411,
+    "precision": 0.722985201745981,
+    "recall": 0.40951576916118915,
+    "f1": 0.5228672620880813,
+    "roc_auc": 0.8211052428277991,
+    "average_precision": 0.6587659128233041,
+    "brier_score": 0.13907773872565674,
+    "confusion_matrix": [
+      [
+        45220,
+        2602
+      ],
+      [
+        9792,
+        6791
+      ]
+    ]
+  },
+  "elapsed_seconds": 385.2229950428009
+}

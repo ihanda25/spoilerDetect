@@ -1,0 +1,44 @@
+{
+  "Fringe": {
+    "canonical_title": "Fringe (2008 TV series)", "split": "train", "source_url": "https://en.wikipedia.org/wiki/Fringe_(TV_series)", "source_sections": ["Premise", "Overview", "Cast and characters"],
+    "premise": "FBI investigator Olivia Dunham works with scientist Walter Bishop and his son Peter on unexplained scientific phenomena.",
+    "plot": "Their cases lead to a conflict between parallel worlds. Peter is originally from the other universe: Walter brought him across after his own son died. Olivia gained unusual abilities from childhood experiments involving Cortexiphan. Peter's biological father, the alternate Walter, directs defense in the other world. Shapeshifters infiltrate the prime world. Later developments alter the timeline and bring the team into conflict with the Observers.",
+    "identity_evidence": "Sampled sentences name Peter Bishop, Walter, Walternate, Olivia and Cortexiphan; source identifies these characters and mythology.", "scope": "series overview; individual episode events largely omitted"
+  },
+  "Sherlock": {
+    "canonical_title": "Sherlock (2010 TV series)", "split": "train", "source_url": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)", "source_sections": ["Premise"],
+    "premise": "Sherlock Holmes solves crimes in contemporary London with John Watson, a doctor returning from military service.",
+    "plot": "Inspector Lestrade comes to value Holmes's investigative abilities. Watson publicizes their cases through his blog, bringing Holmes unwanted attention. Holmes is consulted by private clients and government officials. His recurring conflict with criminal strategist Jim Moriarty connects otherwise separate investigations.",
+    "identity_evidence": "Sampled rows mention Sherlock, DI Lestrade, Mycroft and the episode A Scandal in Belgravia.", "scope": "premise-level overview; insufficient case resolutions"
+  },
+  "Firefly": {
+    "canonical_title": "Firefly (2002 TV series)", "split": "train", "source_url": "https://en.wikipedia.org/wiki/Firefly_(TV_series)", "source_sections": ["Premise", "Backstory"],
+    "premise": "Malcolm Reynolds and his crew travel on the spaceship Serenity, taking transport and smuggling jobs beyond the central Alliance worlds.",
+    "plot": "Mal and Zoe fought on the losing side of the Unification War. Simon boards with his sister River, whom he rescued from Alliance experiments. They are fugitives. River has telepathic abilities and gradually becomes accepted by the crew. The outer worlds include dangerous Reavers. This context concerns the television series, not the later Serenity film or comics.",
+    "identity_evidence": "Sampled rows name Mal, Kaylee, Inara, River and the Alliance; some also reference film or expanded-universe events.", "scope": "television series only; film/comic references require separate context"
+  },
+  "PersonOfInterest": {
+    "canonical_title": "Person of Interest (2011 TV series)", "split": "train", "source_url": "https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)", "source_sections": ["Plot"],
+    "premise": "Harold Finch recruits former operative John Reese to prevent crimes identified by a surveillance system called the Machine.",
+    "plot": "The Machine gives them identification numbers without explaining whether the person is a victim or perpetrator. Detectives Carter and Fusco become allies. The Machine develops sentience, and Shaw joins the team. Carter exposes the corrupt police organization HR but is killed by one of its members. A rival artificial intelligence, Samaritan, forces the team into hiding and seeks to destroy the Machine.",
+    "identity_evidence": "Sampled sentences name Reese, Finch, Carter and Elias and refer to the Machine and episodes Witness and Number Crunch.", "scope": "series overview; many individual cases omitted"
+  },
+  "Homeland": {
+    "canonical_title": "Homeland (2011 TV series)", "split": "validation", "source_url": "https://en.wikipedia.org/wiki/Homeland_(TV_series)", "source_sections": ["Introduction"],
+    "premise": "CIA officer Carrie Mathison suspects that returning American serviceman Nicholas Brody was recruited by al-Qaeda during captivity.",
+    "plot": "Carrie's investigation of Brody provides the initial storyline. Her covert intelligence work and bipolar disorder are recurring parts of the series. This introductory context does not establish the outcomes of Brody's suspected plots or the resolutions of later operations.",
+    "identity_evidence": "Sampled rows name Carrie and Brody and discuss CIA investigations.", "scope": "premise only; not an adequate full plot synopsis"
+  },
+  "Nikita": {
+    "canonical_title": "Nikita (2010 TV series)", "split": "validation", "source_url": "https://en.wikipedia.org/wiki/Nikita_(TV_series)", "source_sections": ["Plot"],
+    "premise": "Nikita escapes Division, a covert organization that recruits vulnerable people and trains them as operatives, then returns to dismantle it.",
+    "plot": "Division has become a rogue organization under Percy. He keeps records of its crimes in hidden black boxes as protection against Oversight. Division fakes recruits' deaths and uses tracking and kill chips to control them. Nikita breaks away after Division murders her civilian fiancé. Percy assigns Michael, who trained Nikita, to confront her. This is the 2010 television adaptation rather than the original film or earlier television adaptation.",
+    "identity_evidence": "Sampled rows mention Percy, Amanda, Michael, Alex, Division and kill chips, identifying this adaptation.", "scope": "early-series overview; later episode and identity reveals omitted"
+  },
+  "LifeOnMars2006": {
+    "canonical_title": "Life on Mars (2006 British TV series)", "split": "validation", "source_url": "https://en.wikipedia.org/wiki/Life_on_Mars_(British_TV_series)", "source_sections": ["Themes and storyline"],
+    "premise": "Modern Manchester detective Sam Tyler has an accident and finds himself policing in 1973 alongside Gene Hunt.",
+    "plot": "Sam is unsure whether he has travelled through time, is hallucinating, or is in a coma. Voices and images from the present intrude into his experiences. He encounters younger versions of people from his own life. At the ending, he returns to the modern world but feels detached from it and leaps from a rooftop, apparently returning to his colleagues in 1973. Interpretations of this ending differ. This context does not describe the American remake or the sequel Ashes to Ashes.",
+    "identity_evidence": "The page includes the 2006 year suffix and sampled rows name Sam and Gene; explicit American-remake references are flagged separately.", "scope": "British series overview; episode-specific crimes omitted"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tv-sentence-epoch1.zip": {
+    "bytes": 459760486,
+    "sha256": "472e47cf3c307c3494c319329bd7d08279b6d7048dbba5378e0cf3147fee6326"
+  },
+  "tv-context-epoch1.zip": {
+    "bytes": 459792921,
+    "sha256": "cc43127b2ade82be35bda808ce385e46c209c6c7b2dcb9bb9674dcd224e432b9"
+  }
+}

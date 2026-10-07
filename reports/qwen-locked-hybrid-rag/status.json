@@ -1,0 +1,11 @@
+{
+  "complete": false,
+  "reason": "Paused at explicit user request; resume only when user asks.",
+  "api_requests_this_invocation": 9,
+  "predictions": {
+    "rag": 8
+  },
+  "paused": true,
+  "previous_stop_reason": "HTTP 429; saved answers retained; bounded short retries exhausted or unavailable; no paid fallback",
+  "paused_at_utc": "2026-10-07T03:29:57.913068+00:00"
+}

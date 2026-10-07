@@ -1,0 +1,13 @@
+# Gemini supplied-context development diagnostic
+
+October 6: resumed from four saved predictions in each arm. Same model, prompt, inputs, and pinned google-genai 2.12.1. Existing caches are preserved; launcher includes local backups for an empty runtime. Rebuild using scripts/build_gemini_context_colab.py. Colab cell dnnZZsTSuKRM contains the launcher.
+
+The authenticated spoilerDetect Free-tier dashboard lists Gemini 3.8 Flash at 5 requests/minute, 250,000 tokens/minute, 20 requests/day. The last-28-days view showed peak daily usage 13/20; this is not a reliable current-day remainder. Full experiment requires 301 distinct generations, so one-day completion is impossible at this quota.
+
+Retry policy: wait 30 seconds after completion before the next new request. Retry only HTTP 503, with 60/120-second waits plus up to 10% jitter, then a 10-minute cooldown plus jitter and one final probe. Four attempts maximum per item; five API attempts total for this invocation, including failed attempts. Quota/authentication errors stop immediately. Save every completed answer and stop cleanly at request budget. No purchases, billing changes, model fallbacks, or automatic next batch. Key remains in Colab Secrets; never inspect its value.
+
+207 AI-reviewed development excerpts: 94 have supplied premise/plot summaries and 113 reuse title-only predictions where context is absent. Both arms interleave. RoBERTa baseline reuses matching input hashes. This is supplied-context inference, not retrieval or fine tuning. Real-content and 60 plot-challenge cases must be reported separately; annotations and summaries are not human gold, and real content has only five labeled spoilers.
+
+Monitor progress quietly and notify on completed comparison or capped/error stop. Download Gemini JSONs and ZIP when stopped. IMPORTANT: save remote status.json locally as run-status.json, since macOS STATUS.json and status.json collide. Keep STATUS.json for durable project state. Current batch began successfully: title arm reached 5/207, context backup 4/207. Previous failures were HTTP 503, not quota errors. Local mocked tests verify pacing, bounded retry/cooldown, quota stop, five-attempt cap, blind inputs, full 301-request plan, and cache resume.
+
+User stopped Gemini October 6. Monitor paused; do not resume. Retry accidentally executed older concatenated cell code; interrupted after two additional title answers and two 503 failures. Clean updated cell replaced the old content but was NOT executed. Local backups remain four answers per arm. Further title answers exist in runtime checkpoint; retrieve later without inference if needed.

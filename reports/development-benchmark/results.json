@@ -1,0 +1,118 @@
+{
+  "purpose": "Synthetic development challenge agreement, NOT production accuracy or human-reviewed validation",
+  "threshold": 0.21579217910766602,
+  "threshold_fitted": false,
+  "input_policy": "Text only; context is annotation metadata, not model input",
+  "max_length": 512,
+  "truncation_side": "right",
+  "device": "cpu",
+  "batch_size": 4,
+  "threads": 2,
+  "checkpoint": "models/minilm-full/checkpoint.pt",
+  "completed_epochs": 2,
+  "checkpoint_sha256": "5c71c393e1b9ff485dc1b661087933e56d9639b4551ed3c4446198ea3bbea448",
+  "examples_sha256": "20faeb00cf172ebeabce44857b604a23271439f05a2c348c90f2c034da5eca7a",
+  "torch_version": "2.14.0",
+  "transformers_version": "4.57.6",
+  "examples": 64,
+  "unambiguous": 52,
+  "ambiguous_excluded": 12,
+  "human_reviewed": 0,
+  "truncated": 12,
+  "invariant_checks": "passed",
+  "synthetic_label_agreement": {
+    "all": {
+      "n": 52,
+      "tp": 10,
+      "fp": 3,
+      "fn": 10,
+      "tn": 29,
+      "precision": 0.7692307692307693,
+      "recall": 0.5,
+      "f1": 0.6060606060606061
+    },
+    "headline": {
+      "n": 12,
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571428571428571
+    },
+    "comment": {
+      "n": 12,
+      "tp": 3,
+      "fp": 3,
+      "fn": 1,
+      "tn": 5,
+      "precision": 0.5,
+      "recall": 0.75,
+      "f1": 0.6
+    },
+    "review": {
+      "n": 16,
+      "tp": 1,
+      "fp": 0,
+      "fn": 7,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.125,
+      "f1": 0.2222222222222222
+    },
+    "youtube_transcript": {
+      "n": 12,
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "tn": 8,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571428571428571
+    }
+  },
+  "truncation_diagnostics": [
+    {
+      "work_id": "glass_harbor",
+      "early_score": 0.13322025537490845,
+      "late_score": 0.11012193560600281,
+      "control_score": 0.11012193560600281,
+      "late_control_identical_visible_input": true
+    },
+    {
+      "work_id": "last_orchard",
+      "early_score": 0.16589167714118958,
+      "late_score": 0.13089540600776672,
+      "control_score": 0.13089540600776672,
+      "late_control_identical_visible_input": true
+    },
+    {
+      "work_id": "paper_moon",
+      "early_score": 0.16584359109401703,
+      "late_score": 0.12809640169143677,
+      "control_score": 0.12809640169143677,
+      "late_control_identical_visible_input": true
+    },
+    {
+      "work_id": "winter_score",
+      "early_score": 0.25734490156173706,
+      "late_score": 0.1484842151403427,
+      "control_score": 0.1484842151403427,
+      "late_control_identical_visible_input": true
+    }
+  ],
+  "elapsed_seconds": 1.2066586669534445,
+  "label_source": "proposed_label only; annotation.human_label is intentionally ignored",
+  "label_mapping": {
+    "0": "safe",
+    "1": "spoiler"
+  },
+  "tokenizer": "models/base",
+  "base_file_sha256": {
+    "config.json": "235fcbb1b55045e08e0e061994023b71089e101d906074f0fd88a1ee8081226e",
+    "vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3",
+    "tokenizer_config.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "special_tokens_map.json": "303df45a03609e4ead04bc3dc1536d0ab19b5358db685b6f3da123d05ec200e3"
+  }
+}

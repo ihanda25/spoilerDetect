@@ -1,0 +1,305 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Synthetic development benchmark example",
+  "type": "object",
+  "required": [
+    "id",
+    "surface",
+    "text",
+    "work_id",
+    "work_title",
+    "context",
+    "provenance",
+    "proposed_label",
+    "annotation_rationale",
+    "challenge",
+    "annotation"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "work_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "work_title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "annotation_rationale": {
+      "type": "string",
+      "minLength": 1
+    },
+    "challenge": {
+      "type": "string",
+      "minLength": 1
+    },
+    "surface": {
+      "enum": [
+        "headline",
+        "comment",
+        "review",
+        "youtube_transcript"
+      ]
+    },
+    "context": {
+      "type": "object",
+      "required": [
+        "public_premise",
+        "private_story_fact",
+        "viewer_progress"
+      ],
+      "properties": {
+        "public_premise": {
+          "type": "string",
+          "minLength": 1
+        },
+        "private_story_fact": {
+          "type": "string",
+          "minLength": 1
+        },
+        "viewer_progress": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "kind",
+        "source_split",
+        "author",
+        "created_date"
+      ],
+      "properties": {
+        "kind": {
+          "const": "assistant_authored_synthetic"
+        },
+        "source_split": {
+          "const": "synthetic_development"
+        },
+        "author": {
+          "type": "string",
+          "minLength": 1
+        },
+        "created_date": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "proposed_label": {
+      "enum": [
+        null,
+        0,
+        1
+      ]
+    },
+    "annotation": {
+      "type": "object",
+      "required": [
+        "status",
+        "human_label",
+        "reviewer_id",
+        "reviewed_at",
+        "rationale",
+        "adjudicator_id"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "pending_human_review",
+            "human_reviewed",
+            "adjudicated"
+          ]
+        },
+        "human_label": {
+          "enum": [
+            null,
+            "spoiler",
+            "safe",
+            "uncertain"
+          ]
+        },
+        "reviewer_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reviewed_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "rationale": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "adjudicator_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "triggering_quote": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "pending_human_review"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "human_label": {
+                "type": "null"
+              },
+              "reviewer_id": {
+                "type": "null"
+              },
+              "reviewed_at": {
+                "type": "null"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "enum": [
+                  "human_reviewed",
+                  "adjudicated"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "triggering_quote"
+            ],
+            "properties": {
+              "human_label": {
+                "enum": [
+                  "spoiler",
+                  "safe",
+                  "uncertain"
+                ]
+              },
+              "reviewer_id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reviewed_at": {
+                "type": "string",
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}T.*Z$"
+              },
+              "rationale": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "adjudicated"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "adjudicator_id": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "human_label": {
+                "const": "spoiler"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "triggering_quote"
+            ],
+            "properties": {
+              "triggering_quote": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "diagnostic_pair_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "video_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "timestamp": {
+      "type": "object",
+      "required": [
+        "start_seconds",
+        "end_seconds"
+      ],
+      "properties": {
+        "start_seconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "end_seconds": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "surface": {
+            "const": "youtube_transcript"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "timestamp",
+          "video_id"
+        ]
+      }
+    }
+  ]
+}

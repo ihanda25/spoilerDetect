@@ -1,0 +1,9 @@
+{
+  "pid": 7625,
+  "model": "qwen/qwen3.8-27b",
+  "account_plan": "Free, user confirmed",
+  "pacing": "adaptive with 50% headroom",
+  "arms": [
+    "alone"
+  ]
+}

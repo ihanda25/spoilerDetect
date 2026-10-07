@@ -1,0 +1,7 @@
+{
+  "pid": 4949,
+  "log": "reports/qwen-rag/run.log",
+  "model": "qwen/qwen3.8-27b",
+  "account_plan": "Free, confirmed by user",
+  "purchases": false
+}

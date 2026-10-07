@@ -1,0 +1,11 @@
+{
+  "complete": false,
+  "reason": "HTTP 400 json_validate_failed; identical retry reproduced error",
+  "api_requests_this_invocation": 137,
+  "predictions": {
+    "alone": 79,
+    "rag": 78
+  },
+  "paired_completed": 78,
+  "real_content_slice_complete": true
+}

@@ -6,3 +6,11 @@ data/full/
 *.part
 models/
 .cache/
+.env
+.env.*
+!.env.example
+data/roberta-imdb-evaluation/
+
+# Local browser captures may contain account details.
+reports/**/*.png
+reports/**/*.jpg

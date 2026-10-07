@@ -1,0 +1,422 @@
+[
+  {
+    "id": "tvtropes:validation:599",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:547",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:546",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:334",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:314",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:402",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:371",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:577",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:565",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "UNCERTAIN"
+  },
+  {
+    "id": "tvtropes:validation:315",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:655",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:604",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:560",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:319",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:556",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:651",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:395",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:591",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:397",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:627",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:634",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:399",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:396",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:652",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:390",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:369",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:601",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:389",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:640",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:332",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:603",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:316",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:328",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 1,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:586",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:380",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:545",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:638",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:365",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:593",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:632",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:645",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:568",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:337",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:401",
+    "original_valid": false,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:338",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:562",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:387",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:594",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:321",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:570",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:342",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:569",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:307",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:377",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "UNCERTAIN"
+  },
+  {
+    "id": "tvtropes:validation:372",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:590",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:578",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:392",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SAFE"
+  },
+  {
+    "id": "tvtropes:validation:324",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  },
+  {
+    "id": "tvtropes:validation:370",
+    "original_valid": true,
+    "normalized_valid": true,
+    "original_label": 0,
+    "prediction": "SPOILER"
+  }
+]

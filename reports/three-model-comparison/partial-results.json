@@ -1,0 +1,80 @@
+{
+  "status": "partial; LLM interrupted and runtime deleted at user request",
+  "recorded_at": "2026-10-05T18:11:02.484854+00:00",
+  "source": "Colab visible output",
+  "split": "dev",
+  "warning": "Exploratory agreement, not validated accuracy; incomplete review metadata and unverified groups. No thresholds fitted.",
+  "human": {
+    "binary_labels": 15,
+    "positives": 6,
+    "negatives": 9,
+    "uncertain": 6
+  },
+  "ai": {
+    "binary_labels": 114,
+    "positives": 2,
+    "negatives": 112,
+    "uncertain": 12
+  },
+  "models": {
+    "minilm": {
+      "human": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 6,
+        "tn": 9,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "accuracy": 0.6
+      },
+      "ai": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 2,
+        "tn": 112,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "accuracy": 0.9824561403508771
+      },
+      "inference_seconds": 2.318108692000294
+    },
+    "roberta": {
+      "human": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 6,
+        "tn": 9,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "accuracy": 0.6
+      },
+      "ai": {
+        "tp": 2,
+        "fp": 2,
+        "fn": 0,
+        "tn": 110,
+        "precision": 0.5,
+        "recall": 1,
+        "f1": 0.6666666666666666,
+        "accuracy": 0.9824561403508771
+      },
+      "inference_seconds": 1.4808966149993807
+    },
+    "llm": {
+      "status": "on hold at user request; resume only on explicit request"
+    }
+  },
+  "billing": {
+    "new_purchases": false,
+    "paid_api_calls": false,
+    "existing_colab_pro_detected": true,
+    "observed_compute_units": 398.99,
+    "observed_rate_per_hour_across_sessions": 2.14,
+    "other_session_not_modified": true,
+    "exact_units_consumed_by_this_run": "not established",
+    "current_runtime": "deleted; disconnected verified"
+  }
+}

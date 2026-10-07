@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-06",
+  "imdb_metadata_movies": 1572,
+  "context_fields": {
+    "plot_summary": {
+      "nonempty_movies": 1572,
+      "word_percentiles": {
+        "50": 96.0,
+        "90": 171.0,
+        "100": 198.0
+      }
+    },
+    "plot_synopsis": {
+      "nonempty_movies": 1339,
+      "word_percentiles": {
+        "50": 1260.0,
+        "90": 3386.8,
+        "100": 11396.0
+      }
+    }
+  },
+  "raw_imdb": {
+    "reviews": 573913,
+    "spoilers": 150924,
+    "reviews_with_plot_summary": 573906,
+    "reviews_with_plot_synopsis": 538828
+  },
+  "missing_metadata_ids": {
+    "tt0104014": 5,
+    "tt0114142": 2
+  },
+  "prepared_movie_disjoint_splits": {
+    "train": {
+      "reviews": 444644,
+      "spoilers": 116785,
+      "movies": 1244,
+      "plot_summary": {
+        "movies": 1242,
+        "reviews": 444637,
+        "spoilers": 116785
+      },
+      "plot_synopsis": {
+        "movies": 1069,
+        "reviews": 419336,
+        "spoilers": 111240
+      }
+    },
+    "validation": {
+      "reviews": 63836,
+      "spoilers": 17358,
+      "movies": 164,
+      "plot_summary": {
+        "movies": 164,
+        "reviews": 63836,
+        "spoilers": 17358
+      },
+      "plot_synopsis": {
+        "movies": 138,
+        "reviews": 59793,
+        "spoilers": 16425
+      }
+    },
+    "test": {
+      "reviews": 64405,
+      "spoilers": 16583,
+      "movies": 164,
+      "plot_summary": {
+        "movies": 164,
+        "reviews": 64405,
+        "spoilers": 16583
+      },
+      "plot_synopsis": {
+        "movies": 132,
+        "reviews": 58703,
+        "spoilers": 15254
+      }
+    }
+  },
+  "movie_overlap": {
+    "train_validation": 0,
+    "train_test": 0,
+    "validation_test": 0
+  },
+  "sentence_supervision_tvtropes": {
+    "train": {
+      "rows": 11970,
+      "spoilers": 6288,
+      "work_pages": 679,
+      "has_plot_field": false
+    },
+    "validation": {
+      "rows": 1066,
+      "spoilers": 570,
+      "work_pages": 71,
+      "has_plot_field": false
+    },
+    "test": {
+      "rows": 1477,
+      "spoilers": 777,
+      "work_pages": 62,
+      "has_plot_field": false
+    },
+    "reserved_dev2": {
+      "rows": 1748,
+      "spoilers": 938,
+      "work_pages": 72
+    }
+  },
+  "paired_sentence_context_ready": 0,
+  "paired_sentence_context_ready_note": "No existing joined sentence/plot training corpus. TV Tropes work-page mapping to context must be built and audited; IMDb labels are review-level.",
+  "existing_diagnostic_context": {
+    "contexts_sha256": "2552744337e7b9eef02f5119bdbcb1323fae1c62680d6e4f05b661f6c2d8b505",
+    "works": 23,
+    "covered_examples": 94,
+    "total_examples": 207,
+    "method": "Assistant work-level paraphrases of sourced setup and narrative progression. No candidate-specific context selection. Frozen before predictions.",
+    "limitation": "Assistant-authored premise boundaries; selected Wikipedia plot challenge and supplied summaries share sources. This is not retrieval or production validation.",
+    "coverage_by_slice": {
+      "real_content_dev": 34,
+      "source_plot_challenge": 60
+    }
+  },
+  "training_started": false
+}

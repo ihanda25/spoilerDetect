@@ -1,0 +1,125 @@
+{
+  "real-b2194d26d6bea8bf": {
+    "label": 0,
+    "review_rationale": "The broadcaster's public synopsis and the 2026 trailer description explicitly make breaking up upon moving in the starting setup. The excerpt describes that premise, not a later outcome.",
+    "revealing_quote": null,
+    "relevance": "premise_or_style",
+    "missing_context": null,
+    "evidence": [
+      {
+        "url": "https://www.channel4.com/programmes/break-clause",
+        "title": "Watch Break Clause | Channel 4",
+        "verified_on": "2026-10-05",
+        "note": "Broadcaster page identifies breakup and shared tenancy as premise of original Comedy Blap; use with current-series trailer evidence."
+      },
+      {
+        "url": "https://rts.org.uk/article/lara-ricote-and-samuel-bottomley-star-trailer-channel-4-sitcom-break-clause",
+        "title": "Lara Ricote and Samuel Bottomley star in trailer for Channel 4 sitcom Break Clause",
+        "verified_on": "2026-10-05",
+        "note": "2026 series trailer description also establishes the broken-up couple's tenancy as setup."
+      }
+    ],
+    "reviewed_at": "2026-10-05T23:01:22.955008+00:00"
+  },
+  "real-bf4a5e2bad17538b": {
+    "label": 0,
+    "review_rationale": "Searching for the dragon Scales is the film's publicly described central quest. This opening dialogue identifies the search subject without revealing the late identity/fate twist.",
+    "revealing_quote": null,
+    "relevance": "premise_or_style",
+    "missing_context": null,
+    "evidence": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sintel",
+        "title": "Sintel",
+        "verified_on": "2026-10-05",
+        "note": "Lead describes tracking down pet dragon Scales as the plot premise; this is secondary synopsis evidence."
+      },
+      {
+        "url": "https://commons.wikimedia.org/w/index.php?title=TimedText:Sintel_movie_4K.webm.en.srt&oldid=175198974",
+        "title": "Sintel English timed text",
+        "verified_on": "2026-10-05",
+        "note": "Dialogue appears in opening exchange at 02:18\u201302:25; exact candidate text unchanged."
+      }
+    ],
+    "reviewed_at": "2026-10-05T23:01:22.955008+00:00"
+  },
+  "real-501b0421ca5055b1": {
+    "label": 1,
+    "review_rationale": "The shaman reveals that Sintel has reached dragon lands and is near her search target, a concrete later quest-progress revelation beyond simply searching for a dragon. This is a minor plot spoiler rather than the film's major twist.",
+    "revealing_quote": "These are dragon lands, Sintel. You are closer than you know.",
+    "relevance": "story",
+    "spoiler_type": "minor_quest_progress",
+    "missing_context": null,
+    "evidence": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sintel",
+        "title": "Sintel",
+        "verified_on": "2026-10-05",
+        "note": "Synopsis places the shaman's location revelation after the dragon's capture and Sintel's journey."
+      },
+      {
+        "url": "https://commons.wikimedia.org/w/index.php?title=TimedText:Sintel_movie_4K.webm.en.srt&oldid=175198974",
+        "title": "Sintel English timed text",
+        "verified_on": "2026-10-05",
+        "note": "Candidate's location/proximity dialogue is present at 07:25\u201307:44."
+      }
+    ],
+    "reviewed_at": "2026-10-05T23:01:22.955008+00:00"
+  },
+  "real-c4f44935a070ac06": {
+    "label": 0,
+    "review_rationale": "The supplied work metadata identifies Sintel. Calling the traveler a lone hunter and expressing long-standing loneliness reveals no specific later event, outcome, or hidden identity. The agent\u2019s claim that the work was unidentified was incorrect.",
+    "revealing_quote": null,
+    "relevance": "dialogue",
+    "missing_context": null,
+    "reviewed_at": "2026-10-05T23:02:53.457536+00:00",
+    "evidence": [
+      {
+        "url": "https://commons.wikimedia.org/w/index.php?title=TimedText:Sintel_movie_4K.webm.en.srt&oldid=175198974",
+        "title": "Sintel English timed text",
+        "verified_on": "2026-10-05",
+        "note": "Opening exchange at 02:28\u201302:35; candidate metadata already identifies Sintel."
+      }
+    ]
+  },
+  "real-c4f4a4c145b15b19": {
+    "label": null,
+    "review_rationale": "The drilling-caused global crisis is a concrete event; the agent treated it as setup without verifying a public premise. Retain uncertainty about the premise boundary.",
+    "revealing_quote": null,
+    "relevance": "story",
+    "missing_context": "Verify whether the drilling-caused crisis is public premise or a later causal revelation.",
+    "reviewed_at": "2026-10-05T23:02:53.457618+00:00",
+    "evidence": []
+  },
+  "real-82df1b329c7ea977": {
+    "label": null,
+    "review_rationale": "The word failed gives a conference outcome. The agent called this setup without source verification; whether that outcome is the public premise remains unresolved.",
+    "revealing_quote": null,
+    "relevance": "story",
+    "missing_context": "Verify whether the conference failure is disclosed by the public synopsis or is a later outcome.",
+    "reviewed_at": "2026-10-05T23:02:53.457620+00:00",
+    "evidence": []
+  },
+  "real-983e5b0afb0015f8": {
+    "label": 0,
+    "review_rationale": "Public series descriptions present the possibility of shared parentage as the central question. The excerpt states only that possibility; it does not reveal whether they are related.",
+    "revealing_quote": null,
+    "relevance": "premise_or_style",
+    "missing_context": null,
+    "reviewed_at": "2026-10-05T23:03:56.488959+00:00",
+    "evidence": [
+      {
+        "url": "https://www.upi.com/Entertainment_News/TV/2026/09/23/lee-eisenberg-matthew-mcconaughey-woody-harrelson-brothers-interview/4461790123222/",
+        "title": "Brothers showrunner interview",
+        "verified_on": "2026-10-05",
+        "note": "Showrunner coverage identifies the series as based on the public rumor; does not confirm paternity."
+      },
+      {
+        "url": "https://www.vanityfair.com/story/matthew-mcconaughey-and-woody-harrelson-really-are-brothers",
+        "title": "First Look: What If Matthew McConaughey and Woody Harrelson Really Are Brothers?",
+        "verified_on": "2026-10-05",
+        "note": "Pre-release first look identifies possible half-brother relationship as inspiration for the comedy."
+      }
+    ]
+  }
+}

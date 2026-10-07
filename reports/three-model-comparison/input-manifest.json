@@ -1,0 +1,11 @@
+{
+  "dev_rows": 147,
+  "test_rows_excluded": 98,
+  "checkpoint_completed_epochs": 2,
+  "package_sha256": "179aed30de3c97fc4e4f8a339471bfc74fdf871f6fe36df4035e4d76a635bb6a",
+  "bytes": 122950846,
+  "annotation_counts": {
+    "human": 21,
+    "ai": 126
+  }
+}

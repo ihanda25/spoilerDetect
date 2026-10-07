@@ -1,0 +1,17 @@
+# Exploratory TV fine-tuning — October 6, 2026
+
+User authorized trying fine-tuning on current TV data. Run one epoch per arm on the existing Colab T4, using existing compute units and no purchases. Never fall back to local CPU/MPS training. No automatic second epoch.
+
+Use all 942 mapped candidate pairs, rather than the balanced 260-row preparation sample: 744 training sentences from Fringe, Sherlock, Firefly and Person of Interest; 198 validation sentences from Homeland, Nikita and Life on Mars (2006). Original TV Tropes labels: train 581 spoilers / 163 safe; validation 168 spoilers / 30 safe. Full TV Tropes training split is 11,970 sentences; context mapping currently covers only these seven works. Goodreads is not used.
+
+Two arms start from the identical pinned existing spoiler checkpoint, Zritze/imdb-spoiler-robertaOrigDatasetLR1 at 56fee120f8495ccfc5001e3fbd1478656d17001a. Sentence arm uses the same up-to-256-token sentence component as the context arm. Context arm uses frozen sentence+background+episode pairs up to 512 tokens. Model initialization and data order use seed 42. All model parameters are adapted; keep the original baseline unchanged.
+
+Hyperparameters: one epoch, AdamW learning rate 2e-5, batch 8, accumulation 2 (effective batch 16), weight decay .01, 10% warmup, fp16. Inverse-frequency class weights derive solely from training labels. Checkpoints every 25 optimizer steps retain optimizer/scheduler/RNG state for runtime resume; final model/tokenizer exported per arm. Expected 47 optimizer steps per arm. Time estimate depends on measured GPU throughput; no multi-hour full-corpus run is authorized.
+
+Evaluate each arm before and after adaptation on the same validation shows. Fixed cutoff .5; report precision, recall, spoiler F1, false-positive rate, balanced accuracy, MCC, average precision, weighted loss, and per-show metrics. Include an always-spoiler baseline because 84.8% of validation labels are positive. No threshold selection, test evaluation or held-out-test claims. Validation shows have already been explored during context preparation, so these are exploratory development results.
+
+Known limitations: markup-derived labels, fragments/cross-work references, incomplete context grounding, only seven shows, one seed and one epoch. User authorization permits this bounded exploratory experiment; preparation records retain training_allowed=false and human_verified=false. The launcher requires --allow-exploratory-corpus-labels and an explicit experiment manifest; it does not claim that review is complete. Previous spot-check exclusions are not applied based on labels or observed validation outcomes.
+
+Reproduce: python scripts/build_tv_training_colab.py generates ignored data/processed/tv-training-experiment/tv-training-inputs.zip and notebooks/Spoiler_TV_Roberta_Pilot.ipynb. Upload ZIP through Colab Files. Saved launcher: launch.py. Do not Run all in the old multi-model notebook; it contains unrelated historical inference/API cells. Only run the newly added TV cell.
+
+Save tv-training-results.zip and both tv-{sentence,context}-epoch1.zip archives locally before deleting the runtime. Colab /content files are temporary; checkpointing there alone does not survive runtime deletion. Final model archives do not contain optimizer state; future additional-epoch experiments must document whether optimizer state is restored or restarted. No credentials or Gemini requests are used.

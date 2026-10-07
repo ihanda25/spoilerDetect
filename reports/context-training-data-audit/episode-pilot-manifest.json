@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-06",
+  "status": "episode_context_added_pending_quality_review",
+  "training_started": false,
+  "training_ready": false,
+  "retrieval": "Within-work BM25 over episode-plot chunks, explicit quoted episode titles take priority; top 2 passages plus up to 96 series-background tokens; labels excluded from query/scoring",
+  "max_length": 512,
+  "max_sentence_tokens": 256,
+  "max_series_background_tokens": 96,
+  "special_pair_tokens": 4,
+  "episodes": 416,
+  "chunks": 795,
+  "candidate_rows": 942,
+  "candidate_with_episode_context": 932,
+  "pilot_rows": 260,
+  "pilot_with_episode_context": 258,
+  "pilot_selection_methods": {
+    "explicit_episode_title": 50,
+    "within_work_bm25_candidate": 210
+  },
+  "pilot_max_encoded_length": 496,
+  "pilot_sentence_truncations": 0,
+  "pilot_context_truncations": 0,
+  "frozen_labels_and_ids_preserved": true,
+  "train_validation_work_and_source_disjoint": true,
+  "episode_corpus_sha256": "26e8fceae8fcd7e290850d9be32e265bc53e493cc5686a82cf34d0cb78ea8b73",
+  "output_hashes": {
+    "train.jsonl": "6eb16f50fcd23517a16890553ad6be387e3662563a01c93b1a2fe4af50f87445",
+    "validation.jsonl": "efd559fcfcaf83a45226593d3ab3e1dc9780a0385324bf9ae63dbfcd05861e90",
+    "candidate-pairs.jsonl": "4f5cb14dced32badd088a385e4c53ab1889abfc152b1e54902efa712ba8b38a7",
+    "quality-review.jsonl": "2ea78290ffbfe1140640c6cba9f1481de616886f158c1d81e50463c2751fd922"
+  },
+  "limitations": [
+    "Lexical match is not proof of correct event or episode",
+    "Original markup labels and fragmented sentences require review",
+    "Some rows discuss films/remakes/comics not in episode corpus",
+    "All seasons indexed; not personalized to viewer progress",
+    "Pilot was selected after dataset exploration; development only",
+    "Source rights/caveats from prior audit still apply",
+    "No claim of production readiness"
+  ]
+}

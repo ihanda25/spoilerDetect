@@ -1,0 +1,57 @@
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at /Users/ishaanhanda/Desktop/Projects/spoilerDetect/models/base and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Selected test: 0/64405
+Selected test: 3200/64405
+Selected test: 6400/64405
+Selected test: 9600/64405
+Selected test: 12800/64405
+Selected test: 16000/64405
+Selected test: 19200/64405
+Selected test: 22400/64405
+Selected test: 25600/64405
+Selected test: 28800/64405
+Selected test: 32000/64405
+Selected test: 35200/64405
+Selected test: 38400/64405
+Selected test: 41600/64405
+Selected test: 44800/64405
+Selected test: 48000/64405
+Selected test: 51200/64405
+Selected test: 54400/64405
+Selected test: 57600/64405
+Selected test: 60800/64405
+Selected test: 64000/64405
+{
+  "checkpoint": "review_epoch2",
+  "split": "test",
+  "reviews": 64405,
+  "frozen_validation_threshold": 0.21579217910766602,
+  "selected_threshold_metrics": {
+    "threshold": 0.21579217910766602,
+    "precision": 0.5330766702662096,
+    "recall": 0.6846770789362601,
+    "f1": 0.5994403674568397,
+    "false_positives": 9945,
+    "false_negatives": 5229
+  },
+  "default_threshold_metrics": {
+    "accuracy": 0.8075615247263411,
+    "precision": 0.722985201745981,
+    "recall": 0.40951576916118915,
+    "f1": 0.5228672620880813,
+    "roc_auc": 0.8211052428277991,
+    "average_precision": 0.6587659128233041,
+    "brier_score": 0.13907773872565674,
+    "confusion_matrix": [
+      [
+        45220,
+        2602
+      ],
+      [
+        9792,
+        6791
+      ]
+    ]
+  },
+  "elapsed_seconds": 385.2229950428009
+}

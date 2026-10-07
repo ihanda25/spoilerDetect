@@ -1,0 +1,63 @@
+{
+  "warning": "Development agreement with AI labels; not human gold. Abstentions count as missed positives in recall.",
+  "arms": {
+    "alone": {
+      "all": {
+        "invalid": 0,
+        "positives": 3,
+        "tp": 3,
+        "uncertain_reference": 1,
+        "pending": 90,
+        "recall": 1.0,
+        "false_positive_rate": null,
+        "coverage": 1.0
+      },
+      "real_content_dev": {
+        "invalid": 0,
+        "positives": 3,
+        "tp": 3,
+        "uncertain_reference": 1,
+        "pending": 30,
+        "recall": 1.0,
+        "false_positive_rate": null,
+        "coverage": 1.0
+      },
+      "source_plot_challenge": {
+        "pending": 60,
+        "recall": null,
+        "false_positive_rate": null,
+        "coverage": null
+      }
+    },
+    "rag": {
+      "all": {
+        "invalid": 0,
+        "positives": 3,
+        "tp": 2,
+        "uncertain_reference": 1,
+        "fn": 1,
+        "pending": 90,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": null,
+        "coverage": 1.0
+      },
+      "real_content_dev": {
+        "invalid": 0,
+        "positives": 3,
+        "tp": 2,
+        "uncertain_reference": 1,
+        "fn": 1,
+        "pending": 30,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": null,
+        "coverage": 1.0
+      },
+      "source_plot_challenge": {
+        "pending": 60,
+        "recall": null,
+        "false_positive_rate": null,
+        "coverage": null
+      }
+    }
+  }
+}

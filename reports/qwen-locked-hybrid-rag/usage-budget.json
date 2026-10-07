@@ -1,0 +1,11 @@
+{
+  "request_attempts": 9,
+  "actual_reported_tokens": 8403,
+  "budget_charged_tokens": 13217,
+  "unknown_usage_attempts": 1,
+  "events": [],
+  "prior_attempts_imported": true,
+  "max_request_attempts": 120,
+  "max_total_tokens": 100000,
+  "policy": "Cumulative across resumes. Preflight UTF-8 byte upper bound plus max completion; errors without usage charged conservatively. No paid fallback."
+}

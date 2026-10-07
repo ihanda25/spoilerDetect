@@ -1,0 +1,109 @@
+{
+  "batch_size": 16,
+  "default_threshold_metrics": {
+    "accuracy": 0.6718577750174676,
+    "average_precision": 0.6250590353832117,
+    "confusion_matrix": [
+      [
+        29706,
+        18116
+      ],
+      [
+        3018,
+        13565
+      ]
+    ],
+    "f1": 0.5621166915299188,
+    "false_negatives": 3018,
+    "false_positives": 18116,
+    "precision": 0.428174615700262,
+    "recall": 0.8180063920882832,
+    "roc_auc": 0.8111831819808039,
+    "threshold": 0.5
+  },
+  "elapsed_seconds": 3771.0087543699997,
+  "frozen_validation_threshold": 0.6522398591041565,
+  "gpu": "Tesla T4",
+  "label_counts": {
+    "0": 47822,
+    "1": 16583
+  },
+  "minilm": {
+    "checkpoint": "review_epoch2",
+    "default_threshold_metrics": {
+      "accuracy": 0.8075615247263411,
+      "average_precision": 0.6587659128233041,
+      "brier_score": 0.13907773872565674,
+      "confusion_matrix": [
+        [
+          45220,
+          2602
+        ],
+        [
+          9792,
+          6791
+        ]
+      ],
+      "f1": 0.5228672620880813,
+      "precision": 0.722985201745981,
+      "recall": 0.40951576916118915,
+      "roc_auc": 0.8211052428277991
+    },
+    "elapsed_seconds": 385.2229950428009,
+    "frozen_validation_threshold": 0.21579217910766602,
+    "reviews": 64405,
+    "selected_threshold_metrics": {
+      "f1": 0.5994403674568397,
+      "false_negatives": 5229,
+      "false_positives": 9945,
+      "precision": 0.5330766702662096,
+      "recall": 0.6846770789362601,
+      "threshold": 0.21579217910766602
+    },
+    "split": "test"
+  },
+  "model_id": "Zritze/imdb-spoiler-robertaOrigDatasetLR1",
+  "model_revision": "56fee120f8495ccfc5001e3fbd1478656d17001a",
+  "precision": "float32",
+  "rows": 64405,
+  "split": "test",
+  "split_processing_seconds": {
+    "test": 1874.625921577,
+    "validation": 1869.2635264990001
+  },
+  "test_cache_fingerprint": "e90b3b95309cfe4d1aafd0db72bc70404fd247d564cbfc982c085a4497af8f39",
+  "test_sha256": "1f7f5c4089fa73663a37a42aca11fff94b9954b252c4373eb284c5f7deac0783",
+  "torch": "2.11.0+cu130",
+  "transformers": "4.57.1",
+  "truncation_count": 10252,
+  "tuned_threshold_metrics": {
+    "accuracy": 0.7587143855290738,
+    "average_precision": 0.6250590353832117,
+    "confusion_matrix": [
+      [
+        37974,
+        9848
+      ],
+      [
+        5692,
+        10891
+      ]
+    ],
+    "f1": 0.5836236000214351,
+    "false_negatives": 5692,
+    "false_positives": 9848,
+    "precision": 0.5251458604561454,
+    "recall": 0.6567569197370802,
+    "roc_auc": 0.8111831819808039,
+    "threshold": 0.6522398591041565
+  },
+  "validation_selection": {
+    "method": "validation precision_recall_curve maximum F1; np.argmax",
+    "selected_before_test_load": true,
+    "threshold": 0.6522398591041565,
+    "validation_cache_fingerprint": "09372f6d4d47315cc606d48d25a207ffdc75a42363afc75c6760528f2d7be7ff",
+    "validation_count": 63836,
+    "validation_sha256": "e3dea28118afb1318128ab950281276357833cb9b940d886dccef2722def0034"
+  },
+  "warning": "Author-level train split provenance is unknown; potential contamination cannot be ruled out."
+}

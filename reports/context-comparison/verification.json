@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "predictions": 621,
+  "fallback_rows": 113,
+  "report_reproduced": true,
+  "files": {
+    "comparison.json": "7fab41a03f4a6bba3606a7c039485e82271da18f52464f3d54f448c8c9a94614",
+    "roberta.json": "78235948647953f0891f0ef801f906b9f449622217e40c8f0ad5ebdca2cce8ed",
+    "llm_title.json": "e545283843d793c1125b2a0b06c59d7b5d95ef7318b34f23c21f9ed07312b094",
+    "llm_context.json": "d1c1b5addea344b5dd8dd104f35322f0948c0e4d237a961363589af5cf4ea4d9",
+    "spoiler-context-results.zip": "5aab64da6ff95ac2da775139aa97270f504d751c07170988b197f84a67e2aa53"
+  }
+}

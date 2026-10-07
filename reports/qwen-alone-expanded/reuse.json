@@ -1,0 +1,10 @@
+{
+  "count": 79,
+  "prior_cache_sha256": "fae5d3892a7685b6561fc9a3d75910b5fec50d164ca2522ae604a954a556599b",
+  "matched_fields": [
+    "title",
+    "excerpt",
+    "public_premise"
+  ],
+  "model_and_prompt_unchanged": true
+}

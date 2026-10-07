@@ -1,0 +1,258 @@
+[
+  {
+    "review_id": "R001",
+    "example_id": "paper_moon-comment-explicit_speculation"
+  },
+  {
+    "review_id": "R002",
+    "example_id": "last_orchard-comment-explicit_speculation"
+  },
+  {
+    "review_id": "R003",
+    "example_id": "winter_score-review-early_reveal"
+  },
+  {
+    "review_id": "R004",
+    "example_id": "last_orchard-review-short_premise_review"
+  },
+  {
+    "review_id": "R005",
+    "example_id": "last_orchard-headline-explicit_reveal"
+  },
+  {
+    "review_id": "R006",
+    "example_id": "winter_score-youtube_transcript-spoken_premise"
+  },
+  {
+    "review_id": "R007",
+    "example_id": "paper_moon-review-long_craft_only"
+  },
+  {
+    "review_id": "R008",
+    "example_id": "paper_moon-youtube_transcript-spoken_premise"
+  },
+  {
+    "review_id": "R009",
+    "example_id": "glass_harbor-review-short_premise_review"
+  },
+  {
+    "review_id": "R010",
+    "example_id": "winter_score-youtube_transcript-asr_reveal"
+  },
+  {
+    "review_id": "R011",
+    "example_id": "glass_harbor-headline-insinuation"
+  },
+  {
+    "review_id": "R012",
+    "example_id": "winter_score-headline-craft_only"
+  },
+  {
+    "review_id": "R013",
+    "example_id": "winter_score-review-late_reveal"
+  },
+  {
+    "review_id": "R014",
+    "example_id": "last_orchard-youtube_transcript-spoken_premise"
+  },
+  {
+    "review_id": "R015",
+    "example_id": "glass_harbor-comment-spoiler_keyword_negative"
+  },
+  {
+    "review_id": "R016",
+    "example_id": "glass_harbor-youtube_transcript-asr_reveal"
+  },
+  {
+    "review_id": "R017",
+    "example_id": "last_orchard-review-long_craft_only"
+  },
+  {
+    "review_id": "R018",
+    "example_id": "paper_moon-comment-slang_reveal"
+  },
+  {
+    "review_id": "R019",
+    "example_id": "paper_moon-review-early_reveal"
+  },
+  {
+    "review_id": "R020",
+    "example_id": "glass_harbor-youtube_transcript-missing_antecedent"
+  },
+  {
+    "review_id": "R021",
+    "example_id": "winter_score-headline-explicit_reveal"
+  },
+  {
+    "review_id": "R022",
+    "example_id": "winter_score-headline-insinuation"
+  },
+  {
+    "review_id": "R023",
+    "example_id": "paper_moon-youtube_transcript-missing_antecedent"
+  },
+  {
+    "review_id": "R024",
+    "example_id": "glass_harbor-youtube_transcript-spoken_craft"
+  },
+  {
+    "review_id": "R025",
+    "example_id": "last_orchard-headline-insinuation"
+  },
+  {
+    "review_id": "R026",
+    "example_id": "glass_harbor-comment-slang_reveal"
+  },
+  {
+    "review_id": "R027",
+    "example_id": "paper_moon-youtube_transcript-spoken_craft"
+  },
+  {
+    "review_id": "R028",
+    "example_id": "winter_score-review-short_premise_review"
+  },
+  {
+    "review_id": "R029",
+    "example_id": "winter_score-comment-spoiler_keyword_negative"
+  },
+  {
+    "review_id": "R030",
+    "example_id": "glass_harbor-headline-craft_only"
+  },
+  {
+    "review_id": "R031",
+    "example_id": "glass_harbor-review-long_craft_only"
+  },
+  {
+    "review_id": "R032",
+    "example_id": "glass_harbor-review-early_reveal"
+  },
+  {
+    "review_id": "R033",
+    "example_id": "paper_moon-headline-insinuation"
+  },
+  {
+    "review_id": "R034",
+    "example_id": "winter_score-comment-slang_reveal"
+  },
+  {
+    "review_id": "R035",
+    "example_id": "glass_harbor-headline-public_premise"
+  },
+  {
+    "review_id": "R036",
+    "example_id": "glass_harbor-comment-sarcastic_reply"
+  },
+  {
+    "review_id": "R037",
+    "example_id": "paper_moon-headline-explicit_reveal"
+  },
+  {
+    "review_id": "R038",
+    "example_id": "winter_score-comment-explicit_speculation"
+  },
+  {
+    "review_id": "R039",
+    "example_id": "paper_moon-headline-public_premise"
+  },
+  {
+    "review_id": "R040",
+    "example_id": "last_orchard-review-early_reveal"
+  },
+  {
+    "review_id": "R041",
+    "example_id": "last_orchard-headline-craft_only"
+  },
+  {
+    "review_id": "R042",
+    "example_id": "glass_harbor-youtube_transcript-spoken_premise"
+  },
+  {
+    "review_id": "R043",
+    "example_id": "last_orchard-youtube_transcript-asr_reveal"
+  },
+  {
+    "review_id": "R044",
+    "example_id": "winter_score-youtube_transcript-spoken_craft"
+  },
+  {
+    "review_id": "R045",
+    "example_id": "glass_harbor-headline-explicit_reveal"
+  },
+  {
+    "review_id": "R046",
+    "example_id": "winter_score-headline-public_premise"
+  },
+  {
+    "review_id": "R047",
+    "example_id": "paper_moon-comment-sarcastic_reply"
+  },
+  {
+    "review_id": "R048",
+    "example_id": "paper_moon-comment-spoiler_keyword_negative"
+  },
+  {
+    "review_id": "R049",
+    "example_id": "last_orchard-youtube_transcript-spoken_craft"
+  },
+  {
+    "review_id": "R050",
+    "example_id": "last_orchard-headline-public_premise"
+  },
+  {
+    "review_id": "R051",
+    "example_id": "winter_score-youtube_transcript-missing_antecedent"
+  },
+  {
+    "review_id": "R052",
+    "example_id": "last_orchard-youtube_transcript-missing_antecedent"
+  },
+  {
+    "review_id": "R053",
+    "example_id": "paper_moon-review-late_reveal"
+  },
+  {
+    "review_id": "R054",
+    "example_id": "glass_harbor-comment-explicit_speculation"
+  },
+  {
+    "review_id": "R055",
+    "example_id": "last_orchard-comment-spoiler_keyword_negative"
+  },
+  {
+    "review_id": "R056",
+    "example_id": "paper_moon-youtube_transcript-asr_reveal"
+  },
+  {
+    "review_id": "R057",
+    "example_id": "last_orchard-review-late_reveal"
+  },
+  {
+    "review_id": "R058",
+    "example_id": "last_orchard-comment-sarcastic_reply"
+  },
+  {
+    "review_id": "R059",
+    "example_id": "paper_moon-headline-craft_only"
+  },
+  {
+    "review_id": "R060",
+    "example_id": "winter_score-review-long_craft_only"
+  },
+  {
+    "review_id": "R061",
+    "example_id": "winter_score-comment-sarcastic_reply"
+  },
+  {
+    "review_id": "R062",
+    "example_id": "glass_harbor-review-late_reveal"
+  },
+  {
+    "review_id": "R063",
+    "example_id": "paper_moon-review-short_premise_review"
+  },
+  {
+    "review_id": "R064",
+    "example_id": "last_orchard-comment-slang_reveal"
+  }
+]

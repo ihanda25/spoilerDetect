@@ -1,0 +1,602 @@
+{
+  "tvtropes:train:2913": {
+    "id": "tvtropes:train:2913",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2954": {
+    "id": "tvtropes:train:2954",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2932": {
+    "id": "tvtropes:train:2932",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2955": {
+    "id": "tvtropes:train:2955",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2924": {
+    "id": "tvtropes:train:2924",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2947": {
+    "id": "tvtropes:train:2947",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2950": {
+    "id": "tvtropes:train:2950",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2935": {
+    "id": "tvtropes:train:2935",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2943": {
+    "id": "tvtropes:train:2943",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2888": {
+    "id": "tvtropes:train:2888",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2894": {
+    "id": "tvtropes:train:2894",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2948": {
+    "id": "tvtropes:train:2948",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2945": {
+    "id": "tvtropes:train:2945",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2904": {
+    "id": "tvtropes:train:2904",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2878": {
+    "id": "tvtropes:train:2878",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2898": {
+    "id": "tvtropes:train:2898",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2881": {
+    "id": "tvtropes:train:2881",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2965": {
+    "id": "tvtropes:train:2965",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2960": {
+    "id": "tvtropes:train:2960",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2949": {
+    "id": "tvtropes:train:2949",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2958": {
+    "id": "tvtropes:train:2958",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2886": {
+    "id": "tvtropes:train:2886",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2925": {
+    "id": "tvtropes:train:2925",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2910": {
+    "id": "tvtropes:train:2910",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:2972": {
+    "id": "tvtropes:train:2972",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3492": {
+    "id": "tvtropes:train:3492",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3306": {
+    "id": "tvtropes:train:3306",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3376": {
+    "id": "tvtropes:train:3376",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3373": {
+    "id": "tvtropes:train:3373",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3367": {
+    "id": "tvtropes:train:3367",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3383": {
+    "id": "tvtropes:train:3383",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3340": {
+    "id": "tvtropes:train:3340",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3394": {
+    "id": "tvtropes:train:3394",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3379": {
+    "id": "tvtropes:train:3379",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3348": {
+    "id": "tvtropes:train:3348",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3232": {
+    "id": "tvtropes:train:3232",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3238": {
+    "id": "tvtropes:train:3238",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3445": {
+    "id": "tvtropes:train:3445",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3278": {
+    "id": "tvtropes:train:3278",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3279": {
+    "id": "tvtropes:train:3279",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3473": {
+    "id": "tvtropes:train:3473",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3254": {
+    "id": "tvtropes:train:3254",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3271": {
+    "id": "tvtropes:train:3271",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3220": {
+    "id": "tvtropes:train:3220",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3510": {
+    "id": "tvtropes:train:3510",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3337": {
+    "id": "tvtropes:train:3337",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3247": {
+    "id": "tvtropes:train:3247",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3309": {
+    "id": "tvtropes:train:3309",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3251": {
+    "id": "tvtropes:train:3251",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:3459": {
+    "id": "tvtropes:train:3459",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8594": {
+    "id": "tvtropes:train:8594",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8618": {
+    "id": "tvtropes:train:8618",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8425": {
+    "id": "tvtropes:train:8425",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8573": {
+    "id": "tvtropes:train:8573",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8520": {
+    "id": "tvtropes:train:8520",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8551": {
+    "id": "tvtropes:train:8551",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8605": {
+    "id": "tvtropes:train:8605",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8557": {
+    "id": "tvtropes:train:8557",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8429": {
+    "id": "tvtropes:train:8429",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8413": {
+    "id": "tvtropes:train:8413",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8585": {
+    "id": "tvtropes:train:8585",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8542": {
+    "id": "tvtropes:train:8542",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8521": {
+    "id": "tvtropes:train:8521",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8435": {
+    "id": "tvtropes:train:8435",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8504": {
+    "id": "tvtropes:train:8504",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8471": {
+    "id": "tvtropes:train:8471",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8453": {
+    "id": "tvtropes:train:8453",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8449": {
+    "id": "tvtropes:train:8449",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8462": {
+    "id": "tvtropes:train:8462",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8477": {
+    "id": "tvtropes:train:8477",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8563": {
+    "id": "tvtropes:train:8563",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8489": {
+    "id": "tvtropes:train:8489",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8616": {
+    "id": "tvtropes:train:8616",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8495": {
+    "id": "tvtropes:train:8495",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:8558": {
+    "id": "tvtropes:train:8558",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7281": {
+    "id": "tvtropes:train:7281",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7247": {
+    "id": "tvtropes:train:7247",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7269": {
+    "id": "tvtropes:train:7269",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7196": {
+    "id": "tvtropes:train:7196",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7216": {
+    "id": "tvtropes:train:7216",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7313": {
+    "id": "tvtropes:train:7313",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7236": {
+    "id": "tvtropes:train:7236",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7246": {
+    "id": "tvtropes:train:7246",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7253": {
+    "id": "tvtropes:train:7253",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7209": {
+    "id": "tvtropes:train:7209",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7302": {
+    "id": "tvtropes:train:7302",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7234": {
+    "id": "tvtropes:train:7234",
+    "label": 1,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7235": {
+    "id": "tvtropes:train:7235",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7273": {
+    "id": "tvtropes:train:7273",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7226": {
+    "id": "tvtropes:train:7226",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7295": {
+    "id": "tvtropes:train:7295",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7240": {
+    "id": "tvtropes:train:7240",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7194": {
+    "id": "tvtropes:train:7194",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7266": {
+    "id": "tvtropes:train:7266",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7248": {
+    "id": "tvtropes:train:7248",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7265": {
+    "id": "tvtropes:train:7265",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7227": {
+    "id": "tvtropes:train:7227",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7229": {
+    "id": "tvtropes:train:7229",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7215": {
+    "id": "tvtropes:train:7215",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  },
+  "tvtropes:train:7309": {
+    "id": "tvtropes:train:7309",
+    "label": 0,
+    "label_provenance": "original_corpus_markup",
+    "human_verified": false
+  }
+}

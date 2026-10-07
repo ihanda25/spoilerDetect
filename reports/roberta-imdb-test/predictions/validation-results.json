@@ -1,0 +1,113 @@
+{
+  "batch_size": 16,
+  "cache_fingerprint": "09372f6d4d47315cc606d48d25a207ffdc75a42363afc75c6760528f2d7be7ff",
+  "default_metrics": {
+    "accuracy": 0.6568550661068989,
+    "average_precision": 0.6214173838246599,
+    "confusion_matrix": [
+      [
+        27560,
+        18918
+      ],
+      [
+        2987,
+        14371
+      ]
+    ],
+    "f1": 0.5674965940726993,
+    "false_negatives": 2987,
+    "false_positives": 18918,
+    "precision": 0.4317041665415002,
+    "recall": 0.8279179628989515,
+    "roc_auc": 0.8017104442903509,
+    "threshold": 0.5
+  },
+  "elapsed_seconds": 1869.2635264990001,
+  "gpu": "Tesla T4",
+  "input_sha256": "e3dea28118afb1318128ab950281276357833cb9b940d886dccef2722def0034",
+  "label_counts": {
+    "0": 46478,
+    "1": 17358
+  },
+  "max_f1_threshold": 0.6522398591041565,
+  "minilm": {
+    "average_precision": 0.6603075325730856,
+    "default": {
+      "f1": 0.5336396455530029,
+      "false_negatives": 10041,
+      "false_positives": 2748,
+      "precision": 0.7269746646795827,
+      "recall": 0.4215347390252333,
+      "threshold": 0.5
+    },
+    "max_f1": {
+      "f1": 0.6034233245171915,
+      "false_negatives": 5266,
+      "false_positives": 10628,
+      "precision": 0.532218309859155,
+      "recall": 0.6966240350270768,
+      "threshold": 0.21579217910766602
+    },
+    "recall_60%": {
+      "f1": 0.5983740771595185,
+      "false_negatives": 6943,
+      "false_positives": 7038,
+      "precision": 0.5967455451784793,
+      "recall": 0.600011522064754,
+      "threshold": 0.28914427757263184
+    },
+    "recall_70%": {
+      "f1": 0.6031761786600496,
+      "false_negatives": 5204,
+      "false_positives": 10788,
+      "precision": 0.5297707261790603,
+      "recall": 0.700195875100818,
+      "threshold": 0.21342942118644714
+    },
+    "recall_80%": {
+      "f1": 0.5861472226912038,
+      "false_negatives": 3471,
+      "false_positives": 16139,
+      "precision": 0.4624991673882635,
+      "recall": 0.800034566194262,
+      "threshold": 0.1494675874710083
+    },
+    "recall_90%": {
+      "f1": 0.5423428740041311,
+      "false_negatives": 1735,
+      "false_positives": 24632,
+      "precision": 0.388100857036393,
+      "recall": 0.900046088259016,
+      "threshold": 0.09356192499399185
+    }
+  },
+  "model_id": "Zritze/imdb-spoiler-robertaOrigDatasetLR1",
+  "model_revision": "56fee120f8495ccfc5001e3fbd1478656d17001a",
+  "precision": "float32",
+  "rows": 63836,
+  "split": "validation",
+  "torch": "2.11.0+cu130",
+  "transformers": "4.57.1",
+  "truncation_count": 11401,
+  "tuned_metrics": {
+    "accuracy": 0.7476658938529983,
+    "average_precision": 0.6214173838246599,
+    "confusion_matrix": [
+      [
+        36135,
+        10343
+      ],
+      [
+        5765,
+        11593
+      ]
+    ],
+    "f1": 0.5900646409120985,
+    "false_negatives": 5765,
+    "false_positives": 10343,
+    "precision": 0.5284919766593728,
+    "recall": 0.6678764834658371,
+    "roc_auc": 0.8017104442903509,
+    "threshold": 0.6522398591041565
+  }
+}

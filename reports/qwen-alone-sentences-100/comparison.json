@@ -1,0 +1,75 @@
+{
+  "warning": "Exploratory development agreement; see manifest for label provenance, not human gold. Abstentions count as missed positives in recall.",
+  "arms": {
+    "alone": {
+      "all": {
+        "invalid": 2,
+        "positives": 50,
+        "fn": 13,
+        "tp": 35,
+        "negatives": 50,
+        "fp": 14,
+        "tn": 34,
+        "abstentions": 4,
+        "recall": 0.7,
+        "false_positive_rate": 0.28,
+        "coverage": 0.96,
+        "precision": 0.7142857142857143
+      },
+      "Firefly": {
+        "invalid": 0,
+        "positives": 13,
+        "fn": 4,
+        "negatives": 12,
+        "fp": 2,
+        "tn": 9,
+        "tp": 9,
+        "abstentions": 1,
+        "recall": 0.6923076923076923,
+        "false_positive_rate": 0.16666666666666666,
+        "coverage": 0.96,
+        "precision": 0.8181818181818182
+      },
+      "Fringe": {
+        "invalid": 0,
+        "negatives": 13,
+        "fp": 5,
+        "tn": 8,
+        "positives": 12,
+        "tp": 10,
+        "fn": 2,
+        "recall": 0.8333333333333334,
+        "false_positive_rate": 0.38461538461538464,
+        "coverage": 1.0,
+        "precision": 0.6666666666666666
+      },
+      "PersonOfInterest": {
+        "invalid": 2,
+        "positives": 12,
+        "tp": 8,
+        "fn": 2,
+        "negatives": 13,
+        "fp": 6,
+        "tn": 6,
+        "abstentions": 3,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": 0.46153846153846156,
+        "coverage": 0.88,
+        "precision": 0.5714285714285714
+      },
+      "Sherlock": {
+        "invalid": 0,
+        "positives": 13,
+        "tp": 8,
+        "fn": 5,
+        "negatives": 12,
+        "tn": 11,
+        "fp": 1,
+        "recall": 0.6153846153846154,
+        "false_positive_rate": 0.08333333333333333,
+        "coverage": 1.0,
+        "precision": 0.8888888888888888
+      }
+    }
+  }
+}

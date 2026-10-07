@@ -1,0 +1,142 @@
+{
+  "tvtropes:validation:547": {
+    "id": "tvtropes:validation:547",
+    "label": 1,
+    "original_label": 1,
+    "reason": "Reveals the later confinement and power shift; passage supports confinement.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_2#ep33",
+    "cached_plot_sha256": "679355c8b57e533df3e8cdab528efdd6a129c43225d4d9c33ba43ae5dab7d662",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:395": {
+    "id": "tvtropes:validation:395",
+    "label": 1,
+    "original_label": 1,
+    "reason": "Explicit series-ending return and jump.",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Life_on_Mars_(British_TV_series)_episodes#ep16",
+    "cached_plot_sha256": "1414a56f168a836dc7cbad91d8eaa34fc5ad54c61f1c522a48bddbf41470d1f8",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:652": {
+    "id": "tvtropes:validation:652",
+    "label": 1,
+    "original_label": 1,
+    "reason": "Reveals a death and consequential promotion.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_1#ep11",
+    "cached_plot_sha256": "2f83e3b803408a1503caa6195bab1eaa952801ddbba0b8d60be3d6d02e5da75c",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:627": {
+    "id": "tvtropes:validation:627",
+    "label": 1,
+    "original_label": 1,
+    "reason": "Later capture is supported; clothing and restraint details are not verified.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_2#ep34",
+    "cached_plot_sha256": "f865233725cdd46f74add97d49d19ef19e17d55e499880066f5d54d65c422cfe",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:328": {
+    "id": "tvtropes:validation:328",
+    "label": null,
+    "original_label": 1,
+    "reason": "Specific plot financing inference, but uncertainty versus consequential reveal is ambiguous under this policy.",
+    "source_url": "https://en.wikipedia.org/wiki/Homeland_season_1#ep3",
+    "cached_plot_sha256": "f0d75884e05bf79dcc61c82b0e7f40fd72513326eb6dc79cb448579c8786af3d",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:565": {
+    "id": "tvtropes:validation:565",
+    "label": 0,
+    "original_label": 1,
+    "reason": "The excerpt names an episode and vaguely praises its ending without revealing an event.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_1#ep21",
+    "cached_plot_sha256": "7681b2a906f52dde4e9b4f39b529822eb96de3a908f9d1e7546dc7341c660aaf",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:307": {
+    "id": "tvtropes:validation:307",
+    "label": 0,
+    "original_label": 0,
+    "reason": "Production location fact; supplied plot must not contaminate the decision.",
+    "source_url": "https://en.wikipedia.org/wiki/Homeland_season_1#ep12",
+    "cached_plot_sha256": "a4fc9b50e5f57304dd78b7e4d00217a1c7d81d7904a9b1ed3857c436050c7a3f",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:545": {
+    "id": "tvtropes:validation:545",
+    "label": 0,
+    "original_label": 0,
+    "reason": "Generic leadership behavior; no named consequential outcome.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_2#ep33",
+    "cached_plot_sha256": "679355c8b57e533df3e8cdab528efdd6a129c43225d4d9c33ba43ae5dab7d662",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:593": {
+    "id": "tvtropes:validation:593",
+    "label": 0,
+    "original_label": 0,
+    "reason": "A generic statement about writing an exploit does not reveal these events.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_1#ep11",
+    "cached_plot_sha256": "2f83e3b803408a1503caa6195bab1eaa952801ddbba0b8d60be3d6d02e5da75c",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:638": {
+    "id": "tvtropes:validation:638",
+    "label": 0,
+    "original_label": 0,
+    "reason": "Being a decorated soldier alone reveals no consequential later outcome.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_2#ep34",
+    "cached_plot_sha256": "f865233725cdd46f74add97d49d19ef19e17d55e499880066f5d54d65c422cfe",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:568": {
+    "id": "tvtropes:validation:568",
+    "label": 0,
+    "original_label": 0,
+    "reason": "Vague statement about violence; no event or outcome.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_1#ep21",
+    "cached_plot_sha256": "7681b2a906f52dde4e9b4f39b529822eb96de3a908f9d1e7546dc7341c660aaf",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:562": {
+    "id": "tvtropes:validation:562",
+    "label": 1,
+    "original_label": 0,
+    "reason": "Original safe markup conflicts with the revealed episode-ending encounter.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_1#ep16",
+    "cached_plot_sha256": "2e379add69fe55f30274ff7bf6bf036b31695b38f99883a30019a150db8327f7",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:324": {
+    "id": "tvtropes:validation:324",
+    "label": 1,
+    "original_label": 0,
+    "reason": "Original safe markup conflicts with a season-finale outcome.",
+    "source_url": "https://en.wikipedia.org/wiki/Homeland_season_1#ep12",
+    "cached_plot_sha256": "a4fc9b50e5f57304dd78b7e4d00217a1c7d81d7904a9b1ed3857c436050c7a3f",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  },
+  "tvtropes:validation:578": {
+    "id": "tvtropes:validation:578",
+    "label": 1,
+    "original_label": 0,
+    "reason": "Original safe markup conflicts with a specific later covert travel tactic.",
+    "source_url": "https://en.wikipedia.org/wiki/Nikita_season_2#ep31",
+    "cached_plot_sha256": "1cfd59e129cb4d098965cca012bb67681ae8ebfbc6d2da0ead0fd9bdbe7d1561",
+    "label_provenance": "source-backed AI policy audit, not blind or human gold",
+    "human_verified": false
+  }
+}

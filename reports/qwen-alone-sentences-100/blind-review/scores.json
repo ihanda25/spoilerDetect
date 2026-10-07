@@ -1,0 +1,85 @@
+{
+  "warning": "Independent prediction-hidden AI labels, not human gold. Unresolved references excluded from binary scores; abstained positives count as missed spoilers. Full 100-row review locked before scorer read predictions.",
+  "reference_counts": {
+    "unresolved": 17,
+    "spoiler": 38,
+    "safe": 45
+  },
+  "groups": {
+    "all": {
+      "negatives": 45,
+      "tn": 37,
+      "fp": 8,
+      "positives": 38,
+      "tp": 30,
+      "fn": 7,
+      "unresolved_reference": 17,
+      "invalid": 1,
+      "abstentions": 1,
+      "recall": 0.7894736842105263,
+      "false_positive_rate": 0.17777777777777778,
+      "precision": 0.7894736842105263,
+      "coverage": 0.9879518072289156,
+      "accuracy_with_abstentions_in_denominator": 0.8072289156626506
+    },
+    "Firefly": {
+      "negatives": 11,
+      "tn": 10,
+      "positives": 11,
+      "tp": 9,
+      "unresolved_reference": 3,
+      "fp": 1,
+      "fn": 2,
+      "recall": 0.8181818181818182,
+      "false_positive_rate": 0.09090909090909091,
+      "precision": 0.9,
+      "coverage": 1.0,
+      "accuracy_with_abstentions_in_denominator": 0.8636363636363636
+    },
+    "Fringe": {
+      "positives": 13,
+      "tp": 11,
+      "negatives": 10,
+      "tn": 8,
+      "fp": 2,
+      "fn": 2,
+      "unresolved_reference": 2,
+      "recall": 0.8461538461538461,
+      "false_positive_rate": 0.2,
+      "precision": 0.8461538461538461,
+      "coverage": 1.0,
+      "accuracy_with_abstentions_in_denominator": 0.8260869565217391
+    },
+    "PersonOfInterest": {
+      "positives": 11,
+      "tp": 7,
+      "fn": 3,
+      "unresolved_reference": 8,
+      "invalid": 1,
+      "abstentions": 1,
+      "negatives": 6,
+      "tn": 5,
+      "fp": 1,
+      "recall": 0.6363636363636364,
+      "false_positive_rate": 0.16666666666666666,
+      "precision": 0.875,
+      "coverage": 0.9411764705882353,
+      "accuracy_with_abstentions_in_denominator": 0.7058823529411765
+    },
+    "Sherlock": {
+      "negatives": 18,
+      "fp": 4,
+      "tn": 14,
+      "unresolved_reference": 4,
+      "positives": 3,
+      "tp": 3,
+      "recall": 1.0,
+      "false_positive_rate": 0.2222222222222222,
+      "precision": 0.42857142857142855,
+      "coverage": 1.0,
+      "accuracy_with_abstentions_in_denominator": 0.8095238095238095
+    }
+  },
+  "labels_sha256": "2fb269c3f2e69428302e5f8401fa0f835b109067d959b74d8591d2eb39bdcbdd",
+  "resolved_source_label_changes": 21
+}

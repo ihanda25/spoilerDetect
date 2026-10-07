@@ -1,0 +1,176 @@
+[
+  {
+    "id": "tvtropes:train:8594",
+    "title": "Sherlock (2010 TV series)",
+    "excerpt": "Then he hears Sherlock being shot at, and tells Soo Lin, \"I have to go and help\".",
+    "reference": 0,
+    "alone": {
+      "answer": {
+        "excerpt_quote": "Then he hears Sherlock being shot at, and tells Soo Lin, \"I have to go and help\".",
+        "explanation": "The excerpt reveals that Sherlock is being shot at, which is a specific, consequential plot event (the climax of the pilot episode) not included in the public premise. This spoils a major development for a viewer who has not started the series.",
+        "label": "SPOILER",
+        "passage_id": "",
+        "passage_quote": ""
+      },
+      "valid": true,
+      "raw": "{\"excerpt_quote\": \"Then he hears Sherlock being shot at, and tells Soo Lin, \\\"I have to go and help\\\".\", \"explanation\": \"The excerpt reveals that Sherlock is being shot at, which is a specific, consequential plot event (the climax of the pilot episode) not included in the public premise. This spoils a major development for a viewer who has not started the series.\", \"label\": \"SPOILER\", \"passage_id\": \"\", \"passage_quote\": \"\"}",
+      "usage": {
+        "queue_time": 0.070809057,
+        "prompt_tokens": 304,
+        "prompt_time": 0.02617565,
+        "completion_tokens": 104,
+        "completion_time": 0.231826645,
+        "total_tokens": 408,
+        "total_time": 0.258002295
+      },
+      "seconds": 0.4829257079400122,
+      "served_model": "qwen/qwen3.8-27b",
+      "system_fingerprint": "fp_5e14805ce3",
+      "pacing": "adaptive",
+      "delay_before_request": 4.9242549999710175,
+      "api_error": null
+    },
+    "rag": {
+      "answer": {
+        "excerpt_quote": "Then he hears Sherlock being shot at, and tells Soo Lin, \"I have to go and help\".",
+        "explanation": "The excerpt reveals that Sherlock is being shot at and that John Watson is present with a character named Soo Lin. This specific scenario occurs in the finale of the first season, 'A Scandal in Belgravia', where John is with Irene Adler (who is not named Soo Lin, but the context of being shot at and needing help is a major plot point). More importantly, the mention of 'Soo Lin' suggests a confusion or a specific fan-fiction/alternate context, but in the context of the provided passages which",
+        "label": "UNCERTAIN",
+        "passage_id": "",
+        "passage_quote": ""
+      },
+      "valid": true,
+      "raw": "{\"excerpt_quote\": \"Then he hears Sherlock being shot at, and tells Soo Lin, \\\"I have to go and help\\\".\", \"explanation\": \"The excerpt reveals that Sherlock is being shot at and that John Watson is present with a character named Soo Lin. This specific scenario occurs in the finale of the first season, 'A Scandal in Belgravia', where John is with Irene Adler (who is not named Soo Lin, but the context of being shot at and needing help is a major plot point). More importantly, the mention of 'Soo Lin' suggests a confusion or a specific fan-fiction/alternate context, but in the context of the provided passages which\", \"label\": \"UNCERTAIN\", \"passage_id\": \"\", \"passage_quote\": \"\"}",
+      "usage": {
+        "queue_time": 0.068243937,
+        "prompt_tokens": 957,
+        "prompt_time": 0.08129165,
+        "completion_tokens": 161,
+        "completion_time": 0.350604679,
+        "total_tokens": 1118,
+        "total_time": 0.431896329
+      },
+      "seconds": 0.6311129168607295,
+      "served_model": "qwen/qwen3.8-27b",
+      "system_fingerprint": "fp_ddcc9cf349",
+      "pacing": "adaptive",
+      "delay_before_request": 14.958045416139067,
+      "api_error": null
+    },
+    "passages": [
+      {
+        "id": "plot-7232771797f224e6",
+        "text": "Sherlock realizes Moriarty has a way to prevent the executions and convinces Moriarty that he is willing to do anything to make him stop the assassins. After acknowledging their similarities, Moriarty tells Sherlock, \"As long as I am alive, you can save your friends\". He then commits suicide by shooting himself, effectively closing Sherlock's options for saving his friends other than jumping from the roof.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Reichenbach_Fall#Plot",
+        "episode_title": "The Reichenbach Fall",
+        "rrf_score": 0.02967032967032967,
+        "bm25_score": 4.703372044810468,
+        "cosine_similarity": 0.508176326751709
+      },
+      {
+        "id": "plot-222f6b5d07607642",
+        "text": "Sherlock knows the message is in the form of a book cipher , and he and John spend the night going through the first two victims' books, trying to find the solution. John's first day at work does not go well, but Sarah covers for him, and they organise to go out on a date. Sherlock arranges tickets to a travelling Chinese circus .",
+        "source_url": "https://en.wikipedia.org/wiki/The_Blind_Banker#Plot",
+        "episode_title": "The Blind Banker",
+        "rrf_score": 0.029138513513513514,
+        "bm25_score": 6.015394830497532,
+        "cosine_similarity": 0.48359665274620056
+      },
+      {
+        "id": "plot-b61ca1559dd8188b",
+        "text": "After being acquitted, Moriarty visits Sherlock and explains that his break-in was a publicity stunt to show potential clients what he is capable of, adding, \"I owe you a fall.\" Meanwhile, John is summoned to see Mycroft , who explains that four professional assassins have moved into flats on Baker Street and asks him to watch out for Sherlock. Sherlock and John investigate the kidnapping of the children of the British Ambassador to the U.S., Rufus Bruhl.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Reichenbach_Fall#Plot",
+        "episode_title": "The Reichenbach Fall",
+        "rrf_score": 0.028693528693528692,
+        "bm25_score": 6.624937223893377,
+        "cosine_similarity": 0.47686827182769775
+      }
+    ]
+  },
+  {
+    "id": "tvtropes:train:3445",
+    "title": "Fringe (2008 TV series)",
+    "excerpt": "Season 3 takes place in both universes.",
+    "reference": 1,
+    "alone": {
+      "answer": {
+        "excerpt_quote": "Season 3 takes place in both universes.",
+        "explanation": "The excerpt reveals a major structural and plot element of the series (the existence of a parallel universe and the show's setting in both) which is a central twist and development not included in the public premise. This is a consequential later event/twist.",
+        "label": "SPOILER",
+        "passage_id": "",
+        "passage_quote": ""
+      },
+      "valid": true,
+      "raw": "{\"excerpt_quote\": \"Season 3 takes place in both universes.\", \"explanation\": \"The excerpt reveals a major structural and plot element of the series (the existence of a parallel universe and the show's setting in both) which is a central twist and development not included in the public premise. This is a consequential later event/twist.\", \"label\": \"SPOILER\", \"passage_id\": \"\", \"passage_quote\": \"\"}",
+      "usage": {
+        "queue_time": 0.425050363,
+        "prompt_tokens": 294,
+        "prompt_time": 0.021549143,
+        "completion_tokens": 94,
+        "completion_time": 0.196436686,
+        "total_tokens": 388,
+        "total_time": 0.217985829
+      },
+      "seconds": 0.7787731669377536,
+      "served_model": "qwen/qwen3.8-27b",
+      "system_fingerprint": "fp_c14f15bfae",
+      "pacing": "adaptive",
+      "delay_before_request": 4.812385082999245,
+      "api_error": null
+    },
+    "rag": {
+      "answer": {
+        "excerpt_quote": "Season 3 takes place in both universes.",
+        "explanation": "The statement that Season 3 takes place in both universes is a structural detail of the show's narrative arc that is widely known and often included in public synopses or reviews. It does not reveal a specific plot twist, character fate, or hidden identity, but rather describes the setting scope of the season, which is consistent with the public premise of the show dealing with parallel universes.",
+        "label": "SAFE",
+        "passage_id": "",
+        "passage_quote": ""
+      },
+      "valid": true,
+      "raw": "{\"excerpt_quote\": \"Season 3 takes place in both universes.\", \"explanation\": \"The statement that Season 3 takes place in both universes is a structural detail of the show's narrative arc that is widely known and often included in public synopses or reviews. It does not reveal a specific plot twist, character fate, or hidden identity, but rather describes the setting scope of the season, which is consistent with the public premise of the show dealing with parallel universes.\", \"label\": \"SAFE\", \"passage_id\": \"\", \"passage_quote\": \"\"}",
+      "usage": {
+        "queue_time": 0.119633422,
+        "prompt_tokens": 838,
+        "prompt_time": 0.059950704,
+        "completion_tokens": 120,
+        "completion_time": 0.243060313,
+        "total_tokens": 958,
+        "total_time": 0.303011017
+      },
+      "seconds": 0.5717780420091003,
+      "served_model": "qwen/qwen3.8-27b",
+      "system_fingerprint": "fp_c14f15bfae",
+      "pacing": "adaptive",
+      "delay_before_request": 13.447654417017475,
+      "api_error": null
+    },
+    "passages": [
+      {
+        "id": "plot-b7688cc31f9dbe70",
+        "text": "A week passes after the Fringe divisions in both universes have begun to work together to solve the impending collapse. Olivia investigates a case where Lincoln Lee from the prime universe witnessed a man with translucent skin attacking and killing his partner Robert (guest star Joe Flanigan ) while tracking a sale of illegal weapons.",
+        "source_url": "https://en.wikipedia.org/wiki/Fringe_season_4#ep66",
+        "episode_title": "Neither Here Nor There",
+        "rrf_score": 0.031099324975891997,
+        "bm25_score": 5.518171274668589,
+        "cosine_similarity": 0.5108954906463623
+      },
+      {
+        "id": "plot-219caa93df920e10",
+        "text": "The other Fringe members say their goodbyes to their counterparts. Eventually, the Machine is deactivated, and the universes are disconnected. To Walter's relief, Peter remains.",
+        "source_url": "https://en.wikipedia.org/wiki/Fringe_season_4#ep85",
+        "episode_title": "Worlds Apart",
+        "rrf_score": 0.028309409888357256,
+        "bm25_score": 3.727244496884816,
+        "cosine_similarity": 0.43895673751831055
+      },
+      {
+        "id": "plot-c5247e00af0fc043",
+        "text": "In the show's conclusion in the present day, Walter tells Olivia that his crossing is what caused the crack between the two universes, including the Pattern on their side, and leading to the oncoming \"storm\" that William warned Olivia about.",
+        "source_url": "https://en.wikipedia.org/wiki/Peter_(Fringe_episode)#Plot",
+        "episode_title": "Peter",
+        "rrf_score": 0.026013513513513515,
+        "bm25_score": 3.3261116275537668,
+        "cosine_similarity": 0.4115995168685913
+      }
+    ]
+  }
+]

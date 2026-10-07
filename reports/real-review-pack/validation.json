@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "candidate_count": 245,
+  "split_counts": {
+    "test": 98,
+    "dev": 147
+  },
+  "source_groups": 144,
+  "declared_work_keys": 86,
+  "checks": [
+    "canonical dev/test schema",
+    "all labels null and human review pending",
+    "split files exactly partition candidates",
+    "manifest text hashes and assignments intact",
+    "source/declared work/group disjointness",
+    "normalized text deduplication",
+    "summary counts and manifest hash",
+    "review sheet IDs and empty labels",
+    "collector Python syntax",
+    "canonical headline/comment/review/youtube_transcript surface enum",
+    "surface-only rebuild preserved exact split manifest"
+  ],
+  "removed_obsolete_file": "development.jsonl (unreviewed duplicate dev partition)",
+  "semantic_work_independence": "pending human verification",
+  "human_reviews": 0,
+  "model_evaluations": 0,
+  "network_requests_this_validation": 0,
+  "surface_counts": {
+    "headline": 58,
+    "review": 76,
+    "comment": 91,
+    "youtube_transcript": 20
+  }
+}

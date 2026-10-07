@@ -1,0 +1,2 @@
+# Install alongside requirements-training.txt; no model weights needed.
+beautifulsoup4==4.15.0

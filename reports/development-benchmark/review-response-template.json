@@ -1,0 +1,642 @@
+[
+  {
+    "review_id": "R001",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R002",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R003",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R004",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R005",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R006",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R007",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R008",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R009",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R010",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R011",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R012",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R013",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R014",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R015",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R016",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R017",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R018",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R019",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R020",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R021",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R022",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R023",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R024",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R025",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R026",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R027",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R028",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R029",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R030",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R031",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R032",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R033",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R034",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R035",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R036",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R037",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R038",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R039",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R040",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R041",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R042",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R043",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R044",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R045",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R046",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R047",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R048",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R049",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R050",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R051",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R052",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R053",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R054",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R055",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R056",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R057",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R058",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R059",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R060",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R061",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R062",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R063",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  },
+  {
+    "review_id": "R064",
+    "status": "pending_human_review",
+    "human_label": null,
+    "triggering_quote": null,
+    "rationale": null,
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "adjudicator_id": null
+  }
+]

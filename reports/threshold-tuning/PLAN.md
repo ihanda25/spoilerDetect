@@ -1,0 +1,1 @@
+Validation-only threshold tuning of review-only epochs 1 and 2 and plot-summary epoch 1. No additional training or test evaluation authorized. Compare maximum F1 and precision at recall targets 60%, 70%, 80%, 90%. Scores cached as NPZ; results and status saved here. Run scripts/tune_validation_thresholds.py. Expected runtime 20–30 minutes.

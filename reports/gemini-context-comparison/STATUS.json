@@ -1,0 +1,36 @@
+{
+  "complete": false,
+  "rows": 207,
+  "requests_this_run": 8,
+  "predictions": {
+    "gemini_title": 4,
+    "gemini_context": 4
+  },
+  "stopped": {
+    "exception_type": "ServerError",
+    "http_code": 503
+  },
+  "elapsed_seconds": 181.1702630189975,
+  "retry_policy": "503: 60/120 seconds plus jitter, then 600 seconds plus jitter and one final probe; max four attempts per item; five total attempts per invocation",
+  "status": "stopped_by_user",
+  "last_saved_predictions": {
+    "gemini_title": 4,
+    "gemini_context": 4
+  },
+  "http_code": 503,
+  "monitor_paused": true,
+  "next_action": "Do not resume Gemini. User asked to research Groq costs. Local saved caches have four predictions per arm; two further title predictions were observed in interrupted Colab run but have not been downloaded.",
+  "max_requests": 5,
+  "request_gap_seconds": 30,
+  "last_observed_predictions": {
+    "gemini_title": 6,
+    "gemini_context": 4
+  },
+  "project_limits": {
+    "rpm": 5,
+    "tpm": 250000,
+    "rpd": 20
+  },
+  "runtime_counts_verified": false,
+  "note": "Interrupted stale concatenated Colab code. Replaced editor using Mac select-all with clean updated launcher, not executed. Remaining-attempt launcher shows max_requests=1. Standard saved launcher has five-attempt cap."
+}

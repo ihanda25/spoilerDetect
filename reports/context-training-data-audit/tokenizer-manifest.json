@@ -1,0 +1,30 @@
+{
+  "model": "Zritze/imdb-spoiler-robertaOrigDatasetLR1",
+  "revision": "56fee120f8495ccfc5001e3fbd1478656d17001a",
+  "files": {
+    "tokenizer_config.json": {
+      "url": "https://huggingface.co/Zritze/imdb-spoiler-robertaOrigDatasetLR1/resolve/56fee120f8495ccfc5001e3fbd1478656d17001a/tokenizer_config.json",
+      "sha256": "cab32109624013c709099c929de7ae9ddc2abb8905225a9d5373c674a6fea68c"
+    },
+    "tokenizer.json": {
+      "url": "https://huggingface.co/Zritze/imdb-spoiler-robertaOrigDatasetLR1/resolve/56fee120f8495ccfc5001e3fbd1478656d17001a/tokenizer.json",
+      "sha256": "fca6f41f7eb254b737e375cdd1de10eb0e530ef8890ba96e36cda80b047d4959"
+    },
+    "vocab.json": {
+      "url": "https://huggingface.co/Zritze/imdb-spoiler-robertaOrigDatasetLR1/resolve/56fee120f8495ccfc5001e3fbd1478656d17001a/vocab.json",
+      "sha256": "ed19656ea1707df69134c4af35c8ceda2cc9860bf2c3495026153a133670ab5e"
+    },
+    "merges.txt": {
+      "url": "https://huggingface.co/Zritze/imdb-spoiler-robertaOrigDatasetLR1/resolve/56fee120f8495ccfc5001e3fbd1478656d17001a/merges.txt",
+      "sha256": "1ce1664773c50f3e0cc8842619a93edc4624525b728b188a9e0be33b7726adc5"
+    },
+    "special_tokens_map.json": {
+      "url": "https://huggingface.co/Zritze/imdb-spoiler-robertaOrigDatasetLR1/resolve/56fee120f8495ccfc5001e3fbd1478656d17001a/special_tokens_map.json",
+      "sha256": "06e405a36dfe4b9604f484f6a1e619af1a7f7d09e34a8555eb0b77b66318067f"
+    },
+    "config.json": {
+      "url": "https://huggingface.co/Zritze/imdb-spoiler-robertaOrigDatasetLR1/resolve/56fee120f8495ccfc5001e3fbd1478656d17001a/config.json",
+      "sha256": "780af46eada9116223bcc1339dda6f83680030a300741064e58f111e29b7085a"
+    }
+  }
+}

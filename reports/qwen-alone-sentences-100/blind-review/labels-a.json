@@ -1,0 +1,402 @@
+[
+  {
+    "id": "s001",
+    "label": null,
+    "rationale": "The omitted fate is necessary to know what nearly happens to Jayne.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s002",
+    "label": 1,
+    "rationale": "Reveals that Reese attempts to frame a criminal and that the attempt fails because of his lawyers.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s003",
+    "label": 0,
+    "rationale": "An ordinary rude remark reveals no consequential plot information.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s004",
+    "label": 1,
+    "rationale": "Confirms Jessica as Reese\u2019s love and reveals Finch\u2019s failure to protect her.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s005",
+    "label": 0,
+    "rationale": "Gunfire and an intention to help are incidental action without a consequential outcome.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s006",
+    "label": 0,
+    "rationale": "The fragment merely describes the ongoing arrival of numbers within the supplied premise.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s007",
+    "label": null,
+    "rationale": "The question hints at a mistaken role, but does not identify the person or reveal their actual role.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s008",
+    "label": 0,
+    "rationale": "Pickpocketing his brother illustrates personality and incidental behavior.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s009",
+    "label": 1,
+    "rationale": "Confirms Zoe\u2019s relationship with Wash and her definitive choice of that relationship over Mal.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s010",
+    "label": 0,
+    "rationale": "Describes performance style and an episode\u2019s aesthetic.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s011",
+    "label": 0,
+    "rationale": "Describes Sherlock\u2019s interest in mysteries, consistent with his detective role.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s012",
+    "label": 0,
+    "rationale": "Generic arrival dialogue does not identify a rescue or its outcome.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s013",
+    "label": 0,
+    "rationale": "Describes an incidental exit and visual staging.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s014",
+    "label": null,
+    "rationale": "The group and the first and second claims are omitted; its apparent motives are also qualified.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s015",
+    "label": 1,
+    "rationale": "Reveals the death of Walter\u2019s original Peter and his taking a replacement from an alternate universe.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s016",
+    "label": 0,
+    "rationale": "Discusses writing and competing fan interpretations of the government without a specific reveal.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s017",
+    "label": 1,
+    "rationale": "Explicitly reveals Mal fatally shooting someone; the unnamed victim does not erase that outcome.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s018",
+    "label": 1,
+    "rationale": "Reveals River\u2019s specific deception of the bounty hunter in the final episode.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s019",
+    "label": 0,
+    "rationale": "Mentions a recurring presentation device without a plot outcome.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s020",
+    "label": null,
+    "rationale": "The subject of the oppression and the deeper discovery are omitted, preventing identification of a concrete reveal.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s021",
+    "label": 0,
+    "rationale": "Recreational drug use and cupcake discussion are incidental comedy.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s022",
+    "label": null,
+    "rationale": "The danger and the woman\u2019s fate are omitted; the escape comparison cannot establish the consequential outcome being discussed.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s023",
+    "label": 0,
+    "rationale": "A suggestive question confirms no relationship or consequential event.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s024",
+    "label": 0,
+    "rationale": "Explicitly presents an unconfirmed possibility about who fell.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s025",
+    "label": 0,
+    "rationale": "Describes blogs and a fansite for an unidentified case victim, without revealing a case solution.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s026",
+    "label": 1,
+    "rationale": "Reveals the child\u2019s parentage, the threat\u2019s motive, and the wife\u2019s murder of the mother.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s027",
+    "label": 0,
+    "rationale": "Mentions a comparison between characters without specifying any revealing content.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s028",
+    "label": 1,
+    "rationale": "Reveals Finch\u2019s invention of social networking and its hidden purpose in supplying the Machine with information.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s029",
+    "label": 0,
+    "rationale": "A chase and nonfatal knockdown are incidental action with no stated consequential result.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s030",
+    "label": 0,
+    "rationale": "A concerned question illustrates emotion without revealing what happened.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s031",
+    "label": 1,
+    "rationale": "Identifies Moriarty as the person appearing when Richard Brook\u2019s identity is being investigated.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s032",
+    "label": 1,
+    "rationale": "Provides a finale explanation linking strange events to soft spots, beyond the supplied premise.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s033",
+    "label": null,
+    "rationale": "Turning on an unspecified machine is mentioned, but the missing context leaves its consequences and significance unresolved.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s034",
+    "label": 0,
+    "rationale": "Teaching and successfully using an eye jab describe a minor action without stating a case resolution or lasting outcome.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s035",
+    "label": 1,
+    "rationale": "Reveals Mal\u2019s unwitting participation in a wedding ritual, a relationship development beyond the premise.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s036",
+    "label": 1,
+    "rationale": "Reveals a later recovery of identity alongside retained memories of being Fauxlivia, even though the woman is unnamed.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s037",
+    "label": 1,
+    "rationale": "Explicitly reveals a reversal of the suspected perpetrator\u2019s victim role and describes the apparent assassination threat.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s038",
+    "label": 1,
+    "rationale": "Reveals Olivia\u2019s false memories and the mechanism by which her subconscious fights them.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s039",
+    "label": 1,
+    "rationale": "Reveals the first episode\u2019s hidden villain; pilot outcomes count under the policy.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s040",
+    "label": null,
+    "rationale": "The omitted referent for this prevents identifying what explosive event happens to Reese and Stanton.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s041",
+    "label": null,
+    "rationale": "The repeated behavior is omitted, so it is impossible to determine what the sentence discloses.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s042",
+    "label": null,
+    "rationale": "The yellow box\u2019s meaning and the woman\u2019s actual hidden status are not supplied.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s043",
+    "label": 1,
+    "rationale": "Reveals an organized police corruption network protecting criminals and a CIA operative\u2019s lethal pursuit of Reese, beyond the supplied premise.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s044",
+    "label": 1,
+    "rationale": "Confirms the named characters\u2019 escape and the town\u2019s total destruction, including the absence of other survivors.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s045",
+    "label": 0,
+    "rationale": "Describes comic social behavior and attempted jealousy without confirming a romantic relationship.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s046",
+    "label": 1,
+    "rationale": "Explains a clue and confirms the later reveal that a scene takes place in an alternate universe.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s047",
+    "label": 1,
+    "rationale": "Reveals a betrayal, its anticipation, and Inara reaching the drop point first, exposing the counterplan\u2019s result.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s048",
+    "label": 0,
+    "rationale": "An episode title and a name alone disclose no consequential event.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s049",
+    "label": null,
+    "rationale": "The person and the significance of the reversed shaking pattern are omitted, leaving the possible explanation unresolved.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  },
+  {
+    "id": "s050",
+    "label": 1,
+    "rationale": "Reveals Mal\u2019s sexual involvement with Nandi and her subsequent shooting and death.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "Not checked; judgment based only on the supplied excerpt and public premise under POLICY.txt."
+  }
+]

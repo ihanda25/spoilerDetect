@@ -1,0 +1,11 @@
+{
+  "policy": "adaptive",
+  "tpm": 8000,
+  "last_total_tokens": 402,
+  "rate_limit_headers": {
+    "x-ratelimit-limit-tokens": "8000",
+    "x-ratelimit-remaining-tokens": "7081",
+    "x-ratelimit-reset-tokens": "37.62s",
+    "x-ratelimit-remaining-requests": "835"
+  }
+}

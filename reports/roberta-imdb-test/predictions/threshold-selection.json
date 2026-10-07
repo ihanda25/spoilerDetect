@@ -1,0 +1,8 @@
+{
+  "method": "validation precision_recall_curve maximum F1; np.argmax",
+  "selected_before_test_load": true,
+  "threshold": 0.6522398591041565,
+  "validation_cache_fingerprint": "09372f6d4d47315cc606d48d25a207ffdc75a42363afc75c6760528f2d7be7ff",
+  "validation_count": 63836,
+  "validation_sha256": "e3dea28118afb1318128ab950281276357833cb9b940d886dccef2722def0034"
+}

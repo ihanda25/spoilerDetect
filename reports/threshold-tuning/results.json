@@ -1,0 +1,155 @@
+{
+  "review_epoch1": {
+    "default": {
+      "threshold": 0.5,
+      "precision": 0.6585214007782101,
+      "recall": 0.48749855974190576,
+      "f1": 0.5602489406779662,
+      "false_positives": 4388,
+      "false_negatives": 8896
+    },
+    "max_f1": {
+      "threshold": 0.3564714193344116,
+      "precision": 0.5266274804437177,
+      "recall": 0.6864846180435534,
+      "f1": 0.5960235088158059,
+      "false_positives": 10711,
+      "false_negatives": 5442
+    },
+    "recall_60%": {
+      "threshold": 0.42039722204208374,
+      "precision": 0.5850466239748343,
+      "recall": 0.600011522064754,
+      "f1": 0.5924345847554039,
+      "false_positives": 7387,
+      "false_negatives": 6943
+    },
+    "recall_70%": {
+      "threshold": 0.3456569314002991,
+      "precision": 0.5173059730086423,
+      "recall": 0.700023044129508,
+      "f1": 0.5949518936519206,
+      "false_positives": 11338,
+      "false_negatives": 5207
+    },
+    "recall_80%": {
+      "threshold": 0.24913668632507324,
+      "precision": 0.4524631825882966,
+      "recall": 0.800034566194262,
+      "f1": 0.5780228928199792,
+      "false_positives": 16805,
+      "false_negatives": 3471
+    },
+    "recall_90%": {
+      "threshold": 0.14429126679897308,
+      "precision": 0.3833300618313868,
+      "recall": 0.900046088259016,
+      "f1": 0.537667343497264,
+      "false_positives": 25133,
+      "false_negatives": 1735
+    },
+    "average_precision": 0.6431953558193483
+  },
+  "review_epoch2": {
+    "default": {
+      "threshold": 0.5,
+      "precision": 0.7269746646795827,
+      "recall": 0.4215347390252333,
+      "f1": 0.5336396455530029,
+      "false_positives": 2748,
+      "false_negatives": 10041
+    },
+    "max_f1": {
+      "threshold": 0.21579217910766602,
+      "precision": 0.532218309859155,
+      "recall": 0.6966240350270768,
+      "f1": 0.6034233245171915,
+      "false_positives": 10628,
+      "false_negatives": 5266
+    },
+    "recall_60%": {
+      "threshold": 0.28914427757263184,
+      "precision": 0.5967455451784793,
+      "recall": 0.600011522064754,
+      "f1": 0.5983740771595185,
+      "false_positives": 7038,
+      "false_negatives": 6943
+    },
+    "recall_70%": {
+      "threshold": 0.21342942118644714,
+      "precision": 0.5297707261790603,
+      "recall": 0.700195875100818,
+      "f1": 0.6031761786600496,
+      "false_positives": 10788,
+      "false_negatives": 5204
+    },
+    "recall_80%": {
+      "threshold": 0.1494675874710083,
+      "precision": 0.4624991673882635,
+      "recall": 0.800034566194262,
+      "f1": 0.5861472226912038,
+      "false_positives": 16139,
+      "false_negatives": 3471
+    },
+    "recall_90%": {
+      "threshold": 0.09356192499399185,
+      "precision": 0.388100857036393,
+      "recall": 0.900046088259016,
+      "f1": 0.5423428740041311,
+      "false_positives": 24632,
+      "false_negatives": 1735
+    },
+    "average_precision": 0.6603075325730856
+  },
+  "plot_epoch1": {
+    "default": {
+      "threshold": 0.5,
+      "precision": 0.572782295041878,
+      "recall": 0.5397511234013135,
+      "f1": 0.5557763606703248,
+      "false_positives": 6988,
+      "false_negatives": 7989
+    },
+    "max_f1": {
+      "threshold": 0.3921522796154022,
+      "precision": 0.5125289917686116,
+      "recall": 0.6492683488881208,
+      "f1": 0.572851805728518,
+      "false_positives": 10719,
+      "false_negatives": 6088
+    },
+    "recall_60%": {
+      "threshold": 0.4404115080833435,
+      "precision": 0.5396891191709845,
+      "recall": 0.600069132388524,
+      "f1": 0.5682797752195974,
+      "false_positives": 8884,
+      "false_negatives": 6942
+    },
+    "recall_70%": {
+      "threshold": 0.34071895480155945,
+      "precision": 0.4828531690840453,
+      "recall": 0.700023044129508,
+      "f1": 0.5715024810102768,
+      "false_positives": 13014,
+      "false_negatives": 5207
+    },
+    "recall_80%": {
+      "threshold": 0.2321251928806305,
+      "precision": 0.42795513373597927,
+      "recall": 0.800092176518032,
+      "f1": 0.5576390283075687,
+      "false_positives": 18564,
+      "false_negatives": 3470
+    },
+    "recall_90%": {
+      "threshold": 0.1285262107849121,
+      "precision": 0.37387225692200926,
+      "recall": 0.900046088259016,
+      "f1": 0.5282948685434102,
+      "false_positives": 26164,
+      "false_negatives": 1735
+    },
+    "average_precision": 0.5991080778871305
+  }
+}

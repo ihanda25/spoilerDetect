@@ -1,0 +1,8 @@
+{
+  "complete": true,
+  "reason": "complete",
+  "api_requests_this_invocation": 7,
+  "predictions": {
+    "alone": 100
+  }
+}

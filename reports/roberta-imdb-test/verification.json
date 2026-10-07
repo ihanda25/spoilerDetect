@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "validation_rows": 63836,
+  "test_rows": 64405,
+  "labels_and_source_lines_match_original": true,
+  "validation_threshold_recomputed": true,
+  "test_metrics_recomputed": true
+}

@@ -1,0 +1,9 @@
+{
+  "http_status": 400,
+  "row_id": "source-plot-memento-03",
+  "error": {
+    "type": "invalid_request_error",
+    "code": "json_validate_failed",
+    "message": "Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details."
+  }
+}

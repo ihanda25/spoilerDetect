@@ -1,0 +1,12 @@
+{
+  "package_sha256": "ab02957d3276b46abf866c2ba29ae6f6e6932351a2d51ff38c1f29b0401a981e",
+  "bytes": 81782,
+  "files": {
+    "compare_three_models.py": "28838f80329e375748cf6cbcc2acbb223f1ca608a17efe5ed21bcdb5708817fd",
+    "compare_context_models.py": "170db362dec1e3b542168442f03113d1978997b56eab0c0af15c9259ff90ccb2",
+    "blind.jsonl": "af193b10918f5ba0de9cff71c01b6ccdf443399082e09fe1588d3ccf3f734a71",
+    "metadata.json": "4f37ca76a7f32c548a7460f0751da0f58eba795b975223970c945e63868aae49",
+    "contexts.json": "2552744337e7b9eef02f5119bdbcb1323fae1c62680d6e4f05b661f6c2d8b505",
+    "annotations.jsonl": "d28cc2ebe9b5662c52e5691f34faf5e7d58fcb4af260a8ca8ad2891a18caa876"
+  }
+}

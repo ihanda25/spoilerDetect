@@ -1,0 +1,749 @@
+[
+  {
+    "url": "https://huggingface.co/leoole/spoiler-detector/raw/main/metadata.json",
+    "content": {
+      "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+      "normalize_embeddings": true,
+      "label_classes": [
+        "Major",
+        "Mild",
+        "Safe"
+      ]
+    }
+  },
+  {
+    "url": "https://huggingface.co/leoole/spoiler-detector/raw/main/report.md",
+    "content": "# Multi-Source Spoiler Detector\n\n**Student:** Tianle Huang  \n**GitHub repository:** https://github.com/leoohuang/spoiler-detector  \n**Hugging Face dataset:** https://huggingface.co/datasets/leoole/spoiler-detector  \n**Working demo:** https://huggingface.co/spaces/leoole/spoiler-detector  \n\n## Abstract\n\nThis project implements a three-class movie spoiler detector for English reviews. The system classifies a review as `Safe`, `Mild Spoiler`, or `Major Spoiler`, instead of only using a binary spoiler/non-spoiler label. The final solution includes a custom processed dataset, several trained classifiers, an evaluation on a held-out test set, a GitHub repository, a Hugging Face dataset, and a working Hugging Face web demo. The best model was an RBF-kernel Support Vector Machine using sentence-transformer embeddings, with 0.575 accuracy and 0.572 macro F1 on the test set.\n\n## Dataset Creation\n\nThe original plan was to use Reddit as an additional data source, but this was changed because Reddit API registration and approval can be slow and inconvenient for a small course project. Instead, the final dataset was created from two sources: IMDb movie reviews and GPT-generated synthetic review snippets.\n\nIMDb was used as the main real-world source because it contains movie-review text and a binary spoiler indicator. However, the project required three labels rather than only spoiler/non-spoiler, so additional processing was needed. Non-spoiler IMDb rows were labeled as `Safe`. IMDb spoiler rows were further labeled as either `Mild Spoiler` or `Major Spoiler` using GPT-assisted severity labeling. The distinction was based on whether the text revealed general plot setup or non-critical information (`Mild`) versus revealing a key twist, death, ending, identity, solution, or final outcome (`Major`).\n\nGPT-generated synthetic examples were added as a second source to improve coverage across the three target classes. The prompts asked for short English movie-review snippets and avoided obvious phrases such as \"no spoilers\", since such phrases could make the classification task artificially easy.\n\nAfter cleaning, normalization, length filtering, deduplication, and labeling, the final dataset contained 4,773 examples:\n\n| Source | Count |\n|---|---:|\n| IMDb | 4,000 |\n| GPT synthetic | 773 |\n\n| Label | Count |\n|---|---:|\n| Safe | 2,270 |\n| Mild Spoiler | 1,616 |\n| Major Spoiler | 887 |\n\nTo check labeling quality, I manually reviewed a sample of 100 Mild/Major examples. The manual labels had 93% exact agreement with the GPT-assisted severity labels. This suggests that the labels were reasonably consistent, although spoiler severity is still partly subjective.\n\n## Method\n\nThe dataset was split into train, validation, and test sets using stratification by severity label. The final split contained 3,818 training examples, 477 validation examples, and 478 test examples.\n\nFor feature extraction, I used `sentence-transformers/all-mpnet-base-v2` to convert each review into a dense semantic embedding. These embeddings were then used to train and compare four classifiers:\n\n| Classifier |\n|---|\n| Logistic Regression |\n| Support Vector Machine with RBF kernel |\n| Random Forest |\n| Multi-Layer Perceptron |\n\nThis approach allowed the project to use strong pretrained language representations while keeping the classification models simple and easy to compare.\n\n## Results\n\nThe best model on the held-out test set was the RBF-kernel SVM. The full comparison is shown below:\n\n| Model | Accuracy | Macro F1 | Weighted F1 |\n|---|---:|---:|---:|\n| SVM RBF | 0.575 | 0.572 | 0.575 |\n| Logistic Regression | 0.567 | 0.571 | 0.566 |\n| MLP | 0.569 | 0.564 | 0.567 |\n| Random Forest | 0.531 | 0.417 | 0.443 |\n\nThe best model performed most strongly on the `Safe` category, with an F1-score of 0.622. It reached 0.598 F1 for `Major Spoiler` and 0.497 F1 for `Mild Spoiler`. The `Mild Spoiler` class was the hardest category, which makes sense because the boundary between mild plot information and a major spoiler can be ambiguous even for human annotators.\n\nOverall, the results show that three-level spoiler detection is feasible, but more difficult than binary spoiler detection. The moderate performance also reflects the difficulty of the task, the limited dataset size, and the subjective nature of spoiler severity.\n\n## Deployment\n\nThe final demo was deployed as a Hugging Face Space using Gradio. A user can enter a movie review and receive a predicted class, confidence score, and probability distribution across the three labels. The model artifact is hosted in a separate Hugging Face model repository, while the dataset is hosted as a Hugging Face dataset. Large model and data files are not stored directly in the GitHub repository, which keeps the repository easier to inspect and clone.\n\n## Reflection on Using AI\n\nAI tools were useful in several parts of the assignment. I used GPT to help generate synthetic review examples, assist with severity labeling, write and revise code, and draft parts of the report. This made the project faster to develop, especially when designing the data pipeline and fixing small implementation issues.\n\nAt the same time, I had to check the AI output carefully. The most important risk was hallucination or overconfident labeling, especially when deciding whether a spoiler was mild or major. To reduce this risk, I manually inspected sampled labels, checked dataset distributions, compared multiple classifiers, and verified that the web demo actually worked on Hugging Face. I also reviewed the generated code and README instead of assuming that AI-produced text or code was automatically correct.\n\nUsing AI was most helpful as a programming and writing assistant, but the final responsibility still remained with me. I had to make the project decisions, verify the results, and ensure that the submitted repository, dataset, and demo matched the assignment requirements.\n\n## Conclusion\n\nThis project satisfies the assignment requirements by creating a custom text classification dataset, training and evaluating several classifiers, and deploying a working Hugging Face demo. The project also demonstrates a practical workflow for adapting a data plan when an API source is difficult to use. The final system is not a production-level spoiler moderation tool, but it is a complete and reproducible course-project prototype for multi-class spoiler severity detection.\n\n## References\n\nReimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. *EMNLP-IJCNLP 2019*.\n\nHugging Face. (n.d.). Spaces and datasets documentation. https://huggingface.co/docs\n\nIMDb review data used in this project was processed for course-project text classification purposes.\n\n"
+  },
+  {
+    "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2/raw/main/sentence_bert_config.json",
+    "content": {
+      "max_seq_length": 384,
+      "do_lower_case": false
+    }
+  },
+  {
+    "url": "https://huggingface.co/api/datasets/bhavyagiri/imdb-spoiler",
+    "content": {
+      "_id": "64df2a01ed50cecb05084129",
+      "id": "bhavyagiri/imdb-spoiler",
+      "author": "bhavyagiri",
+      "sha": "9da61fd253654914524f7eba74b0fa6461c0f974",
+      "lastModified": "2023-08-20T09:15:52.000Z",
+      "private": false,
+      "gated": false,
+      "disabled": false,
+      "tags": [
+        "license:apache-2.0",
+        "size_categories:10K<n<100K",
+        "format:csv",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:mlcroissant",
+        "library:polars",
+        "region:us"
+      ],
+      "description": "This is a subset of a large-dataset for classifying whether a movie review is a spoiler or not.\nIt's used to fine-tune roberta-base model for Text-Classification Model, Check it out!\n",
+      "downloads": 26,
+      "likes": 1,
+      "cardData": {
+        "license": "apache-2.0"
+      },
+      "siblings": [
+        {
+          "rfilename": ".gitattributes"
+        },
+        {
+          "rfilename": "README.md"
+        },
+        {
+          "rfilename": "data/train.csv"
+        },
+        {
+          "rfilename": "data/valid.csv"
+        }
+      ],
+      "createdAt": "2023-08-18T08:21:21.000Z",
+      "usedStorage": 3993690502
+    }
+  },
+  {
+    "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/main?recursive=1",
+    "content": {
+      "sha": "aea63598b01f166086bb197573cda653434e376d",
+      "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/aea63598b01f166086bb197573cda653434e376d",
+      "tree": [
+        {
+          "path": ".gitignore",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a2a46369858968f7e34c229f89af08ca18860594",
+          "size": 40,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/a2a46369858968f7e34c229f89af08ca18860594"
+        },
+        {
+          "path": "Code",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "d3c5fd394b77dd99a83f3f8e01a80e6403604a60",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/d3c5fd394b77dd99a83f3f8e01a80e6403604a60"
+        },
+        {
+          "path": "Code/ace_changed_main.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "90aaf1251d14652791f429458e0676f4bd556300",
+          "size": 9356,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/90aaf1251d14652791f429458e0676f4bd556300"
+        },
+        {
+          "path": "Code/config.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "2f709fa56027d6a9b7cfde62e2ee2f55559685c9",
+          "size": 5751,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/2f709fa56027d6a9b7cfde62e2ee2f55559685c9"
+        },
+        {
+          "path": "Code/hetero_main.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "0d092a85c76715b626dcd32536e865f876185495",
+          "size": 7123,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/0d092a85c76715b626dcd32536e865f876185495"
+        },
+        {
+          "path": "Code/main.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "d29b193b7febb4afcdd233c8d418c3275e80c1fc",
+          "size": 9372,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/d29b193b7febb4afcdd233c8d418c3275e80c1fc"
+        },
+        {
+          "path": "Code/models_",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "cf695d4b39d745a68d43e2e8883bbd3a3a7ca27d",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/cf695d4b39d745a68d43e2e8883bbd3a3a7ca27d"
+        },
+        {
+          "path": "Code/models_/graph_encoder",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "d481d82605a46b70f1750ccb432c67fa74ced4ce",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/d481d82605a46b70f1750ccb432c67fa74ced4ce"
+        },
+        {
+          "path": "Code/models_/graph_encoder/Conv.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+        },
+        {
+          "path": "Code/models_/graph_encoder/models.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "df4d06125610b92787274248ac98a3afefbb65da",
+          "size": 36529,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/df4d06125610b92787274248ac98a3afefbb65da"
+        },
+        {
+          "path": "Code/models_/main_model.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f4c8259cd52d2ee6ecf3a5f8012d22f957bf9753",
+          "size": 8343,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/f4c8259cd52d2ee6ecf3a5f8012d22f957bf9753"
+        },
+        {
+          "path": "Code/models_/meta_encoder.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "bee62883834f81c5328abe5398f074053e19639f",
+          "size": 1338,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/bee62883834f81c5328abe5398f074053e19639f"
+        },
+        {
+          "path": "Code/models_/model_utils.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "040c0bc76e3e1512f4bad89b03914fbc4b356b4c",
+          "size": 7323,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/040c0bc76e3e1512f4bad89b03914fbc4b356b4c"
+        },
+        {
+          "path": "Code/models_/moe.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cf22272a849f5608d986270538f85a2b977a6f3a",
+          "size": 29421,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/cf22272a849f5608d986270538f85a2b977a6f3a"
+        },
+        {
+          "path": "Code/models_/new_moe.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "1d703ef865b6f982d574b14a48f55f2ecda72529",
+          "size": 2350,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/1d703ef865b6f982d574b14a48f55f2ecda72529"
+        },
+        {
+          "path": "Code/utils.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "02ddac02e30e27fbfd3d618bcbc1852daabed76e",
+          "size": 20338,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/02ddac02e30e27fbfd3d618bcbc1852daabed76e"
+        },
+        {
+          "path": "Data",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "6e8d5d620104b0ff8aadb0650f8b934b15b7bc76",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/6e8d5d620104b0ff8aadb0650f8b934b15b7bc76"
+        },
+        {
+          "path": "Data/process_imdb",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "41a7473299cb42fa0f6a77d55321910a4a260b74",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/41a7473299cb42fa0f6a77d55321910a4a260b74"
+        },
+        {
+          "path": "Data/process_imdb/mask_genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "8ee57be4f2a51e26d3b4ddd49497ccc0aaba0063",
+          "size": 1736,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/8ee57be4f2a51e26d3b4ddd49497ccc0aaba0063"
+        },
+        {
+          "path": "Data/process_imdb/movie_genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "00633ed36662dd10ceef8b4d96165582e5f5d0c0",
+          "size": 856,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/00633ed36662dd10ceef8b4d96165582e5f5d0c0"
+        },
+        {
+          "path": "Data/process_imdb/movie_id.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a47b0ee2ba253830955131f1c571c911401ad570",
+          "size": 341,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/a47b0ee2ba253830955131f1c571c911401ad570"
+        },
+        {
+          "path": "Data/process_imdb/nodes.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "38a878c6bb7eba43532a9a8203f25976e2184eb7",
+          "size": 5489,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/38a878c6bb7eba43532a9a8203f25976e2184eb7"
+        },
+        {
+          "path": "Data/process_imdb/review_genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "24c494cf0cda21a1907138182352ac276ccf749b",
+          "size": 1367,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/24c494cf0cda21a1907138182352ac276ccf749b"
+        },
+        {
+          "path": "Data/process_imdb/semantic.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "74b2906c3506b7755adb897d6c7e81d169a7fac0",
+          "size": 1586,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/74b2906c3506b7755adb897d6c7e81d169a7fac0"
+        },
+        {
+          "path": "Data/process_imdb/time.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "bcc3dd13f9cb2aef60bfe34730373b3ac5b8f3de",
+          "size": 1858,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/bcc3dd13f9cb2aef60bfe34730373b3ac5b8f3de"
+        },
+        {
+          "path": "Data/process_imdb/users.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "dd26f2abd1542df816710025eafc86b9b74c171e",
+          "size": 436,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/dd26f2abd1542df816710025eafc86b9b74c171e"
+        },
+        {
+          "path": "Data/process_lcs",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "25ac3d869c368afd0d86baf912885677773ed4fa",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/25ac3d869c368afd0d86baf912885677773ed4fa"
+        },
+        {
+          "path": "Data/process_lcs/build_map.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "0415c576f47798bf6e8e8aa3abd92a9df0ba45d8",
+          "size": 972,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/0415c576f47798bf6e8e8aa3abd92a9df0ba45d8"
+        },
+        {
+          "path": "Data/process_lcs/change_nodes.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "47acc8476c00c699c8135d915e400c1fd09864f0",
+          "size": 1501,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/47acc8476c00c699c8135d915e400c1fd09864f0"
+        },
+        {
+          "path": "Data/process_lcs/genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7ab267d05b76c0c5a43b8260c611f2c91e768405",
+          "size": 467,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/7ab267d05b76c0c5a43b8260c611f2c91e768405"
+        },
+        {
+          "path": "Data/process_lcs/llm",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "0bb76c88cef7d0a53771b69c7f23b0ea1fcb788d",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/0bb76c88cef7d0a53771b69c7f23b0ea1fcb788d"
+        },
+        {
+          "path": "Data/process_lcs/llm/expl_to_emb.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a6d06a81f46ce27f85538e13ab74218f05b50011",
+          "size": 1566,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/a6d06a81f46ce27f85538e13ab74218f05b50011"
+        },
+        {
+          "path": "Data/process_lcs/llm/llm.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "caef969873ec54736095529bb511f4e773c6acfd",
+          "size": 7907,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/caef969873ec54736095529bb511f4e773c6acfd"
+        },
+        {
+          "path": "Data/process_lcs/llm/prompt.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cc93c6a4606e356ebc2f507591e36e192257262e",
+          "size": 3250,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/cc93c6a4606e356ebc2f507591e36e192257262e"
+        },
+        {
+          "path": "Data/process_lcs/llm/user_prompt.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "297a0e14a15586245f5693ee3cb708652e41cab6",
+          "size": 114,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/297a0e14a15586245f5693ee3cb708652e41cab6"
+        },
+        {
+          "path": "Data/process_lcs/mask",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "957e93cd2d26db6ab525929e32640119b731ab6e",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/957e93cd2d26db6ab525929e32640119b731ab6e"
+        },
+        {
+          "path": "Data/process_lcs/mask/mask.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "20b45e937ece68265e3569bd29f53f8ccd9bc03a",
+          "size": 584,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/20b45e937ece68265e3569bd29f53f8ccd9bc03a"
+        },
+        {
+          "path": "Data/process_lcs/mask/random_mask.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "b4a690c0182f173223c7e63c11b046b35f85ff53",
+          "size": 834,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/b4a690c0182f173223c7e63c11b046b35f85ff53"
+        },
+        {
+          "path": "Data/process_lcs/mask/small_mask.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a80421aea31395ef324ee1f34adf50d7a1ae0895",
+          "size": 615,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/a80421aea31395ef324ee1f34adf50d7a1ae0895"
+        },
+        {
+          "path": "Data/process_lcs/mask_genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "8e87516aece9ab80e2e0d2fe59c6e431d498566d",
+          "size": 1716,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/8e87516aece9ab80e2e0d2fe59c6e431d498566d"
+        },
+        {
+          "path": "Data/process_lcs/meta.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "80f7d12cb0b60e0ea903b47884a1d94a23b80a4e",
+          "size": 2653,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/80f7d12cb0b60e0ea903b47884a1d94a23b80a4e"
+        },
+        {
+          "path": "Data/process_lcs/movie_genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "041a47ac63871032b454b85973ec8a754d7e4581",
+          "size": 845,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/041a47ac63871032b454b85973ec8a754d7e4581"
+        },
+        {
+          "path": "Data/process_lcs/movie_id.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "33fb43c4b66c2e0126fc45db27232314b92d40d5",
+          "size": 315,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/33fb43c4b66c2e0126fc45db27232314b92d40d5"
+        },
+        {
+          "path": "Data/process_lcs/nodes.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3f009141ea3937682f9d8baeaa3de5cf2a500ff5",
+          "size": 7379,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/3f009141ea3937682f9d8baeaa3de5cf2a500ff5"
+        },
+        {
+          "path": "Data/process_lcs/review_genre.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f43c0f49d639fabb91312a175cac9838d5b5d222",
+          "size": 1141,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/f43c0f49d639fabb91312a175cac9838d5b5d222"
+        },
+        {
+          "path": "Data/process_lcs/semantic",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "12fbc41d39e10053f6d86941b46fa344bb9573f0",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/12fbc41d39e10053f6d86941b46fa344bb9573f0"
+        },
+        {
+          "path": "Data/process_lcs/semantic/kg_semantic.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "257d84926cd32f8de0a5e6c324874a43bda40163",
+          "size": 1520,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/257d84926cd32f8de0a5e6c324874a43bda40163"
+        },
+        {
+          "path": "Data/process_lcs/semantic/semantic.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3ebba0d30e71cb40b14385b09a8b988b4e835d14",
+          "size": 3123,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/3ebba0d30e71cb40b14385b09a8b988b4e835d14"
+        },
+        {
+          "path": "Data/process_lcs/semantic/user_bias_semantic.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "0df49387c89875c6ff1dbb279ef396f93cc1cfd7",
+          "size": 1160,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/0df49387c89875c6ff1dbb279ef396f93cc1cfd7"
+        },
+        {
+          "path": "Data/process_lcs/time.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "fc64ea9d7466ba3bc95e5737e7a6b98793df9525",
+          "size": 2122,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/fc64ea9d7466ba3bc95e5737e7a6b98793df9525"
+        },
+        {
+          "path": "Data/process_lcs/z_score.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cbfbdf81c60dba3557081cff75e832df35cf0e1e",
+          "size": 1428,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/cbfbdf81c60dba3557081cff75e832df35cf0e1e"
+        },
+        {
+          "path": "README.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f5203b11b313972526673be9e9f3e758ae318d79",
+          "size": 6766,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/f5203b11b313972526673be9e9f3e758ae318d79"
+        },
+        {
+          "path": "images",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "575f305f16374a1ec46eec60afaf9ea072f028e9",
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/trees/575f305f16374a1ec46eec60afaf9ea072f028e9"
+        },
+        {
+          "path": "images/ovreview.png",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f08a11adeddf100a05f227fc2390e20fea47acb1",
+          "size": 363138,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/f08a11adeddf100a05f227fc2390e20fea47acb1"
+        },
+        {
+          "path": "requirements.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "58074383a8d1456f53db45aba09a6cbeee2728d5",
+          "size": 3578,
+          "url": "https://api.github.com/repos/AI-explorer-123/GUSD/git/blobs/58074383a8d1456f53db45aba09a6cbeee2728d5"
+        }
+      ],
+      "truncated": false
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/AI-explorer-123/GUSD/main/README.md",
+    "content": "# GUSD: Genre-aware and User-specific Spoiler Detection\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\n[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)\n\nOfficial code for **ECML-PKDD 2025** paper [\u201cUnveiling the Hidden: Movie Genre and User Bias in Spoiler Detection\u201d](https://arxiv.org/abs/2504.17834).\n\nAuthors: Haokai Zhang\\*, Shengtao Zhang\\*, Zijian Cai, Heng Wang, Ruixuan Zhu, Zinan Zeng, Minnan Luo\u2020  \n\n<p align=\"center\">\n  <img src='images/ovreview.png'>\n</p>\n\n---\n\n## Table of Contents\n- [GUSD: Genre-aware and User-specific Spoiler Detection](#gusd-genre-aware-and-user-specific-spoiler-detection)\n  - [Table of Contents](#table-of-contents)\n  - [\ud83d\udcc2Project Structure](#project-structure)\n  - [\ud83d\udee0 Requirements](#-requirements)\n  - [\ud83d\udee0 Dataset Preparation](#-dataset-preparation)\n  - [\ud83d\udcca Configuration](#-configuration)\n  - [\ud83d\ude80 Quick Start](#-quick-start)\n    - [Baseline Training](#baseline-training)\n    - [Accelerated / Distributed Training](#accelerated--distributed-training)\n    - [Heterogeneous\u2010Graph Variant](#heterogeneousgraph-variant)\n  - [Citation](#citation)\n  - [License](#license)\n\n---\n\n## \ud83d\udcc2Project Structure\n\n```\nGUSD/\n\u251c\u2500\u2500 Code\n\u2502   \u251c\u2500\u2500 ace_changed_main.py\n\u2502   \u251c\u2500\u2500 config.py\n\u2502   \u251c\u2500\u2500 hetero_main.py\n\u2502   \u251c\u2500\u2500 main.py\n\u2502   \u251c\u2500\u2500 models_\n\u2502   \u2502   \u251c\u2500\u2500 graph_encoder\n\u2502   \u2502   \u2502   \u251c\u2500\u2500 Conv.py\n\u2502   \u2502   \u2502   \u251c\u2500\u2500 models.py\n\u2502   \u2502   \u251c\u2500\u2500 main_model.py\n\u2502   \u2502   \u251c\u2500\u2500 meta_encoder.py\n\u2502   \u2502   \u251c\u2500\u2500 model_utils.py\n\u2502   \u2502   \u251c\u2500\u2500 moe.py\n\u2502   \u2502   \u251c\u2500\u2500 new_moe.py\n\u2502   \u2514\u2500\u2500 utils.py\n\u251c\u2500\u2500 Data\n\u2502   \u251c\u2500\u2500 process_imdb\n\u2502   \u2502   \u251c\u2500\u2500 mask_genre.py\n\u2502   \u2502   \u251c\u2500\u2500 movie_genre.py\n\u2502   \u2502   \u251c\u2500\u2500 movie_id.py\n\u2502   \u2502   \u251c\u2500\u2500 nodes.py\n\u2502   \u2502   \u251c\u2500\u2500 review_genre.py\n\u2502   \u2502   \u251c\u2500\u2500 semantic.py\n\u2502   \u2502   \u251c\u2500\u2500 time.py\n\u2502   \u2502   \u2514\u2500\u2500 users.py\n\u2502   \u2514\u2500\u2500 process_lcs\n\u2502       \u251c\u2500\u2500 build_map.py\n\u2502       \u251c\u2500\u2500 change_nodes.py\n\u2502       \u251c\u2500\u2500 genre.py\n\u2502       \u251c\u2500\u2500 llm\n\u2502       \u2502   \u251c\u2500\u2500 expl_to_emb.py\n\u2502       \u2502   \u251c\u2500\u2500 llm.py\n\u2502       \u2502   \u251c\u2500\u2500 prompt.py\n\u2502       \u2502   \u2514\u2500\u2500 user_prompt.py\n\u2502       \u251c\u2500\u2500 mask\n\u2502       \u2502   \u251c\u2500\u2500 mask.py\n\u2502       \u251c\u2500\u2500 mask_genre.py\n\u2502       \u251c\u2500\u2500 meta.py\n\u2502       \u251c\u2500\u2500 movie_genre.py\n\u2502       \u251c\u2500\u2500 movie_id.py\n\u2502       \u251c\u2500\u2500 nodes.py\n\u2502       \u251c\u2500\u2500 review_genre.py\n\u2502       \u251c\u2500\u2500 semantic\n\u2502       \u2502   \u251c\u2500\u2500 kg_semantic.py\n\u2502       \u2502   \u251c\u2500\u2500 semantic.py\n\u2502       \u2502   \u2514\u2500\u2500 user_bias_semantic.py\n\u2502       \u251c\u2500\u2500 time.py\n\u2502       \u251c\u2500\u2500 user_centered.py\n\u2502       \u2514\u2500\u2500 z_score.py\n\u251c\u2500\u2500 images\n\u2502   \u2514\u2500\u2500 ovreview.png\n\u251c\u2500\u2500 README.md\n\u251c\u2500\u2500 requirements.txt\n```\n\n---\n\n## \ud83d\udee0 Requirements\n\n- Python \u2265 3.8  \n- PyTorch \u2265 1.12.1 \n- Install dependencies:\n  ```bash\n  pip install -r requirements.txt\n  ```\nKey packages: `torch`, `torch-geometric`, `transformers`, `yacs`, `accelerate`, `numpy`, `pandas`, `scikit-learn`, `tqdm`.\n\n---\n\n## \ud83d\udee0 Dataset Preparation\n\n1. LCS Dataset\n   1. The LCS dataset is available at [Google Drive](https://drive.google.com/drive/folders/1By6_vmaOAaLnZGwrFCGb8UeP8eB2ae4L?usp=share_link). Please apply for access by contacting wh2213210554@stu.xjtu.edu.cn with your institutional email address and clearly state your institution, your research advisor (if any), and your use case of the data.\n   2. After getting the raw data, you can preprocessing the data using code in  `Data/process_lcs`.\n   3. When you get the preprocessed data, put them in `Data/processed_lcs_data`.\n2. IMDb Dataset\n   1. We provide preprocessed data for the Kaggle dataset, which can be directly download from [Google Drive](https://drive.google.com/file/d/1lBR1eohYUlJEWxUDHQa23rwx3UwuiUCm/view?usp=sharing).\n   2. When you get the preprocessed data, put them in `Data/processed_imdb_data`.\n\n---\n\n## \ud83d\udcca Configuration\n\nEdit `Code/config.py` or specify parameters when running python files to override defaults.\n\n---\n\n## \ud83d\ude80 Quick Start\n\n### Baseline Training\n\n```bash\nworking_dir=$(pwd)\necho -n \"Enter train name: \"\nread train_name\nmkdir -p \"$working_dir/result\"\nmkdir -p \"$working_dir/model/$train_name\"\nfor seed in 0 1 2 3 4;\ndo\n    python -m main \\\n        seed $seed \\\n        device 1 \\\n        dataset lcs \\\n        fine_tuning True \\\n        train.batch_size 128 \\\n        model.moe.type 'new moe' \\\n        model.name 'full' \\\n        model.graph_encoder.name 'K-Genreformer' \\\n        train.name \"\" \\\n        train.save_dir \"$working_dir/model/$train_name\" \\\n        >> \"$working_dir/result/$train_name.txt\"\ndone\n```\n\n### Accelerated / Distributed Training\n\n```bash\nworking_dir=$(pwd)\necho -n \"Enter train name: \"\nread train_name\nmkdir -p \"$working_dir/result\"\nmkdir -p \"$working_dir/model/$train_name\"\n\nfor seed in 0 1 2 3 4\ndo\n    CUDA_VISIBLE_DEVICES=0,1 accelerate launch  \\\n            --config_file /data3/whr/zhk/Spoiler_Detection/code/MOESD/config.yaml \\\n            --num_processes 2 \\\n            --gpu_ids 0,2 \\\n            --main_process_port 29555 \\\n            ace_changed_main.py \\\n            seed $seed \\\n            model.moe.num_experts 32 \\\n            model.name 'pe_smoe' \\\n            model.graph_encoder.in_channels 1152 \\\n            model.graph_encoder.hidden_channels 1152 \\\n            train.num_hops 2 \\\n            train.epochs 20 \\\n            train.batch_size 128 \\\n            train.lr 1e-4 \\\n            train.weight_decay 1e-5 \\\n            train.weight 1.3 \\\n            train.save_dir \"$working_dir/model/$train_name\" \\\n        >> \"$working_dir/result/$train_name.txt\"\ndone\n```\n\n### Heterogeneous\u2010Graph Variant\n\n```bash\nworking_dir=$(pwd)\necho -n \"Enter train name: \"\nread train_name\nmkdir -p \"$working_dir/result\"\nmkdir -p \"$working_dir/model/$train_name\"\n\nfor seed in 0 1 2 3 4\ndo\n    python -m hetero_main \\\n        seed $seed \\\n        device 0 \\\n        dataset lcs \\\n        fine_tuning False \\\n        train.batch_size 512 \\\n        model.name 'hgt' \\\n        train.name '' \\\n        train.save_dir \"$working_dir/model/\" \\\n        train.note \"hgt, lcs\" \\\n        >> \"$working_dir/result/$train_name.txt\"\ndone\n\n```\n\n---\n\n## Citation\n\n```bibtex\n@article{zhang2025unveiling,\n  title={Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection},\n  author={Zhang, Haokai and Zhang, Shengtao and Cai, Zijian and Wang, Heng and Zhu, Ruixuan and Zeng, Zinan and Luo, Minnan},\n  journal={arXiv preprint arXiv:2504.17834},\n  year={2025}\n}\n```\n\n---\n\n## License\n\nMIT \u00a9 Haokai Zhang et al."
+  },
+  {
+    "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/trees/master?recursive=1",
+    "content": {
+      "sha": "70448409e570bfbcfae7cbbf0697c697de62eb4a",
+      "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/trees/70448409e570bfbcfae7cbbf0697c697de62eb4a",
+      "tree": [
+        {
+          "path": ".gitignore",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "800edd35c47bf716e0b399c4ad66ea0bb5beab91",
+          "size": 2043,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/800edd35c47bf716e0b399c4ad66ea0bb5beab91"
+        },
+        {
+          "path": "README.md",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "ad342b73bbd79fbdc135927d4ac6a08658577d17",
+          "size": 510,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/ad342b73bbd79fbdc135927d4ac6a08658577d17"
+        },
+        {
+          "path": "generate_tfrecords.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3f665563091de4de62760313ac8845c3632c2033",
+          "size": 1351,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/3f665563091de4de62760313ac8845c3632c2033"
+        },
+        {
+          "path": "requirements.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "d043bcc7f80c834957ed2a2f69ca36328f3bbd26",
+          "size": 2239,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/d043bcc7f80c834957ed2a2f69ca36328f3bbd26"
+        },
+        {
+          "path": "setup.py",
+          "mode": "100755",
+          "type": "blob",
+          "sha": "d51129fa1c03a354529c907ed95c093995bb00ad",
+          "size": 1011,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/d51129fa1c03a354529c907ed95c093995bb00ad"
+        },
+        {
+          "path": "spoiler_detection",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "bb188833d405b766e62f9b55a702929036cc962b",
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/trees/bb188833d405b766e62f9b55a702929036cc962b"
+        },
+        {
+          "path": "spoiler_detection/__init__.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "1ffbf5e51b354353bc6264c3f15a1866501bc6a9",
+          "size": 49,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/1ffbf5e51b354353bc6264c3f15a1866501bc6a9"
+        },
+        {
+          "path": "spoiler_detection/datasets",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "5104801c8bbf97489c7ee9c54a811bbeefa3151d",
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/trees/5104801c8bbf97489c7ee9c54a811bbeefa3151d"
+        },
+        {
+          "path": "spoiler_detection/datasets/__init__.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "36749d6606d77f937e12242cbb6dfc21d5b98aad",
+          "size": 86,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/36749d6606d77f937e12242cbb6dfc21d5b98aad"
+        },
+        {
+          "path": "spoiler_detection/datasets/goodreads.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "8f76caa188fb56d7119620e621302dd418eae133",
+          "size": 12947,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/8f76caa188fb56d7119620e621302dd418eae133"
+        },
+        {
+          "path": "spoiler_detection/datasets/tvtropes_books.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "61cb8154c0e73ad53de622d869043c940f2426ce",
+          "size": 6528,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/61cb8154c0e73ad53de622d869043c940f2426ce"
+        },
+        {
+          "path": "spoiler_detection/datasets/tvtropes_movies.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "04e31c6dda028166d42218e5be27dc09d020f7b9",
+          "size": 1378,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/04e31c6dda028166d42218e5be27dc09d020f7b9"
+        },
+        {
+          "path": "spoiler_detection/datasets/utils.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "b169f937ebdbe71efda0d609666daf307b51036c",
+          "size": 1007,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/b169f937ebdbe71efda0d609666daf307b51036c"
+        },
+        {
+          "path": "spoiler_detection/feature_encoders.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "9ac18425c9391b2976b9dad994d3c43578e8780a",
+          "size": 1159,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/9ac18425c9391b2976b9dad994d3c43578e8780a"
+        },
+        {
+          "path": "spoiler_detection/models",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "3bbc8288e059dd7600b22f403125e0bfb84d37e7",
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/trees/3bbc8288e059dd7600b22f403125e0bfb84d37e7"
+        },
+        {
+          "path": "spoiler_detection/models/__init__.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "25b7fbc57981c497109f6325aba386ea87f489ac",
+          "size": 61,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/25b7fbc57981c497109f6325aba386ea87f489ac"
+        },
+        {
+          "path": "spoiler_detection/models/multi_sentence.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "4df3b6ac7f1b9852936d31e057deafdb7c447a1c",
+          "size": 4222,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/4df3b6ac7f1b9852936d31e057deafdb7c447a1c"
+        },
+        {
+          "path": "spoiler_detection/models/single_sentence.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "b5dab542c1054bc2e2abca35355e1c3527c65c5f",
+          "size": 2875,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/b5dab542c1054bc2e2abca35355e1c3527c65c5f"
+        },
+        {
+          "path": "spoiler_detection/optimization.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "4754590d867abc2016552b41aaae7bb279f53187",
+          "size": 9056,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/4754590d867abc2016552b41aaae7bb279f53187"
+        },
+        {
+          "path": "spoiler_detection/utils.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a1e3afd70e59925abbaf69d031c40a705946f723",
+          "size": 1163,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/a1e3afd70e59925abbaf69d031c40a705946f723"
+        },
+        {
+          "path": "test.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "80c992fd0e7bf8db13e296b0acfaedb2d03e4a32",
+          "size": 4492,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/80c992fd0e7bf8db13e296b0acfaedb2d03e4a32"
+        },
+        {
+          "path": "train.py",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a524059d05c1ad6c54bafd9f57b72dfc78c0e907",
+          "size": 6844,
+          "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/git/blobs/a524059d05c1ad6c54bafd9f57b72dfc78c0e907"
+        }
+      ],
+      "truncated": false
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rzepinskip/spoiler-detection/master/README.md",
+    "content": "# Spoiler detection using machine learning\n\nMSc thesis by Pawe\u0142 Rzepi\u0144ski under the supervision of Anna Wr\u00f3blewska, Ph.D. Eng. The objective was to design the automated methods for detecting sentences containing spoilers.\n\n## Prerequisites\n\n- UNIX based system\n- Python 3.7\n- pip\n\n## Datasets\n\n- [TV Tropes Movies](http://umiacs.umd.edu/~jbg/downloads/spoilers.tar.gz)\n- [TV Tropes Books](https://github.com/rzepinskip/tvtropes-books)\n- [Goodreads](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)\n"
+  },
+  {
+    "url": "https://api.github.com/repos/rzepinskip/spoiler-detection/releases",
+    "content": []
+  },
+  {
+    "url": "https://api.github.com/repos/MengtingWan/spoiler/git/trees/master?recursive=1",
+    "content": {
+      "sha": "669a5014c4f678100ffd81fe641f613082fd4479",
+      "url": "https://api.github.com/repos/MengtingWan/spoiler/git/trees/669a5014c4f678100ffd81fe641f613082fd4479",
+      "tree": [
+        {
+          "path": ".gitignore",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "894a44cc066a027465cd26d634948d56d13af9af",
+          "size": 1203,
+          "url": "https://api.github.com/repos/MengtingWan/spoiler/git/blobs/894a44cc066a027465cd26d634948d56d13af9af"
+        },
+        {
+          "path": "LICENSE",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+          "size": 11357,
+          "url": "https://api.github.com/repos/MengtingWan/spoiler/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+        }
+      ],
+      "truncated": false
+    }
+  },
+  {
+    "url": "https://raw.githubusercontent.com/MengtingWan/spoiler/master/README.md",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://api.github.com/repos/MengtingWan/spoiler/releases",
+    "content": []
+  },
+  {
+    "url": "https://raw.githubusercontent.com/AI-explorer-123/GUSD/main/Code/config.py",
+    "content": "from yacs.config import CfgNode as CN\nimport argparse\nimport os\n\n\ndef set_cfg(cfg):\n    # ------------------------------------------------------------------------ #\n    # Basic options\n    # ------------------------------------------------------------------------ #\n    cfg.device = 1\n    cfg.seed = 0\n    cfg.dataset = 'imdb'\n    cfg.imdb_path = './Data/processed_imdb_data'\n    cfg.lcs_path = './Data/processed_lcs_data'\n    cfg.mask = 'all'\n    cfg.feature = 'all'\n    cfg.lm_model = 'roberta'\n    cfg.flooding = False\n    cfg.flooding_gate = 0.33\n    cfg.genre_num = 30\n    cfg.fine_tuning = True\n    cfg.train = CN()\n    cfg.model = CN()\n\n    # ------------------------------------------------------------------------ #\n    # Training options\n    # ------------------------------------------------------------------------ #\n    cfg.train.name = None\n    cfg.train.save_dir = '/data3/whr/zhk/Spoiler_Detection/code/MOESD/model'\n    cfg.train.epochs = 20\n    cfg.train.lr = 1e-4\n    cfg.train.weight_decay = 1e-5\n    cfg.train.batch_size = 64\n    cfg.train.num_hops = 2\n    cfg.train.weight = 1.3\n    cfg.train.kg_model = 'CompGCN'\n    cfg.train.test_per_epoch = 4\n    cfg.train.multi_test = False\n    cfg.train.note = ''\n    cfg.train.patience = 3\n    cfg.train.warmup_epochs = 5\n\n    # ------------------------------------------------------------------------ #\n    # Basic model opuse_genretions\n    # ------------------------------------------------------------------------ #\n    cfg.model.name = 'hgt'\n    cfg.model.num_classes = 2\n    cfg.model.dropout = 0.3\n    cfg.model.walk_length = 3\n    cfg.model.k = 40\n    cfg.model.pe_dim = 128\n    cfg.model.review_movie_fusion_size = 2048\n    cfg.model.user_bias_fusion_size = 2048\n    cfg.model.kg_channels_1 = 64\n    cfg.model.kg_channels_2 = 50\n    cfg.model.activation = 'lrelu'\n    cfg.model.use_two_moe = True\n    cfg.model.use_one_moe = False\n    cfg.model.use_kg = True\n    cfg.model.trm_layers = 2\n    # zst\n    cfg.model.hop_adj = False\n    cfg.model.hop_num = 2\n    cfg.model.ratio = 0.1\n    cfg.model.num_layers_per_hop = 2\n    cfg.model.hop_decay = 0.3\n\n    # ------------------------------------------------------------------------ #\n    # Graph encoder options\n    # ------------------------------------------------------------------------ #\n    cfg.model.graph_encoder = CN()\n    cfg.model.graph_encoder.name = 'K-Genreformer'\n    cfg.model.graph_encoder.genreformer_gnn = 'GAT'\n    cfg.model.graph_encoder.activation = 'lrelu'\n    cfg.model.graph_encoder.layers = 2\n    cfg.model.graph_encoder.in_channels = 1024\n    cfg.model.graph_encoder.hidden_channels = 1024\n    cfg.model.graph_encoder.out_channels = 1024\n    cfg.model.graph_encoder.dropout = 0.3\n    cfg.model.graph_encoder.num_rels = 5\n    cfg.model.graph_encoder.heads = 4\n    cfg.model.graph_encoder.pooling = 'mean'\n\n    # ------------------------------------------------------------------------ #\n    # Meta encoder options\n    # ------------------------------------------------------------------------ #\n    cfg.model.meta_encoder = CN()\n    cfg.model.meta_encoder.name = 'MLP'\n    cfg.model.meta_encoder.activation = 'lrelu'\n    cfg.model.meta_encoder.layers = 3\n    cfg.model.meta_encoder.in_channels = 6\n    cfg.model.meta_encoder.hidden_channels = 512\n    cfg.model.meta_encoder.out_channels = 1024\n\n\n    # ------------------------------------------------------------------------ #\n    # Final MoE options\n    # ------------------------------------------------------------------------ #\n    cfg.model.moe = CN()\n    cfg.model.moe.type = 'new moe'\n    cfg.model.moe.noisy_gating = True\n    cfg.model.moe.num_experts = 32\n    cfg.model.moe.slots_per_expert = 2\n    cfg.model.moe.out_channels = 2048*3\n    cfg.model.moe.in_channels = 2048*3\n    cfg.model.moe.hidden_channels = 2048*2\n    cfg.model.moe.k = 1\n    cfg.model.moe.num_head = 4\n    cfg.model.moe.name = 'MLP'\n    cfg.model.moe.num_layers = 2\n    cfg.model.moe.dropout = 0.3\n    return cfg\n\n\ndef update_cfg(cfg, args_str=None):\n    parser = argparse.ArgumentParser()\n    parser.add_argument('--config', default=\"\",\n                        metavar=\"FILE\", help=\"Path to config file\")\n    # opts arg needs to match set_cfg\n    parser.add_argument(\"opts\", default=[], nargs=argparse.REMAINDER,\n                        help=\"Modify config options using the command-line\")\n\n    if isinstance(args_str, str):\n        # parse from a string\n        args = parser.parse_args(args_str.split())\n    else:\n        # parse from command line\n        args = parser.parse_args()\n    # Clone the original cfg\n    cfg = cfg.clone()\n\n    # Update from config file\n    if os.path.isfile(args.config):\n        cfg.merge_from_file(args.config)\n\n    # Update from command line\n    cfg.merge_from_list(args.opts)\n\n    if cfg.dataset == 'lcs':\n        specific = ['model.meta_encoder.in_channels', 6,\n                    'lm_model', 'roberta',\n                    'model.graph_encoder.in_channels', 768,\n                    'model.graph_encoder.hidden_channels', 768,\n                    'model.graph_encoder.out_channels', 768,\n                    'model.meta_encoder.out_channels', 768,\n                    'genre_num', 30]\n    elif cfg.dataset == 'imdb':\n        specific = ['model.meta_encoder.in_channels', 3,\n                    'fine_tuning', False,\n                    'lm_model', 'bge-large',\n                    'model.graph_encoder.in_channels', 1024,\n                    'model.graph_encoder.hidden_channels', 1024,\n                    'model.graph_encoder.out_channels', 1024,\n                    'model.meta_encoder.out_channels', 1024,\n                    'genre_num', 21]\n        \n    cfg.merge_from_list(specific)\n\n    return cfg\n\n\ncfg = set_cfg(CN())\n# print(cfg)\n"
+  },
+  {
+    "url": "https://api.github.com/repos/AI-explorer-123/GUSD/releases",
+    "content": []
+  }
+]

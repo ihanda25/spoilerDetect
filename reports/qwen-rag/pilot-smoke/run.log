@@ -1,0 +1,8 @@
+Prepared 94 paired development examples.
+Traceback (most recent call last):
+  File "/Users/ishaanhanda/Desktop/Projects/spoilerDetect/scripts/compare_qwen_rag.py", line 218, in <module>
+    run(rows, manifest, args.max_requests)
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ishaanhanda/Desktop/Projects/spoilerDetect/scripts/compare_qwen_rag.py", line 156, in run
+    raise ValueError('Cache mismatch; preserve earlier results and use a new output folder.')
+ValueError: Cache mismatch; preserve earlier results and use a new output folder.

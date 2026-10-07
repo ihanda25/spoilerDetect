@@ -1,0 +1,232 @@
+{
+  "splits": {
+    "train": {
+      "rows": 11970,
+      "columns": [
+        "sentence",
+        "spoiler",
+        "verb",
+        "page",
+        "trope"
+      ],
+      "labels": {
+        "True": 6288,
+        "False": 5682
+      },
+      "pages": 679,
+      "tropes": 4344,
+      "empty_texts": 0,
+      "missing_fields": 0,
+      "duplicate_normalized_extra_rows": 32,
+      "word_lengths": {
+        "0": 1,
+        "50": 18,
+        "90": 36,
+        "95": 43,
+        "99": 62,
+        "100": 160
+      },
+      "explicit_spoiler_word_rows": 8
+    },
+    "validation": {
+      "rows": 1066,
+      "columns": [
+        "sentence",
+        "spoiler",
+        "verb",
+        "page",
+        "trope"
+      ],
+      "labels": {
+        "False": 496,
+        "True": 570
+      },
+      "pages": 71,
+      "tropes": 662,
+      "empty_texts": 0,
+      "missing_fields": 0,
+      "duplicate_normalized_extra_rows": 0,
+      "word_lengths": {
+        "0": 2,
+        "50": 18,
+        "90": 36,
+        "95": 42,
+        "99": 58,
+        "100": 165
+      },
+      "explicit_spoiler_word_rows": 0
+    },
+    "test": {
+      "rows": 1477,
+      "columns": [
+        "sentence",
+        "spoiler",
+        "verb",
+        "page",
+        "trope"
+      ],
+      "labels": {
+        "False": 700,
+        "True": 777
+      },
+      "pages": 62,
+      "tropes": 884,
+      "empty_texts": 0,
+      "missing_fields": 0,
+      "duplicate_normalized_extra_rows": 1,
+      "word_lengths": {
+        "0": 1,
+        "50": 17,
+        "90": 34,
+        "95": 40,
+        "99": 56,
+        "100": 103
+      },
+      "explicit_spoiler_word_rows": 1
+    }
+  },
+  "overlap": {
+    "train__validation": {
+      "sentence": 1,
+      "page": 0,
+      "trope": 422
+    },
+    "train__test": {
+      "sentence": 1,
+      "page": 0,
+      "trope": 556
+    },
+    "validation__test": {
+      "sentence": 0,
+      "page": 0,
+      "trope": 156
+    }
+  },
+  "files": {
+    "sample-review.json": {
+      "bytes": 16765,
+      "sha256": "b636c44341ee1958b59880bfd6484a33e5945a4d354f3d7ff58a644b9057878c"
+    },
+    "validation.csv": {
+      "bytes": 167801,
+      "sha256": "084582d8b6bdc9bb76dfac1f2606a4d35d3fee704e92641ddaf625a75ce8c15a"
+    },
+    "original.tar.gz": {
+      "bytes": 938994,
+      "sha256": "bdaab5ffa2cb4d59c6af5077a19769c1c4710f072713d6b900ae1b45dca157a8"
+    },
+    "test.csv": {
+      "bytes": 221218,
+      "sha256": "190869bef8bbd62bd2750db6fd360db7f19317c11a455c8f1c3120626d76051e"
+    },
+    "train.csv": {
+      "bytes": 1870504,
+      "sha256": "b126ea22b90228025ad9d9840b741f1f453dcfb0f03f28867bf5e989814429e8"
+    }
+  },
+  "original_archive": {
+    "dev1.balanced.csv": {
+      "rows": 1066,
+      "pages": 71,
+      "page_overlap_with_downloaded": {
+        "train": 0,
+        "validation": 71,
+        "test": 0
+      },
+      "sha256": "084582d8b6bdc9bb76dfac1f2606a4d35d3fee704e92641ddaf625a75ce8c15a",
+      "identical_to_downloaded": [
+        "validation"
+      ]
+    },
+    "dev2.balanced.csv": {
+      "rows": 1748,
+      "pages": 72,
+      "page_overlap_with_downloaded": {
+        "train": 0,
+        "validation": 0,
+        "test": 0
+      },
+      "sha256": "4fd9bac7bc570a8d4f099bd3df5d7ca1724ecd461216577967cb0311daf0f679",
+      "identical_to_downloaded": []
+    },
+    "test.balanced.csv": {
+      "rows": 1477,
+      "pages": 62,
+      "page_overlap_with_downloaded": {
+        "train": 0,
+        "validation": 0,
+        "test": 62
+      },
+      "sha256": "190869bef8bbd62bd2750db6fd360db7f19317c11a455c8f1c3120626d76051e",
+      "identical_to_downloaded": [
+        "test"
+      ]
+    },
+    "train.balanced.csv": {
+      "rows": 11970,
+      "pages": 679,
+      "page_overlap_with_downloaded": {
+        "train": 679,
+        "validation": 0,
+        "test": 0
+      },
+      "sha256": "b126ea22b90228025ad9d9840b741f1f453dcfb0f03f28867bf5e989814429e8",
+      "identical_to_downloaded": [
+        "train"
+      ]
+    }
+  },
+  "conflicting_normalized_texts": 3,
+  "conflict_locations": [
+    {
+      "normalized_sha256": "5b33b2a6f73f931a9998afaba87933493e06afcc2809d32bedd13ee618ec9450",
+      "rows": [
+        {
+          "split": "train",
+          "row_index": 1638,
+          "label": "True"
+        },
+        {
+          "split": "test",
+          "row_index": 400,
+          "label": "False"
+        }
+      ]
+    },
+    {
+      "normalized_sha256": "51e4855a231588a15da60aee708402d44a97a6e862694d6d110f4d92f42fbbd4",
+      "rows": [
+        {
+          "split": "train",
+          "row_index": 3735,
+          "label": "True"
+        },
+        {
+          "split": "train",
+          "row_index": 6282,
+          "label": "False"
+        },
+        {
+          "split": "train",
+          "row_index": 8700,
+          "label": "True"
+        }
+      ]
+    },
+    {
+      "normalized_sha256": "b4538824bd1182c4b0ed4cd4da97b58040c52f53a52d550882fa06c501994166",
+      "rows": [
+        {
+          "split": "train",
+          "row_index": 8008,
+          "label": "False"
+        },
+        {
+          "split": "train",
+          "row_index": 8021,
+          "label": "True"
+        }
+      ]
+    }
+  ]
+}

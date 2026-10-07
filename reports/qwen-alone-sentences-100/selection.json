@@ -1,0 +1,702 @@
+[
+  {
+    "id": "tvtropes:train:2913",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2913,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2954",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2954,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2932",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2932,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2955",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2955,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2924",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2924,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2947",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2947,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2950",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2950,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2935",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2935,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2943",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2943,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2888",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2888,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2894",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2894,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2948",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2948,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2945",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2945,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:2904",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2904,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2878",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2878,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2898",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2898,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2881",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2881,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2965",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2965,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2960",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2960,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2949",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2949,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2958",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2958,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2886",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2886,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2925",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2925,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2910",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2910,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:2972",
+    "work_page": "Firefly",
+    "source_split": "train",
+    "source_row": 2972,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3492",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3492,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3306",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3306,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3376",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3376,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3373",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3373,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3367",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3367,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3383",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3383,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3340",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3340,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3394",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3394,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3379",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3379,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3348",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3348,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3232",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3232,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3238",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3238,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:3445",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3445,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3278",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3278,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3279",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3279,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3473",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3473,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3254",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3254,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3271",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3271,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3220",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3220,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3510",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3510,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3337",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3337,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3247",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3247,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3309",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3309,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3251",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3251,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:3459",
+    "work_page": "Fringe",
+    "source_split": "train",
+    "source_row": 3459,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8594",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8594,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8618",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8618,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8425",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8425,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8573",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8573,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8520",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8520,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8551",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8551,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8605",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8605,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8557",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8557,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8429",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8429,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8413",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8413,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8585",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8585,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8542",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8542,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8521",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8521,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:8435",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8435,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8504",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8504,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8471",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8471,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8453",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8453,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8449",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8449,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8462",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8462,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8477",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8477,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8563",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8563,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8489",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8489,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8616",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8616,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8495",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8495,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:8558",
+    "work_page": "Sherlock",
+    "source_split": "train",
+    "source_row": 8558,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7281",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7281,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7247",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7247,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7269",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7269,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7196",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7196,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7216",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7216,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7313",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7313,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7236",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7236,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7246",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7246,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7253",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7253,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7209",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7209,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7302",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7302,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7234",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7234,
+    "label": 1
+  },
+  {
+    "id": "tvtropes:train:7235",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7235,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7273",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7273,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7226",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7226,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7295",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7295,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7240",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7240,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7194",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7194,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7266",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7266,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7248",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7248,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7265",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7265,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7227",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7227,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7229",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7229,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7215",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7215,
+    "label": 0
+  },
+  {
+    "id": "tvtropes:train:7309",
+    "work_page": "PersonOfInterest",
+    "source_split": "train",
+    "source_row": 7309,
+    "label": 0
+  }
+]

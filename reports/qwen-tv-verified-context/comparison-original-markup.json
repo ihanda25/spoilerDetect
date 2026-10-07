@@ -1,0 +1,65 @@
+{
+  "warning": "Exploratory development agreement; see manifest for label provenance, not human gold. Abstentions count as missed positives in recall.",
+  "arms": {
+    "alone": {
+      "all": {
+        "invalid": 0,
+        "positives": 6,
+        "tp": 4,
+        "fn": 1,
+        "abstentions": 1,
+        "negatives": 8,
+        "tn": 5,
+        "fp": 3,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": 0.375,
+        "coverage": 0.9285714285714286,
+        "precision": 0.5714285714285714
+      },
+      "tv_markup_dev": {
+        "invalid": 0,
+        "positives": 6,
+        "tp": 4,
+        "fn": 1,
+        "abstentions": 1,
+        "negatives": 8,
+        "tn": 5,
+        "fp": 3,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": 0.375,
+        "coverage": 0.9285714285714286,
+        "precision": 0.5714285714285714
+      }
+    },
+    "context": {
+      "all": {
+        "invalid": 3,
+        "positives": 6,
+        "tp": 4,
+        "abstentions": 3,
+        "fn": 1,
+        "negatives": 8,
+        "tn": 5,
+        "fp": 1,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": 0.125,
+        "coverage": 0.7857142857142857,
+        "precision": 0.8
+      },
+      "tv_markup_dev": {
+        "invalid": 3,
+        "positives": 6,
+        "tp": 4,
+        "abstentions": 3,
+        "fn": 1,
+        "negatives": 8,
+        "tn": 5,
+        "fp": 1,
+        "recall": 0.6666666666666666,
+        "false_positive_rate": 0.125,
+        "coverage": 0.7857142857142857,
+        "precision": 0.8
+      }
+    }
+  }
+}

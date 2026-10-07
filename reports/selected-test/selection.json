@@ -1,0 +1,7 @@
+{
+  "checkpoint": "models/minilm-full/checkpoint.pt",
+  "epoch": 2,
+  "threshold": 0.21579217910766602,
+  "selection_source": "validation maximum F1",
+  "selected_at": "2026-09-30 19:29:04 -0400"
+}

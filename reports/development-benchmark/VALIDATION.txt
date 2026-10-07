@@ -1,0 +1,1 @@
+PASS: 64 schemas, saved score/threshold/length invariants, metrics, provenance hash, review templates, and evidence spans; no inference run.

@@ -1,0 +1,2102 @@
+{
+  "real-7110f77f48a742b8": {
+    "group_id": "group-14814573c60062a9",
+    "split": "test",
+    "text_sha256": "838c12b19ac0a7014b26bda4f2217df6d95b52847c1bbdbf17a64b20cb44a37d",
+    "source_group": "https://www.theguardian.com/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+    "work_keys": []
+  },
+  "real-9413f71394ae8856": {
+    "group_id": "group-41c048a6e419abf5",
+    "split": "dev",
+    "text_sha256": "2317e92787d887eefca897cac6bc11bebb44ed0ff959ed201ac80fc7aa009692",
+    "source_group": "https://www.theguardian.com/books/2026/oct/01/dodge-city-by-patrick-dewitt-review-a-wild-draft-dodging-road-trip",
+    "work_keys": [
+      "dodge city by patrick dewitt"
+    ]
+  },
+  "real-2bbbc47562c917df": {
+    "group_id": "group-e731c3e8a80d181e",
+    "split": "dev",
+    "text_sha256": "6f427178c48005f3bac6ab231aee452d8a8b4bd3e39904320d0098d8a73e1bad",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office",
+    "work_keys": [
+      "digger"
+    ]
+  },
+  "real-b7a016dc5e3fdd3d": {
+    "group_id": "group-8f4bd0c8ab259f77",
+    "split": "test",
+    "text_sha256": "69fcd43e4a18af998b14a142957f6ec09f18879114a9486f0ed575116a65d145",
+    "source_group": "https://www.theguardian.com/books/2026/oct/01/the-mercy-step-by-marcia-hutchinson-audiobook-review-a-caribbean-childs-eye-view-of-60s-bradford",
+    "work_keys": [
+      "child",
+      "the mercy step by marcia hutchinson audiobook"
+    ]
+  },
+  "real-3b138ba78eefae17": {
+    "group_id": "group-3d9d42e0a3ad604c",
+    "split": "dev",
+    "text_sha256": "35fc32e83604a6d44f2f7e59742721a5d7e1a8b6909efbdb636ecae8650f97a2",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/04/the-reluctant-vampire-review-lenny-rush-comedy-bbc",
+    "work_keys": [
+      "the reluctant vampire"
+    ]
+  },
+  "real-97f24e9ce5396025": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "3633092fc5178c11b6f7b49963eadbe7ce2df2ed520effa62858a2bfcd0bf148",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-0d0cce825a8dd445": {
+    "group_id": "group-6d4f47b088be6449",
+    "split": "dev",
+    "text_sha256": "087f4e5f41a946b65e46887055c123f2678230b8a1c3975afd402b5a54dc570a",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/23/wonkas-golden-ticket-review-netflix",
+    "work_keys": [
+      "wonka s golden ticket"
+    ]
+  },
+  "real-fbb66f6741886e7f": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "8d4d2d3420c6fdf7351c4f171a606dbb77e3b90e4ff7988a2d3f946260fb2ea8",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-306c34936af4afce": {
+    "group_id": "group-35221e020fdc6906",
+    "split": "dev",
+    "text_sha256": "f9eb7fc502a8ad8a1b89ca733c0d41be5446e8ae3158814fd61eb862edf37ce2",
+    "source_group": "https://www.theguardian.com/books/2026/sep/27/tomi-adeyemi-on-the-film-of-her-hit-novel-children-of-blood-and-bone-i-dont-plan-to-watch-it",
+    "work_keys": []
+  },
+  "real-4b72935273d2df09": {
+    "group_id": "group-514a39b35504768b",
+    "split": "dev",
+    "text_sha256": "119025d012d644a4d352498410e8f5fae3da3eb5b148460cf100b87334770183",
+    "source_group": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+    "work_keys": [
+      "cameron winter at carnegie hall",
+      "winter"
+    ]
+  },
+  "real-d1ec33947010af34": {
+    "group_id": "group-ddda83862ab49717",
+    "split": "dev",
+    "text_sha256": "2d171c102afc20e278e33e62df313bf080ff3240966eb76a5a28d57da88821fa",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space",
+    "work_keys": []
+  },
+  "real-15176b64fbe657e7": {
+    "group_id": "group-a070ec75d2bad88c",
+    "split": "dev",
+    "text_sha256": "f47a52219c66a3fb6831241d7fc5a2cc1e4a997e175a94f90f3d0f71dfe936a2",
+    "source_group": "https://www.theguardian.com/film/2026/oct/02/new-skywalker-trilogy-star-wars-jon-watts",
+    "work_keys": []
+  },
+  "real-71734cd6a50b85ab": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "50ac0e6c14de4d50ee3a071b9ffe60f6bd60cb732a1fae1a88e23fb726e95895",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-6ec4ebe7b53e35dd": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "362e0447d04d2175a78f9327db712d8e5521829ba6f21611f809e73091ecd748",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-d983fd06cdb41420": {
+    "group_id": "group-8933cbdfe117db34",
+    "split": "dev",
+    "text_sha256": "299f76d36d8c95da0ef48a4eae039b4105eaed7c4cd4019f24bd0d6d8d9d9205",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
+    "work_keys": []
+  },
+  "real-90e21de071c2d5c1": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "2a022c5020e908cc6c6a2fb494dc716ca4cf57666af80f6674f54e768e22c8f4",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-f74fd1beed395944": {
+    "group_id": "group-d20a13f5e9f67b46",
+    "split": "dev",
+    "text_sha256": "244740a410ed097182722ec65eab5c3c1ccd8ea0b6f548ce138578d4b3034c8c",
+    "source_group": "https://www.theguardian.com/games/2026/sep/22/control-resonant-review-save-new-york-from-paranormal-phenomena",
+    "work_keys": [
+      "control resonant"
+    ]
+  },
+  "real-3b94642fd6f00802": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "cf53c62eb515d732d55eb83924bd2eaaa272e87df56bf98fd9bf8bd5f6fcd679",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-abb73a3f4dba3aac": {
+    "group_id": "group-1bfb2342f038680e",
+    "split": "test",
+    "text_sha256": "8cfce4b4e5de86361e91b7a9d1cdb371f42f40c749a0b8841380c0b8cbc5ca6a",
+    "source_group": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review",
+    "work_keys": []
+  },
+  "real-0eddaf9a93555364": {
+    "group_id": "group-b062a9273cf1d7eb",
+    "split": "test",
+    "text_sha256": "c3db7bf459e06f58632916872ac4d356d289cd877378feb4357c4bb9473a6726",
+    "source_group": "https://www.theguardian.com/books/2026/sep/29/the-fall-of-the-west-by-owen-jones-review-a-bracing-history-of-the-changing-world-order",
+    "work_keys": [
+      "the fall of the west by owen jones"
+    ]
+  },
+  "real-fc094a4baa457d2f": {
+    "group_id": "group-75c99b850159c702",
+    "split": "dev",
+    "text_sha256": "3e9ccb55b6603c5fd6a361cc78553d43371a38244b37ff2fc8c6fdd4bf0d8c89",
+    "source_group": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
+    "work_keys": [
+      "take it or leave it"
+    ]
+  },
+  "real-26505bdaa97b6ae0": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "58cb82e8a815f34d87eba8ac4b3a4a3429f0b89a4fbf92a7bb6ffdd97fc38549",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-e4bebccb4736c2dc": {
+    "group_id": "group-3ab98381fc0509c0",
+    "split": "dev",
+    "text_sha256": "e7c5384ddad91f87a9071757368e3ca21b1cd5c289e7f3d3a9cceaf95ed978e7",
+    "source_group": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
+    "work_keys": []
+  },
+  "real-4b875b55e0ff53c1": {
+    "group_id": "group-c1c117a884e6462c",
+    "split": "dev",
+    "text_sha256": "fb90c478f6e1678ffa6961dbe5ab9b56ebf50bfc5e0a52f6dae35b1c0eafddf9",
+    "source_group": "https://www.theguardian.com/books/2026/aug/28/childrens-books-roundup-the-best-new-picture-books-and-novels",
+    "work_keys": []
+  },
+  "real-48974228f824d086": {
+    "group_id": "group-e133696400dc579d",
+    "split": "dev",
+    "text_sha256": "b14c935d4be01bbb4c0ad883595c07c2cd088b1cbbb852bd0fe0aeabd0738573",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/22/the-great-british-bake-off-review-nigella-wise-generous-perfect-national-treasure",
+    "work_keys": [
+      "the great british bake off"
+    ]
+  },
+  "real-5d1eda28c453a58e": {
+    "group_id": "group-f7a250fac72f3ce6",
+    "split": "test",
+    "text_sha256": "45617cf6166c9cb1ae8eb452022f1e4fb2910ba1aa984fa1d32c1e7156fe7fee",
+    "source_group": "https://www.theguardian.com/artanddesign/2026/oct/04/wakaliga-uganda-review-chisenhale-gallery-kibuuka-omumbaale",
+    "work_keys": [
+      "wakaliga uganda"
+    ]
+  },
+  "real-b2194d26d6bea8bf": {
+    "group_id": "group-8c9e2efd7aaadab8",
+    "split": "dev",
+    "text_sha256": "876aecc71a50a92ea14b5ce359ac69ad7cb3f6081f5752cc51ccd97a02b59248",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/01/break-clause-review-lara-ricote-channel-4",
+    "work_keys": [
+      "break clause"
+    ]
+  },
+  "real-e75078198946bfd3": {
+    "group_id": "group-514a39b35504768b",
+    "split": "dev",
+    "text_sha256": "80da0bbab62b09a307259f18d96e02eb363899e50eb5c97347e95afa953b7b56",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits",
+    "work_keys": [
+      "the last first winter k2",
+      "winter"
+    ]
+  },
+  "real-4672fba6a2294d90": {
+    "group_id": "group-d0ffbf272ddb5243",
+    "split": "dev",
+    "text_sha256": "3eb4f675f7fd4792e8f5490fb206f0d965d28325659b4719a8e3ea9beb8cbe8e",
+    "source_group": "https://www.theguardian.com/books/2026/oct/02/the-long-cloud-hector-mackenzie-book-review",
+    "work_keys": [
+      "the long cloud by hector mackenzie"
+    ]
+  },
+  "real-897ba3563e6c4c23": {
+    "group_id": "group-acf31a28057ed7b1",
+    "split": "dev",
+    "text_sha256": "a8735abc8329a6d7dc2aa72766ba394e63f4bb616bc9717e195e91f4cd8eff5c",
+    "source_group": "https://www.theguardian.com/books/2026/sep/29/stations-by-louise-kennedy-review-a-superb-follow-up-to-trespasses",
+    "work_keys": [
+      "stations by louise kennedy"
+    ]
+  },
+  "real-b83524672ac8660a": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "909037b589a58a2941d6d3ba62c3489ac4235bbf6d385c6f232b49bed6e2b0cd",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-d9f98cbc6c60262e": {
+    "group_id": "group-ca60cd9f6454d7cd",
+    "split": "dev",
+    "text_sha256": "9c5ee216995521d3e6dc8854ad4575d4611458aadf68afb533a40698398eb396",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/27/eva-longoria-searching-for-france-review-bbc-two-iplayer",
+    "work_keys": [
+      "eva longoria searching for france"
+    ]
+  },
+  "real-c4f4a4c145b15b19": {
+    "group_id": "group-e731c3e8a80d181e",
+    "split": "dev",
+    "text_sha256": "3645f10b379751ac33f54da99f29edbfc149871b96dc673b0bcb700257d25dd0",
+    "source_group": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
+    "work_keys": [
+      "digger"
+    ]
+  },
+  "real-b88d1defa36ccdda": {
+    "group_id": "group-8db5b6a152b99b3c",
+    "split": "test",
+    "text_sha256": "bd456b1cca73c3dc7bb5a0c8904cd1a6a425dfef4ee847b44fea77c7eab3bf89",
+    "source_group": "https://www.theguardian.com/culture/2026/sep/22/nimesh-patel-buy-the-dip-netflix-comedy-special",
+    "work_keys": []
+  },
+  "real-72e5f5b9c82cdd7b": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "488434d21e31babd2d1a9d4b6c941a58e65e161863e054a45281a9d52a02221b",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-b3a1f22364027938": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "3d02fdc4d52220fd387ef38a45d4e0d5c236386c0cc2b1857757ce0a39b9bdad",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-955ee16341608b0a": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "ce74e44d9863768bacdab1a7f480b985b707111d821bca5ad0472bc6f8f5b5f9",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-3ee90b88b20340a4": {
+    "group_id": "group-b7b17e4da26a6ff1",
+    "split": "test",
+    "text_sha256": "e0a8dbc71520386a799324abdf75c4780500566f940512001a29257cd979e3fb",
+    "source_group": "https://www.theguardian.com/books/2026/oct/04/we-have-been-dispossessed-nick-hayes-on-land-rights-and-a-peaceful-revolution-at-the-real-toad-hall",
+    "work_keys": []
+  },
+  "real-cce2d1de5dc37b22": {
+    "group_id": "group-9730f8772ad4ac8d",
+    "split": "dev",
+    "text_sha256": "e560990f45536d637844079973111f3139bf23c95a65030cc89ee0fc14a8252f",
+    "source_group": "https://www.theguardian.com/books/2026/sep/26/we-left-ireland-because-there-wasnt-work-and-we-wanted-to-get-the-hell-away-trespasses-author-louise-kennedy",
+    "work_keys": []
+  },
+  "real-983298691a202dd5": {
+    "group_id": "group-3def80aaea8bf663",
+    "split": "test",
+    "text_sha256": "b7c958a5d8d4dd3b3bd534947ac80a123aa2a0547a50ebdbcf818f093abf55f6",
+    "source_group": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
+    "work_keys": [
+      "resident evil"
+    ]
+  },
+  "real-68a51c07275dd052": {
+    "group_id": "group-c2e39b8737968a65",
+    "split": "dev",
+    "text_sha256": "daa06823673b7edfa4ebd67b83ee3020220322fc2f9c39a2b63e8910cf401976",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+    "work_keys": [
+      "the yellow tie"
+    ]
+  },
+  "real-a21e77fa2b97c6ea": {
+    "group_id": "group-1abbc0084f6efa88",
+    "split": "dev",
+    "text_sha256": "f204cb3fc357f513fde26b63f9751f3422950f6f5899235c5b1843c124b853a7",
+    "source_group": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review",
+    "work_keys": [
+      "behemoth"
+    ]
+  },
+  "real-1b3e74c07ea3b44d": {
+    "group_id": "group-49ab81af68283498",
+    "split": "dev",
+    "text_sha256": "849a52b97aaf87414287efbae1be2fdf11f7b6d57335c215e6c79136031802fc",
+    "source_group": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children",
+    "work_keys": []
+  },
+  "real-7d7afc216e2977bf": {
+    "group_id": "group-587cc76f6075c523",
+    "split": "dev",
+    "text_sha256": "7744b92c55614326e74d3598045cec32d13429764ea2ee2ca9d6fb69e5bef42f",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/01/south-park-has-ai-datacentres-sentient-penises-and-a-billionaire-problem-in-more-ways-than-one",
+    "work_keys": []
+  },
+  "real-55c86178c2819b4b": {
+    "group_id": "group-5a7bda10e82789e8",
+    "split": "test",
+    "text_sha256": "a90212b3f2053c9896be8363397e034e7bca08ad59c87a99f4a24eb99e7df6ea",
+    "source_group": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar",
+    "work_keys": [
+      "rapture"
+    ]
+  },
+  "real-9ae8db99f9951127": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "6f14124cca5eb543b735e6ffedba22db946805c32feedc1bb80b31cf357f6616",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-260ed27b2bff4201": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "cc1645c308281e7d4dc105201fdd93abb4d3b8f6973dacf90e0781698b27e804",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-61cce6699f3e8720": {
+    "group_id": "group-aa0c8cdf9414df89",
+    "split": "test",
+    "text_sha256": "4b0bc2618fe96551ab2fb4cb4b1fada491a0d9b8dbf74fe20a65a25e84997240",
+    "source_group": "https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-minecraft-city",
+    "work_keys": []
+  },
+  "real-028e2971b00033fe": {
+    "group_id": "group-9ee0f7821683414d",
+    "split": "dev",
+    "text_sha256": "cc40b26ce7e49f6a732dabecda4e5d93c34c79e4e1df92aec82234b37741bdb9",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/22/sealook-netflix-seal-cartoon-pet-dogs-cats-transfixed",
+    "work_keys": []
+  },
+  "real-ce7b32cc4ec39b30": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "538f92c9ad4567fc9cd79ae41ac9a601327be1b7a7c3d5cdb191c55faa34f9dd",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-44535c3d86daecb1": {
+    "group_id": "group-36e0331eb0824256",
+    "split": "test",
+    "text_sha256": "78ac3063b9b5d1e920b704e2abdfb0b3f3ced3f5d0373d27e6c4ac73d0f2a660",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/charlie-shaws-revenge-review",
+    "work_keys": [
+      "charlie shaw s revenge"
+    ]
+  },
+  "real-a7a45c4028aab1b8": {
+    "group_id": "group-3388a5793dddbaac",
+    "split": "test",
+    "text_sha256": "b25c1b4759de1f0edd474b17338101b9f37740ca8e60fdfa6b0cf087241c1a09",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/02/war-review-george-kay-sienna-miller-dominic-west",
+    "work_keys": [
+      "war"
+    ]
+  },
+  "real-b658d908aa39c9d9": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "10d609f6bf3342b0e4501d4fd8611cf1374e8e7b6da1429ee63eaf4e42a43e55",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-adb60534599fa36d": {
+    "group_id": "group-e7d6a5f02da1924e",
+    "split": "dev",
+    "text_sha256": "f29d3ae4aff67cad0c10fdc97263badaba1b6852e4f277da8a95fb4f5873da5b",
+    "source_group": "https://www.theguardian.com/games/2026/aug/04/big-walk-review-larking-around-with-mates-elevated-to-an-artform",
+    "work_keys": [
+      "big walk"
+    ]
+  },
+  "real-eb934dcf27198136": {
+    "group_id": "group-d2e2077e7ad6cda0",
+    "split": "dev",
+    "text_sha256": "5a52c4307028c7e9d7f304d628578fc051264c86df8f3251085c5ecd723479a8",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld",
+    "work_keys": [
+      "karl"
+    ]
+  },
+  "real-2e63c87d4efc0ade": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "73e8d0ae33c63152d30f44920e1f8ada88fc3288a72730932440a828deb464b2",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-56e714dc994a87e5": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "f538fdf16980f03e74cfe3744cb54b101345853c219c4beeba8d013e488d42dc",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-621277e5c80fb448": {
+    "group_id": "group-4e61c93c1af3a344",
+    "split": "test",
+    "text_sha256": "da7a8e7ede0e8308a571c6c899eef20e6a76844955b4ef10b8637c59a4d0222a",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/21/the-wargame-review-sky-one-michael-gove-nicola-sturgeon-reality-show",
+    "work_keys": [
+      "the wargame"
+    ]
+  },
+  "real-1881ade15e14dd6d": {
+    "group_id": "group-01938523b76bedc3",
+    "split": "dev",
+    "text_sha256": "a58d6062a016068529cd25d4d6f1feaac1a451daed7ac3029be793fbb74b5c04",
+    "source_group": "https://www.theguardian.com/books/2026/oct/05/a-former-poet-laureate-and-a-pulitzer-winner-lead-ts-eliot-prize-shortlist",
+    "work_keys": []
+  },
+  "real-d13611057d425670": {
+    "group_id": "group-d17573caeddb9fbf",
+    "split": "dev",
+    "text_sha256": "6528852f4c3887f2f01ed318902fa3ccd443389e95f3d7c6c629d17ac178541c",
+    "source_group": "https://www.theguardian.com/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality",
+    "work_keys": [
+      "range by dorthe nors"
+    ]
+  },
+  "real-08d4e363ec7450e8": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "ab27111b4671bd837d81a648dba8cfebbf0516c761b8fc8a9c42f62a55416384",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-3a6e7517d83e75c5": {
+    "group_id": "group-b695a8a9e1df4fc3",
+    "split": "dev",
+    "text_sha256": "cb026af31222f6be84a8492e8018b9ba9872938f6dac2cef993820160b8efda2",
+    "source_group": "https://www.theguardian.com/books/2026/may/08/readers-tribute-to-carol-rumens-poem-of-the-week-columnist",
+    "work_keys": []
+  },
+  "real-0fcd9f1064ce2937": {
+    "group_id": "group-bf988875d2ed0977",
+    "split": "dev",
+    "text_sha256": "617959eb7d78df770ad29d0a7c9749307125ca2a44873a7b355fa677d89dfd39",
+    "source_group": "https://www.theguardian.com/books/2026/sep/04/kevin-powers-i-was-ready-to-abandon-infinite-jest-a-thousand-times",
+    "work_keys": []
+  },
+  "real-c130863e51be23ac": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "ba5b97afe8fc528149b9c5a0095b6881ce9cad2026cb082e93557cd6b415b8ad",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-9b791968e061db98": {
+    "group_id": "group-20a1a1b6aa0fc028",
+    "split": "dev",
+    "text_sha256": "e7615acbd52fcc92f08257f01c69f05ff586598c97c4f60e1550595fab2f05fe",
+    "source_group": "https://www.theguardian.com/books/2026/sep/30/best-autumn-cookbooks-2026-felicity-cloake",
+    "work_keys": [
+      "from cordon bleu to pasta and pies the best autumn cookbooks for 2026 reviewed"
+    ]
+  },
+  "real-2f2ffc4caafc4a0f": {
+    "group_id": "group-f141fb96a033affd",
+    "split": "test",
+    "text_sha256": "2938d402588a7f0aca58a871933b891d16ca7f06eed921200149c79c7e056185",
+    "source_group": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/jun/12/the-best-podcasts-of-2026-so-far",
+    "work_keys": []
+  },
+  "real-54078b4400e8556b": {
+    "group_id": "group-a9e9992b99c27b0b",
+    "split": "dev",
+    "text_sha256": "ea407de6958573dafee14da4bc89f74695257323c893dec620aff37a37d02386",
+    "source_group": "https://www.theguardian.com/games/2026/jul/28/the-mermaid-mask-review-detective-grimoire-sfb",
+    "work_keys": [
+      "the mermaid mask"
+    ]
+  },
+  "real-7930b3dffcf77dda": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "422e5dc0340d23612e7ca1ada2186e8d192d9ae6afba6c9c70fa1d99e12ab27b",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-a86320b058ac4ecd": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "7636e4503ac3bbfcd229e9d776939dad28a20c1cc79a9097ac2914f571f042bc",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-c451c3925da2d618": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "bc517a2a77cc19e3f57b5d4c4a856abdc0429423660f9429507a1d31aeb1413b",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-0c61aba0205bd707": {
+    "group_id": "group-3672d5cdc4438401",
+    "split": "dev",
+    "text_sha256": "5f4ef1d4e681cbf8e9f69733f2f3a07b6d45dfeb939aa0ab3dd94a4951de86d9",
+    "source_group": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "work_keys": []
+  },
+  "real-2980086a3da0b811": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "596f7af8710fb3b134eb1cad0fde41c0f6256ac284de9ae8a175c8cd17c2829c",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-393c36e3500b3978": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "44d6b523b51c22493bf18d5615c0e3cf73b06a334a3ecb6dd4dbfdbeceae8349",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-08ae1d99a083b502": {
+    "group_id": "group-72e722760ef0e12b",
+    "split": "dev",
+    "text_sha256": "93c5dc45c432213649fc8ab0ecd24704a668926ced20d45029be2ffdc602212d",
+    "source_group": "https://www.theguardian.com/books/2026/oct/02/the-best-recent-poetry-review-roundup",
+    "work_keys": [
+      "the best recent poetry"
+    ]
+  },
+  "real-a118a81bb9e1c201": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "5df81a044c8853c00688cdb238aa2747b3a3d4a6aa19c8c3309c2f0516272868",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-c98fb13eda54f38e": {
+    "group_id": "group-cf484fdab07c84e9",
+    "split": "test",
+    "text_sha256": "fa5c0c06b33773bf48c25501ccc8dc95070cc32e905310d93f61dd421f0fd753",
+    "source_group": "https://www.theguardian.com/culture/2026/oct/01/jimmy-kimmel-trump-ai",
+    "work_keys": []
+  },
+  "real-95574b76e36f8ae3": {
+    "group_id": "group-ab19348d46596373",
+    "split": "dev",
+    "text_sha256": "e7edc5ff369893f0b67bcb9ba9331b7f512a4971f10b0f5f826e36a34f52e33d",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/20/the-split-up-sanjeev-bhaskar-bbc-review",
+    "work_keys": [
+      "the split up"
+    ]
+  },
+  "real-01411a644ffdf502": {
+    "group_id": "group-d0a29e967d1d7116",
+    "split": "test",
+    "text_sha256": "16752cebe20ae65593aa5788ebaa82d2620e89776cf7bb1e1ab106251f330089",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show",
+    "work_keys": [
+      "the real rooneys"
+    ]
+  },
+  "real-1c6b0d44922585a8": {
+    "group_id": "group-b3ee63ca0cfe9e0c",
+    "split": "dev",
+    "text_sha256": "faa8b5b54bb80c221e19552c5108e751df5a31afdcc538316c1b97e2cc256742",
+    "source_group": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
+    "work_keys": []
+  },
+  "real-3fdfb26159e427bc": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "7d8f2d7633fc4cf0c795876cab227cdadd24ca61b548bd08ce480cd585773c4b",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-8d6f3e107020fae5": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "fc1996ccd0f0522a2ec392415d13a78388a9e89da1c75908afbcbf280fd867f5",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-181eeee6a40b0df4": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "c516adedf7457dc198e6874645fd3ae7beeaa57360fc94144f8180dcd5752998",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-f41a0825c3c95869": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "41873d2308086cc6ffc3976b3166bea9dba96ad3e2571f1f63f0b32af0e462f8",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-b48538df1f64daec": {
+    "group_id": "group-220d212a5cfb6c86",
+    "split": "test",
+    "text_sha256": "c58df7e8be86ea3abafa051dd8aa6b068d29e66fe5b93490bdf4959b60853e02",
+    "source_group": "https://www.theguardian.com/books/2026/sep/30/dey-by-edwidge-danticat-review-motherhood-and-trauma-in-miami",
+    "work_keys": [
+      "d y by edwidge danticat"
+    ]
+  },
+  "real-1534f68207a065ec": {
+    "group_id": "group-ac80c35f8f0a9a59",
+    "split": "dev",
+    "text_sha256": "d45b13da939a5b5937c83536963953867659891fa4823466a60aa91bc842c67e",
+    "source_group": "https://www.theguardian.com/games/2026/aug/26/vholume-review-parkour",
+    "work_keys": [
+      "vholume"
+    ]
+  },
+  "real-13ced938186d7599": {
+    "group_id": "group-abd2fd4b8b913e31",
+    "split": "dev",
+    "text_sha256": "d6a061104469169803bab455ab1ddebe552ab5cd65a46f09382d22ec2d3dc694",
+    "source_group": "https://www.theguardian.com/games/2026/sep/21/roman-sands-rebuild-review-marooned-in-a-crumbling-vaporwave-dream",
+    "work_keys": [
+      "roman sands re build"
+    ]
+  },
+  "real-1b6f7841bec29c70": {
+    "group_id": "group-56a71e70ce635ea4",
+    "split": "dev",
+    "text_sha256": "a07f8a2afa8632be7e95201d290764c99a20e2a38e19e8cba73866767a6542db",
+    "source_group": "https://www.theguardian.com/games/2026/sep/21/silent-hill-townfall-review-screen-burn",
+    "work_keys": [
+      "silent hill townfall"
+    ]
+  },
+  "real-4fed69e3fba6e46e": {
+    "group_id": "group-8e5fd5846c2ba964",
+    "split": "dev",
+    "text_sha256": "fad2167b4ac9e76f681367b10ddba57926d8a153665b4566d6884f6317e5c74d",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/16/neagley-review-reacher-spinoff-amazon-prime-video",
+    "work_keys": []
+  },
+  "real-7b3a1e3366641302": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "da62b5610f537cc582eba7359e87b0cf7286f528f89d5b3c1c67ea59de6a0e98",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-2409f7824ed12531": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "aab486f8ff405bba3b2234c9f95044838dac12d846375a7b18a79b2bd41b3b2f",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-aef5c05ca2f5a678": {
+    "group_id": "group-9f444351ae63f873",
+    "split": "dev",
+    "text_sha256": "c30e2e0a735206e6b90ee13adb9d8b9b9eb39bfc23df8575521f7f29a9d528eb",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/05/john-oliver-secret-service",
+    "work_keys": []
+  },
+  "real-f686ff442c178524": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "e67399988447d33d1da18e755d701d62567eda84995000b8710225d59960372b",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-bf6f2848447c3cfa": {
+    "group_id": "group-ed28c15421431344",
+    "split": "test",
+    "text_sha256": "604f13472bcce4ae0451bc9eefc793270b2f2f14b13c75db199f36c4a02299c0",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/extra-geography-review-a-wickedly-funny-lesson-in-sex-class-and-female-friendship",
+    "work_keys": [
+      "extra geography"
+    ]
+  },
+  "real-d307f8ec75b6ae84": {
+    "group_id": "group-ed7d8a8b9ffba5ef",
+    "split": "dev",
+    "text_sha256": "dc441a9cd6c2bb305258cd28b0a37a7fee3cafacc22555e80e70205f9ae028e5",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival",
+    "work_keys": [
+      "knife the attempted murder of salman rushdie"
+    ]
+  },
+  "real-4e774d66e91a3941": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "0eec357e485155cc1211c2dcceb5fd8f49fefdfefce3ccff54dd10363df49ab2",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-a50b941c04b14d91": {
+    "group_id": "group-b0cf24395173aded",
+    "split": "dev",
+    "text_sha256": "44af1c37c7deb3f51e9bafe5ebf82462b26f82fb465c55bee6a87bf50d121db7",
+    "source_group": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
+    "work_keys": [
+      "gears of war e day"
+    ]
+  },
+  "real-db4f080b92f18801": {
+    "group_id": "group-83ff8da9be8af587",
+    "split": "dev",
+    "text_sha256": "8f0bf87bb9c51c053d7b9204531d9a6a7f1eb8a70b4565ad3fd2cb18dc790536",
+    "source_group": "https://www.theguardian.com/stage/2026/oct/02/before-evensong-review-watermill-theatre",
+    "work_keys": [
+      "murder before evensong"
+    ]
+  },
+  "real-7d4c7400002ca5b6": {
+    "group_id": "group-f2067a7b7f25a05d",
+    "split": "dev",
+    "text_sha256": "e20a9c84ceb46a5a5ea44b69fcaf84421e618074e856e0c5779a331c5349a460",
+    "source_group": "https://www.theguardian.com/books/2026/sep/18/childrens-and-teens-roundup-the-best-new-picture-books-and-novels",
+    "work_keys": []
+  },
+  "real-2e06c36d953d3d8f": {
+    "group_id": "group-514a39b35504768b",
+    "split": "dev",
+    "text_sha256": "7eb9fe4a9a9511df1099c361c8b02abef1ed807f92ec0ec640cdce200feb0bd9",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/30/winter-review-a-pathology-potboiler-that-lacks-nuance-but-looks-great",
+    "work_keys": [
+      "winter"
+    ]
+  },
+  "real-52c2801c9cc726bb": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "5f84134b58757a86ae670ef74737b13f9c179db33e8946799e873c66cd0db968",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-eae33bbb9a50964c": {
+    "group_id": "group-28e4ca5bf4c404c8",
+    "split": "dev",
+    "text_sha256": "8b0974b972ac7fc957502e4feb72598271980c9b368f2008e2b1d1c93137eb90",
+    "source_group": "https://www.theguardian.com/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september",
+    "work_keys": []
+  },
+  "real-5393fce4c19d3e7a": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "4744d5ae5c8d0a2efde1674cda6c607950dffd2a2e806f0640b9051384ac43ab",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-78ede30efd071b41": {
+    "group_id": "group-b90a3008c342da18",
+    "split": "test",
+    "text_sha256": "165561f2bb119f0e5af31865b15ba6eda75e75d028c4bbbec5d435fb261f5cd1",
+    "source_group": "https://www.theguardian.com/film/2026/jan/27/the-weight-review-ethan-hawke-sundance",
+    "work_keys": []
+  },
+  "real-2e90fd9cacf21ca2": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "030c8921f4489428b2f89cac4854d620e699cd6c304f4e1344abcb7ab4d23d14",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-53bfa193277699e9": {
+    "group_id": "group-164fb3dc29b0c577",
+    "split": "test",
+    "text_sha256": "410a31e93314ded111facd5ea1eb3c022dc1408ad2340b31eeb077cb82997c8d",
+    "source_group": "https://www.theguardian.com/science/2026/oct/04/lizard-brain-rational-mind-neuroscience",
+    "work_keys": []
+  },
+  "real-dfd9673cda202d62": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "efa5e3e601942428615cfd27f320af781cb1c76a2f1941a3644eae72f7b3ea83",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-087f01bb1b746efc": {
+    "group_id": "group-b9a3773583b61635",
+    "split": "dev",
+    "text_sha256": "fde482d37badb71db031fb560b860390f5e6949f02d1682edb747756dbc32845",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/19/jay-z-in-8-review-rick-rubin-mubi",
+    "work_keys": [
+      "jay z in 8"
+    ]
+  },
+  "real-0eca5406ca072c75": {
+    "group_id": "group-676c9e290acdffa3",
+    "split": "dev",
+    "text_sha256": "e21f09e28f23a0ee293d99f16da80e1fbf0ab0735eeb60fadb45ac0c7ed5d5bc",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/01/the-celebrity-traitors-review-bbc",
+    "work_keys": [
+      "the celebrity traitors"
+    ]
+  },
+  "real-617fba7ae69a73cf": {
+    "group_id": "group-5db51dd790bf840f",
+    "split": "dev",
+    "text_sha256": "4b45e4de17a02959f3967d5b2d8f7f406573c9614db6fa9d5992e76845e939e1",
+    "source_group": "https://www.theguardian.com/books/2026/sep/30/on-the-equality-of-all-things-by-carlo-rovelli-review-a-physicists-guide-to-life-the-universe-and-everything",
+    "work_keys": [
+      "on the equality of all things by carlo rovelli"
+    ]
+  },
+  "real-983e5b0afb0015f8": {
+    "group_id": "group-76b18078df4681c6",
+    "split": "dev",
+    "text_sha256": "9b991fb083f0a6479a0a8c92b980aada1e78b58d9abf988556675035e5d6cd42",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/23/brothers-review-woody-harrelson-and-matthew-mcconaugheys-super-fun-sitcom-about-the-chance-theyre-related",
+    "work_keys": [
+      "brothers"
+    ]
+  },
+  "real-e9d066177099ac17": {
+    "group_id": "group-ffafc9068f3b47d9",
+    "split": "test",
+    "text_sha256": "148b5fecd9b53a06eeb5100836c7811b7c105e0811ac6e50e256b2a30f8ee220",
+    "source_group": "https://www.theguardian.com/books/2026/sep/29/magda-szubanski-memoir-i-cant-tell-you-but-i-will-book-review",
+    "work_keys": [
+      "i can t tell you but i will by magda szubanski"
+    ]
+  },
+  "real-eb371a56033f815b": {
+    "group_id": "group-f58f2bc4397ab7c9",
+    "split": "test",
+    "text_sha256": "a5acc8eb6f23d7104ad972c8b296db544eb8f8270ad0771913f0a55c7bff4a19",
+    "source_group": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
+    "work_keys": []
+  },
+  "real-2782ebbfa1975662": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "cfcf6c961274166d488a112185775070819c36da7d77019034b710fa053268ed",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-6d09b2563bedc804": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "383d17ccee9b0e61c9e00d54653b72c79b12473e9f3625b40c61195772247964",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-df26571d27d9a7a3": {
+    "group_id": "group-961943762f31055a",
+    "split": "dev",
+    "text_sha256": "2815d2b4942e18bafdbc60b602f47ffc24730732b58888ffbd57ab29a1ef92ca",
+    "source_group": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+    "work_keys": []
+  },
+  "real-9db4aac22279959b": {
+    "group_id": "group-8b3c546032a10701",
+    "split": "dev",
+    "text_sha256": "1f5784517d5f1c5e8700e61d880579f9c9d6b55bd046cef2dd18a7d53213da57",
+    "source_group": "https://www.theguardian.com/games/2026/aug/27/resonance-a-plague-tale-legacy-review",
+    "work_keys": [
+      "resonance a plague tale legacy"
+    ]
+  },
+  "real-341e47b9ab5ff12b": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "e3b92d3ab0f81a62b98e01ed9454d538d2873c302c1bd7634e946c8444a522a8",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-9e172b4c4e5b95d7": {
+    "group_id": "group-84398c91e958db1e",
+    "split": "dev",
+    "text_sha256": "bf0934291392c5734a00470cfba1cbe60c106a8326c9e83c38d074ee7ee94f5c",
+    "source_group": "https://www.theguardian.com/games/2026/sep/10/marvels-wolverine-review-a-gloriously-conflicted-lead-is-let-down-by-crude-boring-battling",
+    "work_keys": [
+      "marvel s wolverine"
+    ]
+  },
+  "real-ea4251668ceded4a": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "bbfc7862c2d59ba049acdd40b904179051d0c905a8d2d5102cf75b7a8d214b8e",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-4e3348408cb8e332": {
+    "group_id": "group-097c8fca0da8e4fc",
+    "split": "dev",
+    "text_sha256": "8394d4b3f9aab29fee770564c5ca039e712eca066351503f1c7533acb7c8b0e3",
+    "source_group": "https://www.theguardian.com/games/2026/sep/02/star-wars-zero-company-review-joyfully-absurd-heroics-with-a-tight-knit-team-of-misfits",
+    "work_keys": [
+      "star wars zero company"
+    ]
+  },
+  "real-39b66b8c4bd53168": {
+    "group_id": "group-e1da51c46c22f1c1",
+    "split": "dev",
+    "text_sha256": "ae3d5858db9e2f4379ff19e905718300f17d01c8e1b0dffa52ea70c50c45dc86",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+    "work_keys": [
+      "com die fran aise"
+    ]
+  },
+  "real-f78ff8b7473240d0": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "bdfd8a17cfd09246f6feae567f98f5d48bb0cb3e99cbe2d8213fafcbf5484df8",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-56931649e3580dc8": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "44e4770b572318ed9df8b80f78e13396a8c2f4f5322c07cdeafd8d7bc0214865",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-ed5b5d97865bf21d": {
+    "group_id": "group-b3c29755586fcb1a",
+    "split": "dev",
+    "text_sha256": "c25a3ef97430ee0955a367cbe8aeae5650138bbe685932d0bfd7d615199a5cda",
+    "source_group": "https://www.theguardian.com/culture/2026/oct/05/sean-connery-ron-perlman-the-name-of-the-rose",
+    "work_keys": []
+  },
+  "real-c99a6a5feab8621a": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "f92680e136cc4b2b1092be75eb5e5cc930c1c17092d8d6d3223a75f264380538",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-0c5c35ada3cdbf1a": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "ca7f71ec3a159ccc85ffdd3945f4f7b508b994edc9ad38e4ee8888ab11b6e3a6",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-01a10282e5a341b1": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "eb9ca11d8325e8d3e66d8ca162b8fc8e8ec751dcf6d999aab3953f8e85715c7b",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-4564498ddc3116bb": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "b94a08785ff1e2c2a71325f229e802523fa7c110f564a4879604befa079f9f13",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-07cc40f4dfd132fd": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "37abc340d61ac6b2b216637ceba18f8c08b3e9db0bfcfe1d5dff695cf0cd9350",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-1c7f8b38b3f5f9fd": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "321aba4522d1eb17985e9ac7e9c86453f1b42338d8d704e6af8bba6d9c7cce12",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-b823321735186971": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "8ed1d75a0de6b472bb35f1913226059afef6e716f3743431c1ab557f1e223fb9",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-7f8e094dce9eee00": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "5f4a26e13ac69875284b3e75e47496a3784b4586a71a178aa082735521cb987f",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-6392dd1e8922560d": {
+    "group_id": "group-d23057da09158d86",
+    "split": "test",
+    "text_sha256": "5e748573967f487a862ee161766eae295bc8109508252d2c80b1c4497c19cc22",
+    "source_group": "https://www.theguardian.com/film/article/2024/sep/09/without-blood-review-angelia-jolie",
+    "work_keys": []
+  },
+  "real-bca060926dcde6e8": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "28e1cd6cd134143d1f2aaba989e39b52082df0f5b800067eec34aafcdd296fb7",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-543cc5f3bee4cc3b": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "0bd58baa36bb8423daa662913636c84a29c3814493f1234fd49c59536de16d3f",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-84c6df4ecd8e61d3": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "df8efefc4716530a17136acf522df1faa1e433dc4aeafb074c62eda34dc1abd6",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-08ee13a49b059f22": {
+    "group_id": "group-e6243f0173edf466",
+    "split": "dev",
+    "text_sha256": "b849bdc9f855994d1da1bec19b9db7dec2f224a24c5ebab393ad41cbb5573742",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/22/youth-review-sharon-horgan-is-back-and-shes-better-than-ever",
+    "work_keys": [
+      "youth"
+    ]
+  },
+  "real-94b7318a995ac914": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "09d3cc64ffb777ef5f345dd39185aeda1cc8b76f3878aca117b2a3c7a7de45c1",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-3a0cac7cb1d49404": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "46a17dee6cf80df3ec1872f1628966fd7ce413451be0438110d78d230643d232",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-e4e37d99d25edd02": {
+    "group_id": "group-e84765f78d3d05d5",
+    "split": "test",
+    "text_sha256": "47d78a3ff4d1b7a6f233fd9423ba8a78d5f9e44f24ca49979efd8773253f8b66",
+    "source_group": "https://www.theguardian.com/games/2026/sep/24/meet-the-real-life-pokemon-professors-the-unsung-heroes-of-competitive-monster-battling",
+    "work_keys": []
+  },
+  "real-86cfe363ac2989e5": {
+    "group_id": "group-88d7ec493f89e4a0",
+    "split": "test",
+    "text_sha256": "ec4254e11fb66f91b495c186eba54da23d0d461f9752325aa589219ec7acddf4",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+    "work_keys": []
+  },
+  "real-69cef95677128a4a": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "a8f313dbca34f6c1ad3c3102a2b39e23d837fd41360d8a3ef866db5f1ad74667",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-6d9fe487f2f5a2de": {
+    "group_id": "group-f04ac483f7dd84e5",
+    "split": "dev",
+    "text_sha256": "d784c015bfe18b7f6e999ff2500ccf98f0b770e92b91ecdf841c91178508e4b0",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/22/bucks-county-usa-documentary-culture-wars",
+    "work_keys": []
+  },
+  "real-ca435100e540aff0": {
+    "group_id": "group-b94982791515477b",
+    "split": "test",
+    "text_sha256": "b4e334375f8dca6bfd8a4adffe5505ee31e6da794a4f4193926ac4ad31c2dee6",
+    "source_group": "https://www.theguardian.com/stage/2026/sep/28/tru-review-a-five-star-performance-of-a-three-star-script-about-the-life-of-truman-capote",
+    "work_keys": [
+      "tru"
+    ]
+  },
+  "real-fa2ef5e79168b330": {
+    "group_id": "group-3944af5dcc723f6f",
+    "split": "dev",
+    "text_sha256": "a3be9b2f2909391dbb0bd5390b76b25a8efa86f8e8ea77747e3758c405551eed",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/nicolas-cage-marvel-movies-glorified-wwe-ridiculous-outfits",
+    "work_keys": []
+  },
+  "real-b8e7b02dff904091": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "47f369bc57b5f92111b2afea29a1948ac583fd4dc42c36939167b179b2d8d0fc",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-59722c743a550ff3": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "427ec9fd5b67afc12a81c4402bc1e7edd4be59c025ed8cdf9cfb62d88c4b9569",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-584a15f558f9793b": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "ac66cb747697b9bc702a548db80807700313429e397e561902f2e05cbc99579d",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-501b0421ca5055b1": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "20c98e20b2cd5cf9cfe4eb2cc20c1493206839231a06e7dff8d283568039b70c",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-71644f1a57110717": {
+    "group_id": "group-db7a41102c94e8d7",
+    "split": "dev",
+    "text_sha256": "f4e8ae13af5ca00ff80c92866fb55966fb698964562f8f8cffc65b75fdb58fae",
+    "source_group": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+    "work_keys": []
+  },
+  "real-fbe3bd227cc3d098": {
+    "group_id": "group-d8ebf06daedbede7",
+    "split": "dev",
+    "text_sha256": "4cf273adc40347c8bae7ac00392304913cfcd30537ae3d8150dcf8dbee567b4b",
+    "source_group": "https://www.theguardian.com/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention",
+    "work_keys": [
+      "sleeping beauties by david byrne"
+    ]
+  },
+  "real-4b448a2503ec4385": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "de5fa295b1394b11329e45d2af7abc0dd0ed6fdef184414ec465499bec41e560",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-bf4a5e2bad17538b": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "04ad9d1b4240c10318df4c2de8dbf5561a3034915c26218ac1026bfbf86302f6",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-f8a656c1237bc87d": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "05bd05d1917489cad8adb4095c06f323c76204c1287c6f9bc7203fd84b402e0f",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-8b650b96c040294f": {
+    "group_id": "group-764c8eaeabfc0116",
+    "split": "dev",
+    "text_sha256": "874162c028a6cb8465065645b9d8be87225490022dec68b5cb9b2924f99b335c",
+    "source_group": "https://www.theguardian.com/games/2026/jul/21/splatoon-raiders-review-nintendo-switch-2",
+    "work_keys": [
+      "splatoon raiders"
+    ]
+  },
+  "real-9eef6858db96ebfa": {
+    "group_id": "group-50fd718299f55d5f",
+    "split": "dev",
+    "text_sha256": "e56c43ee83c63c4712a023cd2c3791feb60ac72c89ab0d303a3cc929b792ac88",
+    "source_group": "https://www.theguardian.com/books/2026/jun/26/children-and-teens-roundup-the-best-new-picture-books-and-novels",
+    "work_keys": []
+  },
+  "real-6630022a11d0459b": {
+    "group_id": "group-268206e56048c26f",
+    "split": "test",
+    "text_sha256": "ee7d197a82b12e2d0539bb5af688c2221aca203ad080689870286de716660713",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/17/monster-the-lizzie-borden-story-review-netflix",
+    "work_keys": []
+  },
+  "real-7bdcb8e73eae25a0": {
+    "group_id": "group-48eb6b6880caa415",
+    "split": "dev",
+    "text_sha256": "7b745f224a23762bf3114b50568566d503e0e6cd6819b82095d275ed68b788bd",
+    "source_group": "https://www.theguardian.com/books/2026/oct/02/rhapsody-a-manifesto-by-alice-oswald-review-a-history-of-the-spoken-word-from-homer-to-ted-hughes",
+    "work_keys": [
+      "rhapsody a manifesto by alice oswald"
+    ]
+  },
+  "real-b6732fc700d44b80": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "90ce74c820d4510d2737b9f1b33f0237046dc3ceee2f2373182c4153cea6ad7e",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-812a68cab2358b4e": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "c9cb57ad5421b994414be3a33d5e528e827f8545dff52c85992f45e1e6fbaa96",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-bafb1358c3fcdd3f": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "aecfc3aaacef40d62d96dba417cb5882e5c7ff158b80b10ad895e42a6f7906be",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-0d05400ab671105f": {
+    "group_id": "group-5b05e7e530116cc0",
+    "split": "dev",
+    "text_sha256": "dc691d461c2e2c71b4dddb73568d0c4128f6898e759db43ea1f93b478f9d0c09",
+    "source_group": "https://www.theguardian.com/books/2026/oct/05/the-housekeeper-by-rose-tremain-review-a-bloodless-origin-story-for-du-mauriers-rebecca",
+    "work_keys": [
+      "the housekeeper by rose tremain"
+    ]
+  },
+  "real-ea7a95676857472a": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "42d983f44763b222b59c9e56f23cfd6c796641a06d3010431792dfad3d2d65ce",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-e74f660c7f7cb0d0": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "01ffbba102432d70b71f3577889aff94683f94b2e67f42f01dc31f9d753265b9",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-29405a0b01773394": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "452337e1b77794e1f0520a144ee143bd472322242f3fa542574f3199564c8398",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-f616053b320aa9b4": {
+    "group_id": "group-b714800e366b4901",
+    "split": "test",
+    "text_sha256": "234a4432052de9c7f2ac0bc5196ea47778a29685ae3cf3233243cbd850d98ffb",
+    "source_group": "https://www.theguardian.com/games/2026/aug/12/marvel-tokon-fighting-souls-review",
+    "work_keys": [
+      "marvel t kon fighting souls"
+    ]
+  },
+  "real-d7baf8599bd9d4e7": {
+    "group_id": "group-8f4bd0c8ab259f77",
+    "split": "test",
+    "text_sha256": "46c53130ae3a7a1f88239540ee391b5b553d0eac30e782eb2e54235e934f1b34",
+    "source_group": "https://www.theguardian.com/film/2026/sep/29/child-review-luxembourg-horror",
+    "work_keys": [
+      "child"
+    ]
+  },
+  "real-53f9021d18ce7c30": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "6d00379dd5b1437f02ef2e1c1b9f06dd60c853d07bbd4ec7e5e49affd170e97f",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-e3ec5d54d90ff014": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "231602a22963bb8a1ba07ed6ce3588d6788960c068f70d1a9cced7b304ed404c",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-80c67cb45c200e9c": {
+    "group_id": "group-a8ecc506c43b55a9",
+    "split": "dev",
+    "text_sha256": "e8ef5979678221b777eadef48a1b99096d845ecf0267e179f53bc5686a08a2e2",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/05/aditya-chakrabortty-and-yanis-varoufakis-dissect-democracy-best-podcasts-of-the-week",
+    "work_keys": []
+  },
+  "real-e1d5eef57f0d0931": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "a361bfa3201a5cfabf9fe681c0d61e4bb9fb6d800573901de90b79185c636fd7",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-8ad288232fd8b2b6": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "ad4446fe73c4863725f9040a44f65e4c785f733570165903402d21f9d68d7c89",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-62b823e8c09edb2c": {
+    "group_id": "group-7ed6149270391d06",
+    "split": "dev",
+    "text_sha256": "10d8968a9cd634b06238cbc2892f3e20c66f6a091c7eaaa0e9bd31fc374bad98",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
+    "work_keys": []
+  },
+  "real-a881b788e4f2adcb": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "eac0cfe8e4cb231740dda209695fa0fdf332cbd865db559bfea087aa2bbeef66",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-7fceb759a59290f1": {
+    "group_id": "group-d034df97182d7113",
+    "split": "test",
+    "text_sha256": "e5999ff703088a81e1b9b7c84642d9ae0d6db1bd39e3df216bc3aa6fc04cacc9",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/04/saturday-night-live-dakota-johnson-host-taylor-swift-cameo",
+    "work_keys": []
+  },
+  "real-94c9c04895a96024": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "f926bfd587b3284624b251e547b75d2240d8afb2648c3a728b24b3273a573c34",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-1582176c9667f592": {
+    "group_id": "group-e731c3e8a80d181e",
+    "split": "dev",
+    "text_sha256": "26f62c83f5a818c32e58561be362c35861516fce9bf10945b347183e88986afe",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/digger-ad-tom-cruise-movie",
+    "work_keys": [
+      "digger"
+    ]
+  },
+  "real-a44e62e87912152a": {
+    "group_id": "group-212b8151128a5c32",
+    "split": "test",
+    "text_sha256": "2e6e66e177d29fe1c35ffbd80b728e56bf96b91add33eaa9e90c1aa0e33fdb99",
+    "source_group": "https://www.theguardian.com/culture/2026/oct/02/seth-meyers-trump-taxpayer-funded-ads",
+    "work_keys": []
+  },
+  "real-4b6e0762bb18bf78": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "885e1e5ae0db49f48595d27f334f19d6652db79266ee0d0471b2c6e5b19db1f5",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-d2ca51dce78ddcb0": {
+    "group_id": "group-1ceadc74458db426",
+    "split": "dev",
+    "text_sha256": "e0c556be3c8ed91a3a5e412bbf477c4d0dc1b2c712b076e23f35e8e0115a890d",
+    "source_group": "https://www.theguardian.com/film/2026/sep/30/cotton-queen-review-sudanese-debut-suzannah-mirghani",
+    "work_keys": [
+      "cotton queen"
+    ]
+  },
+  "real-f4a44f2a16d2410b": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "488957513b7237531e9c0724c9f21db13332293f32fa466dd1026ebfc8f68766",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-a16663e5b523ee98": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "e1b040f243139e8bfc39d237d2091333cc1a8ed457471ecfa2c09a98bb7cb313",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-685a15828abc98fe": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "ac463e220d12a57d80d46783de29dfdea4861367c14d4b177a8790dbbb7ef5e9",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-9f3415474ffb4152": {
+    "group_id": "group-e3ae10b1e0f21be9",
+    "split": "dev",
+    "text_sha256": "5c68bcab969e7f99aade44ac50b9cf8ee939e71e0cbd8dff6d9f224f8c19c087",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/24/a-different-world-review",
+    "work_keys": [
+      "a different world"
+    ]
+  },
+  "real-c5349e0f83e58488": {
+    "group_id": "group-daecc15cd904531d",
+    "split": "test",
+    "text_sha256": "ff9664168858681cc806e9cfcef1ee4d0d738d2fcf2a2396bd0ca0b2bbc3912a",
+    "source_group": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett",
+    "work_keys": [
+      "verity"
+    ]
+  },
+  "real-f2b3b17a7d21a94f": {
+    "group_id": "group-2ae74033f67d78a7",
+    "split": "dev",
+    "text_sha256": "2645ec5273b10afdd325f3f5419ab76dce5983ae95dbb8371343dd2b457b7513",
+    "source_group": "https://www.theguardian.com/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky",
+    "work_keys": [
+      "deep into the sixties britain 1965 66 by david kynaston"
+    ]
+  },
+  "real-e4443a877b7825e0": {
+    "group_id": "group-9f6cf529d6913251",
+    "split": "test",
+    "text_sha256": "9996f69c09e390e39108be238b699b9c6bd38ec1e880bcb94ebfab67072412ad",
+    "source_group": "https://www.theguardian.com/books/ng-interactive/2026/sep/18/the-best-books-to-read-in-september-new-paperbacks-from-margaret-atwood-kiran-desai-and-richard-holmes",
+    "work_keys": []
+  },
+  "real-ae5e8d9a977020a5": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "12b57265cd70468ce97cc4144a2d7dcdbc326933a5832b8819f5c478a378e822",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  },
+  "real-61537ba85a66d089": {
+    "group_id": "group-3def80aaea8bf663",
+    "split": "test",
+    "text_sha256": "2197bf2bf09c5a86ed6a16e61f7c696f9b44488413613ae84912f2d5c271786e",
+    "source_group": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation",
+    "work_keys": [
+      "resident evil"
+    ]
+  },
+  "real-884da14ffd25b43f": {
+    "group_id": "group-e88eda5fc41a49f6",
+    "split": "dev",
+    "text_sha256": "6a9923e5426786c200d2ae490c45d1f182158ec1be67af22d531d8277e6d4c5e",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/29/blue-lights-review-bbc",
+    "work_keys": [
+      "blue lights"
+    ]
+  },
+  "real-764b7ea75fb5e8f3": {
+    "group_id": "group-c02d6b58a0e10030",
+    "split": "test",
+    "text_sha256": "015700e8ec9d0dafcc5fbab02a265e896e48f6ae6677b63c7c214bd321628b6e",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/02/kill-jackie-review-catherine-zeta-jones-assassin-thriller-prime-video",
+    "work_keys": [
+      "kill jackie"
+    ]
+  },
+  "real-7ffdd5b466a2cb92": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "58040a48dbb5118f498d7391127573d3e09d2f9b806e58048d7db9cd9b9e8c93",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-8b7e5ec75da277ae": {
+    "group_id": "group-31f60728ccbc61d0",
+    "split": "dev",
+    "text_sha256": "792cf89910c5daa5113a61bb8ed9ea56afb707d2eb01231b29066b9c4eb88fa0",
+    "source_group": "https://www.theguardian.com/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
+    "work_keys": []
+  },
+  "real-cb8fe1f76c59eece": {
+    "group_id": "group-1652ce1d99c67520",
+    "split": "dev",
+    "text_sha256": "1b634633cb76d0343721e75b533926483a2ffea739465f3d120746d35e4061a2",
+    "source_group": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks",
+    "work_keys": []
+  },
+  "real-9bdc0c0b503c5989": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "309057a28998a0678ebe499919dbe535bae3b2c30ef0d212357c00bb4d06d30d",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-845e0e57cfa80cb5": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "435cebc3a505241c0265c5e62271fb2fe0b36687813aa7aaca9999a4ff417c8a",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-3d03bcf7eb8c5c60": {
+    "group_id": "group-38fac262157b1e5e",
+    "split": "dev",
+    "text_sha256": "ea3b3a0868ca122c8dc8a533ca628f440b5d745c5962da72a4d56e0725b22ee5",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/16/slow-horses-season-six-review-gary-oldman-spy-thriller-apple-tv",
+    "work_keys": []
+  },
+  "real-614ef7300d8f1055": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "65af46fde4b60033b93814fcf285fbe8d5f45fed297b2f9c18b1800dfd6ac5dd",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-414425146c559114": {
+    "group_id": "group-b978d330a2fba5ec",
+    "split": "test",
+    "text_sha256": "98c9398c3c5946c85b9f7593bc207af620db7033ae914df90bbdb87755eab344",
+    "source_group": "https://www.theguardian.com/film/2026/sep/30/how-deep-is-your-love-review-nature-doc-eleanor-mortimer",
+    "work_keys": [
+      "how deep is your love"
+    ]
+  },
+  "real-64762c2cee206518": {
+    "group_id": "group-cb90940d13bd5864",
+    "split": "dev",
+    "text_sha256": "29995c59e48ceb1e0e26281d225ffd370acc942b4cabcfb870a0a9f2aa048568",
+    "source_group": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
+    "work_keys": []
+  },
+  "real-72ec617a1e509978": {
+    "group_id": "group-e731c3e8a80d181e",
+    "split": "dev",
+    "text_sha256": "52076da452ff8196d297948202cb6153f881ec25af46fdfcc830077d207109b3",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/digger-tom-cruise-movie-box-office-critics-reviews-misunderstood-masterpiece",
+    "work_keys": [
+      "digger"
+    ]
+  },
+  "real-2fe66f66c9523fc9": {
+    "group_id": "group-f4ef8dd297413bb5",
+    "split": "test",
+    "text_sha256": "aa9a81bd3f3b414d264935e495bf23c23689fc9af1c576a4371257fbf768e8d1",
+    "source_group": "https://www.theguardian.com/games/2026/aug/04/beast-of-reincarnation-review",
+    "work_keys": [
+      "beast of reincarnation"
+    ]
+  },
+  "real-82df1b329c7ea977": {
+    "group_id": "group-0db6097a90dd7662",
+    "split": "dev",
+    "text_sha256": "99a0b3b952d7d4d980bca821a1d6a91137cdedea2c5eed4b5ca56574326eb66a",
+    "source_group": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
+    "work_keys": [
+      "a statement"
+    ]
+  },
+  "real-70e370c0c8649dc2": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "bc3b69b79d03bad9c7f3a5c539ba4e978444734e041e7a1244982fd91350ceb4",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-d99d70588c08dd9e": {
+    "group_id": "group-e6a79fbe27b684bd",
+    "split": "dev",
+    "text_sha256": "2709b430e2b61ef77d9243d08933683be39191eb303932443575a5e0d3126731",
+    "source_group": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares",
+    "work_keys": [
+      "the sinking city 2"
+    ]
+  },
+  "real-e9184755b90eb55e": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "2f0d0c3f7b1450a034a6b9c3176cc2f3757b39d821dc704907ca5617122a3070",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-d2a7953500f8245c": {
+    "group_id": "group-6e41ceca261686e4",
+    "split": "dev",
+    "text_sha256": "3e94f65828d031539726cd10212be13455658373f5cb8827ac94aeb4ee4e8bf7",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
+    "work_keys": [
+      "you can see everything"
+    ]
+  },
+  "real-89aa80ddc9cfd17b": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "2e6fd861074dc19304e1f80b5ea4ebc43fd74dcac8cb70c29fdf219f65d858d3",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-83ff9078086c6abb": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "92da7f7661d70f17cd9a0e2e3e35c90c3ea3497f716631b888482803d46fb22d",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-0f531317c78b3989": {
+    "group_id": "group-3d6651e9fcacda0e",
+    "split": "dev",
+    "text_sha256": "db23f8042f5fa1f2de5668bcce9480ed4db431c5b3ff9f38896b7f132a1ff30e",
+    "source_group": "https://news.ycombinator.com/item?id=29533685",
+    "work_keys": [
+      "the matrix"
+    ]
+  },
+  "real-19b2da34ecf8d42a": {
+    "group_id": "group-25f49b01acaa5882",
+    "split": "test",
+    "text_sha256": "2881e10f5924f947eaf56960f0eabc742a2c136b2108b3b4c5160377ae4af36c",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+    "work_keys": []
+  },
+  "real-fd6ac59d44e7afec": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "8695b5a9ff902e8ac9db71326c7cc92cac178b88f2aaae905a688754e2934899",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-3529582b8df0a55b": {
+    "group_id": "group-0c4ba5f40873fab4",
+    "split": "test",
+    "text_sha256": "a7be93f6242dc27c429c6b16b754ce0b3eaff88b28f138f3e50d00b7ddec956e",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/little-shop-of-horrors-feelgood-movie",
+    "work_keys": []
+  },
+  "real-241424661d510ace": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "21241602040277a730dcbc402bfc360aa7dd310049d14c13646ee82f3de3e137",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-69dfa0dd157f7170": {
+    "group_id": "group-33ba127cc27d5493",
+    "split": "dev",
+    "text_sha256": "1749a893e6690f0e9551b4009f893c062c6389a35aa120b38e4bd183e6f178f5",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/19/strictly-come-dancing-review-delighted-new-hosts-helps-show-feel-genuinely-fresh",
+    "work_keys": [
+      "strictly come dancing"
+    ]
+  },
+  "real-a8edbc82bd9e33e9": {
+    "group_id": "group-c19cd7b16f0eb3e0",
+    "split": "test",
+    "text_sha256": "09cfd0428fdf9591637b814265f3a23d9db4fca03a975b3d60408ef04d99788e",
+    "source_group": "https://www.theguardian.com/games/2026/aug/21/metal-gear-solid-master-collection-vol-2-review",
+    "work_keys": [
+      "metal gear solid master collection vol 2"
+    ]
+  },
+  "real-304fdf0ad9b28d43": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "d1b4350bd26a8219b2b18bb414d099a4aa023693261273823b32b74e88943d8c",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-c6a018132287b9d7": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "5413a13c23b417d5e972c4e3d8c69672e360cec07462865d39cf9cf55838b3b6",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-41b24af89d7dcd5a": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "9c8db8c3cb1bc31fbeeda2641a791aa16f6a03beb0d057fd41be4fd6d83a16d5",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-705eb69f73a4773e": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "4956819450bae60dd80880f8e7e284903d1d5a6e07c9f53b0df29509cb8e3a95",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-9043ebbfe8b9e757": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "68f13e15e5b6ed5897fed7a8662bd66bea9d90eff442e95da810757262ae8cb8",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-12de110428e0bd2f": {
+    "group_id": "group-1285d6d2e37ee6d5",
+    "split": "dev",
+    "text_sha256": "66e7c73b6c1cda1f52e039bb6d09705e758090d9807600c617abf9667d3f8ddb",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/28/michael-palin-in-the-philippines-review-channel-5",
+    "work_keys": [
+      "michael palin in the philippines"
+    ]
+  },
+  "real-f1b5a4fafd3c61b9": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "76a7ce102be0a74ec5f14a9a9711dc83a95239e6eff678e69e8a16f52e45253d",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-7e11c288dce25cc0": {
+    "group_id": "group-d9b0c71b7a768d89",
+    "split": "dev",
+    "text_sha256": "5ea878cebf2c605ba65b958b3c84a8ef2f1e7f90388fbd50923aa92462881111",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck",
+    "work_keys": [
+      "east of eden"
+    ]
+  },
+  "real-8382ee80dc56203f": {
+    "group_id": "group-f1bd729b18fec2a7",
+    "split": "test",
+    "text_sha256": "c8adb95160b47514418177407e046b454fe07ff0301440dff5f95a92cd794e03",
+    "source_group": "https://www.theguardian.com/tv-and-radio/2026/sep/18/mobland-season-two-review-guy-ritchie-tom-hardy-pierce-brosnan-helen-mirren-paramount-now",
+    "work_keys": []
+  },
+  "real-30648ed91c4dc6b3": {
+    "group_id": "group-85555ecb2dce8875",
+    "split": "test",
+    "text_sha256": "57578ed73f1b112ef9ecbfc386b6321bacf8578bbef5dda58dce999add70ca53",
+    "source_group": "https://www.theguardian.com/film/2026/oct/01/derek-vs-derek-review-a-rewilding-rivalry-with-real-bite",
+    "work_keys": [
+      "derek vs derek"
+    ]
+  },
+  "real-9b04b9c18f5c668d": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "5ce03fc43f89e7c9d2a4b0451afb7d4ab7807fdd115d119a1d0d1c49fbf559fb",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-42731ebd73a4054c": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "ea82b26febae9ba3b78d73a580691b2e345b958f79b82999fbd2fc6b131556c4",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-a9a7e705bb4718b4": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "9d041436f5d9605255fe557c4485f1445ed902ac608566cb36a7184366a01f48",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-86897d33fc88f78a": {
+    "group_id": "group-7ccc8c162bbd0199",
+    "split": "test",
+    "text_sha256": "6ceb04a45b91d5575859b9eb40353785f461101932d4e925f23a1d8233d3af6e",
+    "source_group": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
+    "work_keys": [
+      "ace combat 8 wings of theve"
+    ]
+  },
+  "real-c4f44935a070ac06": {
+    "group_id": "group-d7d337447c29bc29",
+    "split": "dev",
+    "text_sha256": "91ed16739c9862d258374629c8ddc38af04e3bcede8a5020f0bed98032c0d750",
+    "source_group": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "work_keys": [
+      "sintel"
+    ]
+  },
+  "real-71ec5cd2ce4da642": {
+    "group_id": "group-f86c31d7484f493d",
+    "split": "test",
+    "text_sha256": "bafee5965a1ae088030c7a908935b7a7b833ba1fb839cefd7e7c8fd5002dbd01",
+    "source_group": "https://www.theguardian.com/film/2026/oct/05/post-your-questions-for-sofia-coppola",
+    "work_keys": []
+  },
+  "real-67cd860b199b71f4": {
+    "group_id": "group-80739e91ee3658fb",
+    "split": "test",
+    "text_sha256": "97905a91319f5dc96d2551cf1fdbb80993b7d2232f97fcff87e6d6005be6c19a",
+    "source_group": "https://www.youtube.com/watch?v=OHOpb2fS-cM",
+    "work_keys": [
+      "tears of steel"
+    ]
+  },
+  "real-4548398be317d2d8": {
+    "group_id": "group-43da8392584da651",
+    "split": "dev",
+    "text_sha256": "ddaba4c28957054f3d6a54b39770bb268697d8bbda60547f07569a75f3805cfa",
+    "source_group": "https://news.ycombinator.com/item?id=9367483",
+    "work_keys": [
+      "game of thrones"
+    ]
+  },
+  "real-4304e88c13d5db0c": {
+    "group_id": "group-193f3cd0847ba76f",
+    "split": "test",
+    "text_sha256": "7f80bd778e408f7fe6efaa2f5fc90326ec62d097a914cdf6223f00cd2a7c5320",
+    "source_group": "https://news.ycombinator.com/item?id=31887748",
+    "work_keys": [
+      "blade runner"
+    ]
+  },
+  "real-5baabb88eab2c223": {
+    "group_id": "group-ef391b5870b905a0",
+    "split": "dev",
+    "text_sha256": "352262a6c0b4a38abf50bfe03908d508b6ded1dad26c159a505423ccf0dbd1d0",
+    "source_group": "https://www.theguardian.com/games/2026/jul/30/halo-campaign-evolved-review-they-dont-make-em-like-this-any-more",
+    "work_keys": [
+      "halo campaign evolved"
+    ]
+  },
+  "real-60f237edf22920d5": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "1d2d1023092f462210bfc41b43d22ec25e9894f0a494ae8c5290344da24b3db7",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-8a65bd7373c6768d": {
+    "group_id": "group-0ba8f4f4f4508c90",
+    "split": "dev",
+    "text_sha256": "516bb4fcfea475bd96556f6398f33bd5f04cbc79617cd410e68f2341256796df",
+    "source_group": "https://www.theguardian.com/games/2026/aug/13/agent-64-spies-never-die-review-pc-replicant-d6",
+    "work_keys": [
+      "agent 64 spies never die"
+    ]
+  },
+  "real-88bbe8bf08668e1e": {
+    "group_id": "group-9970f04d99612a83",
+    "split": "test",
+    "text_sha256": "db0cb4a490f756f5b840714c35c0eb566ff6dd0df6256786d2bd70ff92f2bd48",
+    "source_group": "https://news.ycombinator.com/item?id=16260628",
+    "work_keys": [
+      "the good place"
+    ]
+  },
+  "real-d2b95cb7b88260a7": {
+    "group_id": "group-4976865cbeaad0a2",
+    "split": "test",
+    "text_sha256": "7c23c3840aed4430bf22f593b2a6e02d8224ce37bd27c34daae37ee14e98d6b2",
+    "source_group": "https://news.ycombinator.com/item?id=29011467",
+    "work_keys": [
+      "dune"
+    ]
+  },
+  "real-ca64f9549719deb5": {
+    "group_id": "group-be4b58c61fbf4675",
+    "split": "test",
+    "text_sha256": "014a275f455ab2bfec169c5650a83d90679d5de569a96e44433c769a789a808b",
+    "source_group": "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
+    "work_keys": []
+  },
+  "real-891c07d35696e6ea": {
+    "group_id": "group-2848656483538803",
+    "split": "test",
+    "text_sha256": "d82839104d99b7f2f3015594bd2216ab13ef9be690f85ace45ac3886daa9c1b7",
+    "source_group": "https://news.ycombinator.com/item?id=43517301",
+    "work_keys": [
+      "severance"
+    ]
+  },
+  "real-e024757c2b6fc639": {
+    "group_id": "group-fa4017fc048673c6",
+    "split": "dev",
+    "text_sha256": "1ee6a8da6385efea3bcdd9f741f6c2539b8046310f9a026a0e0f88c839890692",
+    "source_group": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
+    "work_keys": []
+  },
+  "real-476ea97b14ed5143": {
+    "group_id": "group-86ace17db809364b",
+    "split": "dev",
+    "text_sha256": "574118bb9f9b978b6b4b661775006de672f3cc785905889ee755ce73906c4a92",
+    "source_group": "https://news.ycombinator.com/item?id=4262192",
+    "work_keys": [
+      "breaking bad"
+    ]
+  },
+  "real-b1d8614aa1713cc3": {
+    "group_id": "group-44ead058f6ce8759",
+    "split": "dev",
+    "text_sha256": "961393656fce1dbe0dd1951affc5083916a7f7ea004ff5f568e359324ea5ed3d",
+    "source_group": "https://news.ycombinator.com/item?id=3735039",
+    "work_keys": [
+      "inception"
+    ]
+  }
+}

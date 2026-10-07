@@ -1,0 +1,402 @@
+[
+  {
+    "id": "s051",
+    "label": null,
+    "rationale": "The sponsor and former fiancé are identified only as \"his\"; the missing antecedent prevents identifying the relationship and concealed support.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s052",
+    "label": 0,
+    "rationale": "A remark about food quality reveals no consequential plot development.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s053",
+    "label": 1,
+    "rationale": "Explicitly reveals Book’s birth identity, former Alliance espionage role, and defection.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s054",
+    "label": 0,
+    "rationale": "A generic joke about sympathetic pain contains no plot reveal.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s055",
+    "label": 0,
+    "rationale": "A fragment of ordinary telephone dialogue and facial reaction reveals no outcome.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s056",
+    "label": 0,
+    "rationale": "Irene’s naked reception is scene detail without a case resolution or confirmed romance.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s057",
+    "label": 0,
+    "rationale": "Describes loneliness and incidental details of an introduction.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s058",
+    "label": 1,
+    "rationale": "Reveals an episode-end status change: an NSA agent has learned enough about the Machine to receive its yellow designation.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s059",
+    "label": null,
+    "rationale": "Jessica’s husband is mentioned, but the fragment leaves the significance of that relationship and Reese’s approach unresolved.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s060",
+    "label": 0,
+    "rationale": "The existence of a related tabletop game is a production/franchise fact.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s061",
+    "label": 1,
+    "rationale": "Explicitly reveals Walter’s rescue and Newton’s fulfillment of the bargain.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s062",
+    "label": 1,
+    "rationale": "Confirms a second universe and a later season’s operation across both, beyond the supplied premise.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s063",
+    "label": null,
+    "rationale": "Neither the woman nor what she participated in is identified.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s064",
+    "label": 1,
+    "rationale": "Describes Peter and Olivia being together as an established romantic relationship.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s065",
+    "label": 1,
+    "rationale": "Reveals the earlier arrest of pharmaceutical executives and a banker’s resulting financial success.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s066",
+    "label": 0,
+    "rationale": "Mentioning an autopsy assignment without identifying the deceased or its result reveals no consequential outcome.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s067",
+    "label": 0,
+    "rationale": "An offer to call Olivia is ordinary dialogue.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s068",
+    "label": 1,
+    "rationale": "Reveals the end-of-episode confrontation in which Mal threatens Jayne with execution through the airlock.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s069",
+    "label": 1,
+    "rationale": "Explicitly reveals Moriarty’s suicide.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s070",
+    "label": 0,
+    "rationale": "Watching Grace from a distance and complimenting surveillance technique do not establish a consequential outcome or relationship.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s071",
+    "label": 1,
+    "rationale": "Reveals that a threatened girl is taken from hospital and ultimately placed with her grandparents; her missing name does not obscure the protective resolution.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s072",
+    "label": 0,
+    "rationale": "A discarded mechanical part is incidental scene detail.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s073",
+    "label": 0,
+    "rationale": "An unnamed woman’s cab ride and conspiratorial rant do not confirm the allegations or a consequential outcome.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s074",
+    "label": 0,
+    "rationale": "Offers an explicitly tentative interpretation of a prediction, without identifying an actual event or result.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s075",
+    "label": 1,
+    "rationale": "Reveals that the Bond Air mission was compromised and attributes the failure to a participant’s hubris.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s076",
+    "label": 0,
+    "rationale": "A comment on shirt fit is costume detail.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s077",
+    "label": 0,
+    "rationale": "Describes confrontations and accompanying music without revealing their results.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s078",
+    "label": 0,
+    "rationale": "A general assessment of Walter’s accuracy is characterization.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s079",
+    "label": 1,
+    "rationale": "Reveals Root’s success against Reese and Finch and explains how she exploits their helping behavior.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s080",
+    "label": 0,
+    "rationale": "Known combat training is an ordinary capability description, without a hidden identity or consequential result.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s081",
+    "label": null,
+    "rationale": "The missing antecedent for \"it\" prevents deciding whether the destination resolves an important clue or is incidental comedy.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s082",
+    "label": null,
+    "rationale": "The test and the act Mal intended to complete are omitted, preventing assessment of the concealed test’s consequence.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s083",
+    "label": 1,
+    "rationale": "Explicitly identifies Olivia as brainwashed in a later season.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s084",
+    "label": 0,
+    "rationale": "Saying \"I’m not hungry\" is ordinary dialogue.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s085",
+    "label": 0,
+    "rationale": "Describes an attempted lock-breaking escape action without confirming escape, betrayal, or another consequential outcome.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s086",
+    "label": 1,
+    "rationale": "States that freeing David Robert Jones was the goal and associates him with ZFT’s devotion; only the additional coordination is speculative.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s087",
+    "label": 0,
+    "rationale": "Vague enthusiasm about unspecified discoveries supplies no identifiable explanation or outcome.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s088",
+    "label": 0,
+    "rationale": "Inara’s explanation of selecting clients is routine work practice and characterization.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s089",
+    "label": 0,
+    "rationale": "Peter’s reaction to his father’s embarrassing remarks is ordinary characterization.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s090",
+    "label": 0,
+    "rationale": "A comparison of weapon effectiveness leaves the action unspecified and reveals no consequential result.",
+    "confidence": "medium",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s091",
+    "label": 0,
+    "rationale": "Social-network data collection is an inconsequential operational detail of the surveillance premise.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s092",
+    "label": 1,
+    "rationale": "Explicitly reveals the captured lawman’s killing and the resolution of the conflict over his captivity.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s093",
+    "label": 0,
+    "rationale": "John’s remark about Sherlock’s hat is incidental dialogue and characterization.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s094",
+    "label": 1,
+    "rationale": "Reveals Book’s previously undisclosed Alliance interrogator background.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s095",
+    "label": null,
+    "rationale": "The woman and partner are unidentified, leaving the romantic relationship and later status impossible to attribute.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s096",
+    "label": 1,
+    "rationale": "Reveals the Independents’ defeat at Serenity Valley and the death of Mal’s comrade, neither supplied in the premise.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s097",
+    "label": 1,
+    "rationale": "Confirms an alternate universe and its consequential deterioration through reality breaking down.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s098",
+    "label": 1,
+    "rationale": "Reveals the burning of Sanford Harris by a Cortexiphan-treated person, a consequential attack on a named character.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s099",
+    "label": null,
+    "rationale": "The object Frankland runs into and the supposedly predictable result are both omitted, preventing identification of his fate.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  },
+  {
+    "id": "s100",
+    "label": 0,
+    "rationale": "Reese’s recognizable clothing and Carter’s recognition of it are characterization without a case outcome.",
+    "confidence": "high",
+    "source_urls": [],
+    "source_check": "not_checked: classified from the excerpt and supplied public premise; no cached plot or external source consulted"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "warning": "Exploratory development agreement; see manifest for label provenance, not human gold. Abstentions count as missed positives in recall.",
+  "arms": {
+    "alone": {
+      "all": {
+        "invalid": 0,
+        "positives": 7,
+        "tp": 7,
+        "uncertain_reference": 1,
+        "negatives": 6,
+        "abstentions": 1,
+        "tn": 5,
+        "recall": 1.0,
+        "false_positive_rate": 0.0,
+        "coverage": 0.9230769230769231,
+        "precision": 1.0
+      },
+      "tv_markup_dev": {
+        "invalid": 0,
+        "positives": 7,
+        "tp": 7,
+        "uncertain_reference": 1,
+        "negatives": 6,
+        "abstentions": 1,
+        "tn": 5,
+        "recall": 1.0,
+        "false_positive_rate": 0.0,
+        "coverage": 0.9230769230769231,
+        "precision": 1.0
+      }
+    },
+    "context": {
+      "all": {
+        "invalid": 3,
+        "positives": 7,
+        "tp": 4,
+        "abstentions": 3,
+        "uncertain_reference": 1,
+        "negatives": 6,
+        "tn": 6,
+        "recall": 0.5714285714285714,
+        "false_positive_rate": 0.0,
+        "coverage": 0.7692307692307692,
+        "precision": 1.0
+      },
+      "tv_markup_dev": {
+        "invalid": 3,
+        "positives": 7,
+        "tp": 4,
+        "abstentions": 3,
+        "uncertain_reference": 1,
+        "negatives": 6,
+        "tn": 6,
+        "recall": 0.5714285714285714,
+        "false_positive_rate": 0.0,
+        "coverage": 0.7692307692307692,
+        "precision": 1.0
+      }
+    }
+  }
+}

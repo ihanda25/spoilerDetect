@@ -1,0 +1,514 @@
+[
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R001",
+    "example_id": "paper_moon-comment-explicit_speculation",
+    "proposed_label": 0,
+    "annotation_rationale": "Explicit pre-viewing speculation, not an asserted event; theory is not the stipulated reveal."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R002",
+    "example_id": "last_orchard-comment-explicit_speculation",
+    "proposed_label": 0,
+    "annotation_rationale": "Explicit pre-viewing speculation, not an asserted event; theory is not the stipulated reveal."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 108,
+      "end": 190,
+      "quote": "Nell wins the final by playing the score stolen by her mentor, who then confesses."
+    },
+    "review_id": "R003",
+    "example_id": "winter_score-review-early_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Reveal precedes repetitive padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R004",
+    "example_id": "last_orchard-review-short_premise_review",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed. Remaining statements are opinions."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 35,
+      "end": 110,
+      "quote": "The vault contains no seeds; Ivo burned them before the expedition arrived."
+    },
+    "review_id": "R005",
+    "example_id": "last_orchard-headline-explicit_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R006",
+    "example_id": "winter_score-youtube_transcript-spoken_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R007",
+    "example_id": "paper_moon-review-long_craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome. Deliberately repetitive length control; not a realistic sampled review."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R008",
+    "example_id": "paper_moon-youtube_transcript-spoken_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R009",
+    "example_id": "glass_harbor-review-short_premise_review",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed. Remaining statements are opinions."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R010",
+    "example_id": "winter_score-youtube_transcript-asr_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Lowercase, missing punctuation simulates ASR, not real ASR output."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R011",
+    "example_id": "glass_harbor-headline-insinuation",
+    "proposed_label": null,
+    "annotation_rationale": "An indirect question may imply a reveal; needs a policy judgment about insinuation."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R012",
+    "example_id": "winter_score-headline-craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 5420,
+      "end": 5502,
+      "quote": "Nell wins the final by playing the score stolen by her mentor, who then confesses."
+    },
+    "review_id": "R013",
+    "example_id": "winter_score-review-late_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Identical reveal follows deliberately long synthetic padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R014",
+    "example_id": "last_orchard-youtube_transcript-spoken_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R015",
+    "example_id": "glass_harbor-comment-spoiler_keyword_negative",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R016",
+    "example_id": "glass_harbor-youtube_transcript-asr_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Lowercase, missing punctuation simulates ASR, not real ASR output."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R017",
+    "example_id": "last_orchard-review-long_craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome. Deliberately repetitive length control; not a realistic sampled review."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 9,
+      "end": 89,
+      "quote": "At the end, the courier is revealed to be the station commander from the future."
+    },
+    "review_id": "R018",
+    "example_id": "paper_moon-comment-slang_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 111,
+      "end": 191,
+      "quote": "At the end, the courier is revealed to be the station commander from the future."
+    },
+    "review_id": "R019",
+    "example_id": "paper_moon-review-early_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Reveal precedes repetitive padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R020",
+    "example_id": "glass_harbor-youtube_transcript-missing_antecedent",
+    "proposed_label": null,
+    "annotation_rationale": "Passage omits referents and event; adjacent transcript context is unavailable."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 35,
+      "end": 117,
+      "quote": "Nell wins the final by playing the score stolen by her mentor, who then confesses."
+    },
+    "review_id": "R021",
+    "example_id": "winter_score-headline-explicit_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R022",
+    "example_id": "winter_score-headline-insinuation",
+    "proposed_label": null,
+    "annotation_rationale": "An indirect question may imply a reveal; needs a policy judgment about insinuation."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R023",
+    "example_id": "paper_moon-youtube_transcript-missing_antecedent",
+    "proposed_label": null,
+    "annotation_rationale": "Passage omits referents and event; adjacent transcript context is unavailable."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R024",
+    "example_id": "glass_harbor-youtube_transcript-spoken_craft",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R025",
+    "example_id": "last_orchard-headline-insinuation",
+    "proposed_label": null,
+    "annotation_rationale": "An indirect question may imply a reveal; needs a policy judgment about insinuation."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 9,
+      "end": 74,
+      "quote": "Mara discovers that her father deliberately sank the rescue ship."
+    },
+    "review_id": "R026",
+    "example_id": "glass_harbor-comment-slang_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R027",
+    "example_id": "paper_moon-youtube_transcript-spoken_craft",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R028",
+    "example_id": "winter_score-review-short_premise_review",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed. Remaining statements are opinions."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R029",
+    "example_id": "winter_score-comment-spoiler_keyword_negative",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R030",
+    "example_id": "glass_harbor-headline-craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R031",
+    "example_id": "glass_harbor-review-long_craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome. Deliberately repetitive length control; not a realistic sampled review."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 96,
+      "end": 161,
+      "quote": "Mara discovers that her father deliberately sank the rescue ship."
+    },
+    "review_id": "R032",
+    "example_id": "glass_harbor-review-early_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Reveal precedes repetitive padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R033",
+    "example_id": "paper_moon-headline-insinuation",
+    "proposed_label": null,
+    "annotation_rationale": "An indirect question may imply a reveal; needs a policy judgment about insinuation."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 9,
+      "end": 91,
+      "quote": "Nell wins the final by playing the score stolen by her mentor, who then confesses."
+    },
+    "review_id": "R034",
+    "example_id": "winter_score-comment-slang_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R035",
+    "example_id": "glass_harbor-headline-public_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R036",
+    "example_id": "glass_harbor-comment-sarcastic_reply",
+    "proposed_label": null,
+    "annotation_rationale": "Sarcastic reply lacks its parent comment; polarity and implied disclosure are unresolved."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 37,
+      "end": 117,
+      "quote": "At the end, the courier is revealed to be the station commander from the future."
+    },
+    "review_id": "R037",
+    "example_id": "paper_moon-headline-explicit_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R038",
+    "example_id": "winter_score-comment-explicit_speculation",
+    "proposed_label": 0,
+    "annotation_rationale": "Explicit pre-viewing speculation, not an asserted event; theory is not the stipulated reveal."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R039",
+    "example_id": "paper_moon-headline-public_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 108,
+      "end": 183,
+      "quote": "The vault contains no seeds; Ivo burned them before the expedition arrived."
+    },
+    "review_id": "R040",
+    "example_id": "last_orchard-review-early_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Reveal precedes repetitive padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R041",
+    "example_id": "last_orchard-headline-craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R042",
+    "example_id": "glass_harbor-youtube_transcript-spoken_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R043",
+    "example_id": "last_orchard-youtube_transcript-asr_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Lowercase, missing punctuation simulates ASR, not real ASR output."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R044",
+    "example_id": "winter_score-youtube_transcript-spoken_craft",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 31,
+      "end": 96,
+      "quote": "Mara discovers that her father deliberately sank the rescue ship."
+    },
+    "review_id": "R045",
+    "example_id": "glass_harbor-headline-explicit_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R046",
+    "example_id": "winter_score-headline-public_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R047",
+    "example_id": "paper_moon-comment-sarcastic_reply",
+    "proposed_label": null,
+    "annotation_rationale": "Sarcastic reply lacks its parent comment; polarity and implied disclosure are unresolved."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R048",
+    "example_id": "paper_moon-comment-spoiler_keyword_negative",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R049",
+    "example_id": "last_orchard-youtube_transcript-spoken_craft",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R050",
+    "example_id": "last_orchard-headline-public_premise",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R051",
+    "example_id": "winter_score-youtube_transcript-missing_antecedent",
+    "proposed_label": null,
+    "annotation_rationale": "Passage omits referents and event; adjacent transcript context is unavailable."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R052",
+    "example_id": "last_orchard-youtube_transcript-missing_antecedent",
+    "proposed_label": null,
+    "annotation_rationale": "Passage omits referents and event; adjacent transcript context is unavailable."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 5423,
+      "end": 5503,
+      "quote": "At the end, the courier is revealed to be the station commander from the future."
+    },
+    "review_id": "R053",
+    "example_id": "paper_moon-review-late_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Identical reveal follows deliberately long synthetic padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R054",
+    "example_id": "glass_harbor-comment-explicit_speculation",
+    "proposed_label": 0,
+    "annotation_rationale": "Explicit pre-viewing speculation, not an asserted event; theory is not the stipulated reveal."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R055",
+    "example_id": "last_orchard-comment-spoiler_keyword_negative",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R056",
+    "example_id": "paper_moon-youtube_transcript-asr_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Lowercase, missing punctuation simulates ASR, not real ASR output."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 5420,
+      "end": 5495,
+      "quote": "The vault contains no seeds; Ivo burned them before the expedition arrived."
+    },
+    "review_id": "R057",
+    "example_id": "last_orchard-review-late_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Identical reveal follows deliberately long synthetic padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R058",
+    "example_id": "last_orchard-comment-sarcastic_reply",
+    "proposed_label": null,
+    "annotation_rationale": "Sarcastic reply lacks its parent comment; polarity and implied disclosure are unresolved."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R059",
+    "example_id": "paper_moon-headline-craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R060",
+    "example_id": "winter_score-review-long_craft_only",
+    "proposed_label": 0,
+    "annotation_rationale": "Judges craft or experience without disclosing a story outcome. Deliberately repetitive length control; not a realistic sampled review."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R061",
+    "example_id": "winter_score-comment-sarcastic_reply",
+    "proposed_label": null,
+    "annotation_rationale": "Sarcastic reply lacks its parent comment; polarity and implied disclosure are unresolved."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 5408,
+      "end": 5473,
+      "quote": "Mara discovers that her father deliberately sank the rescue ship."
+    },
+    "review_id": "R062",
+    "example_id": "glass_harbor-review-late_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise. Identical reveal follows deliberately long synthetic padding."
+  },
+  {
+    "assistant_evidence_span": null,
+    "review_id": "R063",
+    "example_id": "paper_moon-review-short_premise_review",
+    "proposed_label": 0,
+    "annotation_rationale": "Only restates the stipulated public premise; no later event is disclosed. Remaining statements are opinions."
+  },
+  {
+    "assistant_evidence_span": {
+      "start": 9,
+      "end": 84,
+      "quote": "The vault contains no seeds; Ivo burned them before the expedition arrived."
+    },
+    "review_id": "R064",
+    "example_id": "last_orchard-comment-slang_reveal",
+    "proposed_label": 1,
+    "annotation_rationale": "States a consequential later event absent from the public premise."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "package_sha256": "719ed76d81a4bf8aae115e18fee8eb48c19de9eae025387c6ae3ab698fa9c5b4",
+  "bytes": 91448,
+  "files": {
+    "compare_gemini_context.py": "11aed4f776cb580e68821abc35b454f7e6ecd4bcd37e52747c02c20bd0ed0c74",
+    "compare_three_models.py": "28838f80329e375748cf6cbcc2acbb223f1ca608a17efe5ed21bcdb5708817fd",
+    "compare_context_models.py": "170db362dec1e3b542168442f03113d1978997b56eab0c0af15c9259ff90ccb2",
+    "blind.jsonl": "af193b10918f5ba0de9cff71c01b6ccdf443399082e09fe1588d3ccf3f734a71",
+    "metadata.json": "4f37ca76a7f32c548a7460f0751da0f58eba795b975223970c945e63868aae49",
+    "contexts.json": "2552744337e7b9eef02f5119bdbcb1323fae1c62680d6e4f05b661f6c2d8b505",
+    "annotations.jsonl": "d28cc2ebe9b5662c52e5691f34faf5e7d58fcb4af260a8ca8ad2891a18caa876",
+    "baseline-comparison.json": "7fab41a03f4a6bba3606a7c039485e82271da18f52464f3d54f448c8c9a94614",
+    "checkpoint-backups/gemini_title.json": "91341748fa9b5a6c00a67cc1d3744ebb0e3d0f4cac189ebf3c6ddcf67e75506f",
+    "checkpoint-backups/gemini_context.json": "a05262674fb046adae321451aa31d48adc24b05220b14a599a68d54ab819fc66"
+  },
+  "max_requests": 5,
+  "request_gap_seconds": 30,
+  "sdk": "2.12.1"
+}

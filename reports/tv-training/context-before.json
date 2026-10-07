@@ -1,0 +1,22 @@
+{
+  "eval_loss": 1.322809100151062,
+  "eval_model_preparation_time": 0.0051,
+  "eval_rows": 198,
+  "eval_positives": 168,
+  "eval_threshold": 0.5,
+  "eval_precision": 0.7228915662650602,
+  "eval_recall": 0.35714285714285715,
+  "eval_f1": 0.47808764940239046,
+  "eval_accuracy": 0.3383838383838384,
+  "eval_balanced_accuracy": 0.29523809523809524,
+  "eval_mcc": -0.2975818630266714,
+  "eval_average_precision": 0.7498928598925577,
+  "eval_false_positive_rate": 0.7666666666666667,
+  "eval_tp": 60,
+  "eval_fp": 23,
+  "eval_fn": 108,
+  "eval_tn": 7,
+  "eval_runtime": 1.5456,
+  "eval_samples_per_second": 128.108,
+  "eval_steps_per_second": 8.411
+}

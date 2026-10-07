@@ -1,0 +1,12 @@
+{
+  "contexts_sha256": "2552744337e7b9eef02f5119bdbcb1323fae1c62680d6e4f05b661f6c2d8b505",
+  "works": 23,
+  "covered_examples": 94,
+  "total_examples": 207,
+  "method": "Assistant work-level paraphrases of sourced setup and narrative progression. No candidate-specific context selection. Frozen before predictions.",
+  "limitation": "Assistant-authored premise boundaries; selected Wikipedia plot challenge and supplied summaries share sources. This is not retrieval or production validation.",
+  "coverage_by_slice": {
+    "real_content_dev": 34,
+    "source_plot_challenge": 60
+  }
+}

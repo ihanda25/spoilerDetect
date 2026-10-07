@@ -1,0 +1,1 @@
+User authorized held-out test evaluation of review-only epoch 2 using the exact validation maximum-F1 threshold (approximately 0.2158). Do not tune on test or start more training. Results: results.json and RESULTS.md. Expected runtime 6–10 minutes.

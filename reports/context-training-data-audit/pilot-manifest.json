@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-06",
+  "status": "preparation_pilot_only",
+  "training_started": false,
+  "training_ready": false,
+  "mapped_work_pages": 7,
+  "total_work_pages": 884,
+  "mapped_candidate_rows": 942,
+  "mapped_candidate_rows_by_split": {
+    "train": 744,
+    "validation": 198
+  },
+  "mapping_coverage_is_lower_bound": true,
+  "remaining_unmapped_pages": 877,
+  "cleaning_exclusions_train": {},
+  "pilot": {
+    "train": {
+      "rows": 200,
+      "positives": 100,
+      "works": 4
+    },
+    "validation": {
+      "rows": 60,
+      "positives": 34,
+      "works": 3
+    }
+  },
+  "quality_sample_rows": 56,
+  "quality_adequacy_counts": {
+    "missing_event": 23,
+    "fragment": 17,
+    "partial": 4,
+    "supported": 1,
+    "non_plot": 6,
+    "scope_mismatch": 3,
+    "scope_uncertain": 2
+  },
+  "context_sha256": "42ea8329e2c06ee394d301638d41d564ccfdd4682d50d59a64d709225a69dd6d",
+  "raw_hashes": {
+    "train": "b126ea22b90228025ad9d9840b741f1f453dcfb0f03f28867bf5e989814429e8",
+    "validation": "084582d8b6bdc9bb76dfac1f2606a4d35d3fee704e92641ddaf625a75ce8c15a",
+    "test": "190869bef8bbd62bd2750db6fd360db7f19317c11a455c8f1c3120626d76051e"
+  },
+  "output_hashes": {
+    "train.jsonl": "b9249fa32c76d5eca6a76f22b91e5bd0303a5ca7a285889289a4eb33297eef2a",
+    "validation.jsonl": "6295af6f3077b711befba2851bb26ce7d5d3c3b27c85447f65f725fc167ca847",
+    "candidate-pairs.jsonl": "146866825e02749bc90fdbf40fec059346da23eadab507683c54cbb7d8b6340f",
+    "quality-review.jsonl": "5e793887c26dbf9e83f82cd5aa36ddeb562dfc5cbd4cbff645119efbd5f165c2"
+  },
+  "limitations": [
+    "Seven selected TV shows; not exhaustive mapping of the corpus",
+    "Identity checks are assistant judgments using source pages and sampled characters, not human verification",
+    "Short work-level paraphrases, often premise-only; not episode-complete context",
+    "No claim of canonical IMDb-ID matching or franchise-disjointness",
+    "Original spoiler-markup labels preserved, not relabeled into product policy",
+    "Validation is development and sample-reviewed; test and dev2 excluded from pilot",
+    "Balanced per-work pilot is not realistic browsing prevalence",
+    "Existing imported RoBERTa checkpoint may have unknown corpus exposure",
+    "All pilot rows require context/label review before training"
+  ]
+}

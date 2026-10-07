@@ -1,0 +1,20 @@
+{
+  "model": "Zritze/imdb-spoiler-robertaOrigDatasetLR1",
+  "revision": "56fee120f8495ccfc5001e3fbd1478656d17001a",
+  "arm": "sentence",
+  "seed": 42,
+  "epochs": 1,
+  "learning_rate": 2e-05,
+  "batch_size": 8,
+  "gradient_accumulation": 2,
+  "max_length": 512,
+  "threshold": 0.5,
+  "pack_hashes": {
+    "train.jsonl": "e5014dc34cb66cfbe872be010563bdfad2ed5250f48640d7fea1038e8cadd6b6",
+    "validation.jsonl": "6c1c5e4a7edc3de8db01e75fff125fe25dc464bca2b79d004f3e19e3f3af0485"
+  },
+  "gpu": "Tesla T4",
+  "torch": "2.11.0+cu130",
+  "transformers": "4.57.1",
+  "exploratory": true
+}

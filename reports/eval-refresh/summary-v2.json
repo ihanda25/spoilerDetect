@@ -1,0 +1,88 @@
+{
+  "status": "AI development diagnostic prepared; not scored",
+  "annotation_policy": "unstarted-viewer-public-premise-v1",
+  "slices": {
+    "real_content_dev": {
+      "total": 147,
+      "labels": {
+        "spoiler": 5,
+        "safe": 138,
+        "uncertain": 4
+      },
+      "surfaces": {
+        "comment": 48,
+        "headline": 35,
+        "review": 54,
+        "youtube_transcript": 10
+      },
+      "groups": 89
+    },
+    "source_plot_challenge": {
+      "total": 60,
+      "labels": {
+        "safe": 20,
+        "spoiler": 40
+      },
+      "surfaces": {
+        "plot_excerpt": 60
+      },
+      "groups": 20
+    }
+  },
+  "total": {
+    "total": 207,
+    "labels": {
+      "spoiler": 45,
+      "safe": 158,
+      "uncertain": 4
+    },
+    "surfaces": {
+      "comment": 48,
+      "headline": 35,
+      "review": 54,
+      "youtube_transcript": 10,
+      "plot_excerpt": 60
+    },
+    "groups": 109
+  },
+  "source_file_sha256": "b18cd9435ccb5509eefec4008966fe3c04673435d3c4e96e42bcf3883d32aff9",
+  "baseline": {
+    "model": "Zritze/imdb-spoiler-robertaOrigDatasetLR1",
+    "revision": "56fee120f8495ccfc5001e3fbd1478656d17001a",
+    "threshold": 0.5,
+    "input": "text_only",
+    "max_length": 512,
+    "strategy": "truncate"
+  },
+  "held_out_rows_preserved": 98,
+  "source_verification_file": "source-verification.json",
+  "quote_words_by_source": {
+    "https://en.wikipedia.org/wiki/The_Sixth_Sense": 22,
+    "https://en.wikipedia.org/wiki/Fight_Club": 23,
+    "https://en.wikipedia.org/wiki/Shutter_Island_(film)": 20,
+    "https://en.wikipedia.org/wiki/Arrival_(film)": 25,
+    "https://en.wikipedia.org/wiki/Get_Out": 22,
+    "https://en.wikipedia.org/wiki/Knives_Out": 23,
+    "https://en.wikipedia.org/wiki/Parasite_(2019_film)": 23,
+    "https://en.wikipedia.org/wiki/Seven_(1995_film)": 19,
+    "https://en.wikipedia.org/wiki/The_Usual_Suspects": 19,
+    "https://en.wikipedia.org/wiki/Oldboy_(2003_film)": 19,
+    "https://en.wikipedia.org/wiki/Psycho_(1960_film)": 23,
+    "https://en.wikipedia.org/wiki/Saw_(2004_film)": 22,
+    "https://en.wikipedia.org/wiki/The_Others_(2001_film)": 23,
+    "https://en.wikipedia.org/wiki/The_Prestige": 21,
+    "https://en.wikipedia.org/wiki/Memento_(film)": 22,
+    "https://en.wikipedia.org/wiki/Rebecca_(novel)": 24,
+    "https://en.wikipedia.org/wiki/Jane_Eyre": 21,
+    "https://en.wikipedia.org/wiki/The_Great_Gatsby": 21,
+    "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde": 22,
+    "https://en.wikipedia.org/wiki/And_Then_There_Were_None": 19
+  },
+  "limitations": [
+    "AI judgments, not human gold",
+    "Challenge is curator-selected source plot fragments, not natural product traffic",
+    "Short popular-work excerpts; no full-review/ASR generalization",
+    "Work alias verification remains incomplete",
+    "Minor plot events and major twists must be reported separately"
+  ]
+}

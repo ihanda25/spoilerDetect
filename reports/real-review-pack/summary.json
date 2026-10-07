@@ -1,0 +1,41 @@
+{
+  "created_at": "2026-10-05T17:28:27.855459+00:00",
+  "candidate_count": 245,
+  "surface_counts": {
+    "headline": 58,
+    "review": 76,
+    "comment": 91,
+    "youtube_transcript": 20
+  },
+  "split_counts": {
+    "test": 98,
+    "dev": 147
+  },
+  "surface_by_split": {
+    "dev": {
+      "review": 54,
+      "headline": 35,
+      "comment": 48,
+      "youtube_transcript": 10
+    },
+    "test": {
+      "headline": 23,
+      "review": 22,
+      "comment": 43,
+      "youtube_transcript": 10
+    }
+  },
+  "groups": 137,
+  "reviewed": 0,
+  "labeled": 0,
+  "evaluated": 0,
+  "checks": {
+    "unique_ids": true,
+    "exact_normalized_text_deduplicated": true,
+    "source_groups_disjoint": true,
+    "declared_work_keys_disjoint": true,
+    "labels_all_null": true
+  },
+  "grouping_caveat": "Unknown works, aliases and secondary references need human verification before evaluation. No claim of exhaustive semantic work disjointness.",
+  "manifest_sha256": "df934ec4d454ee6f610a879e8db689daef8f9f126fe6b025961cbc936d1f01c2"
+}

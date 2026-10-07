@@ -1,0 +1,380 @@
+{
+  "sources": {
+    "https://en.wikipedia.org/wiki/List_of_Fringe_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Fringe_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Fringe_episodes",
+      "fetched_utc": "2026-10-06T21:13:29Z",
+      "sha256": "71d4a502362c7e17cb9513d2a723be74c2ea3d5c683608069626c533c21f2365"
+    },
+    "https://en.wikipedia.org/wiki/Fringe_season_1": {
+      "requested_url": "https://en.wikipedia.org/wiki/Fringe_season_1",
+      "resolved_url": "https://en.wikipedia.org/wiki/Fringe_season_1",
+      "fetched_utc": "2026-10-06T21:13:30Z",
+      "sha256": "e7278961ebc55731b6182f400b20086a26406d17c4cdff4093943841f423203b"
+    },
+    "https://en.wikipedia.org/wiki/Fringe_season_2": {
+      "requested_url": "https://en.wikipedia.org/wiki/Fringe_season_2",
+      "resolved_url": "https://en.wikipedia.org/wiki/Fringe_season_2",
+      "fetched_utc": "2026-10-06T21:13:31Z",
+      "sha256": "5a257a91047535170a74fae75f25b8b211fed83e146b7ab93c475c05b2dcdf6a"
+    },
+    "https://en.wikipedia.org/wiki/Fringe_season_3": {
+      "requested_url": "https://en.wikipedia.org/wiki/Fringe_season_3",
+      "resolved_url": "https://en.wikipedia.org/wiki/Fringe_season_3",
+      "fetched_utc": "2026-10-06T21:13:33Z",
+      "sha256": "c3aeef8fe4291791029609b5c1e9eb5b631c859e5ce54ed71583ee2abd1fff57"
+    },
+    "https://en.wikipedia.org/wiki/Fringe_season_4": {
+      "requested_url": "https://en.wikipedia.org/wiki/Fringe_season_4",
+      "resolved_url": "https://en.wikipedia.org/wiki/Fringe_season_4",
+      "fetched_utc": "2026-10-06T21:13:34Z",
+      "sha256": "3b0af8ab8881694bc60dac0f1902cb262a03408e74c8a404aabe53a92fa082e3"
+    },
+    "https://en.wikipedia.org/wiki/Fringe_season_5": {
+      "requested_url": "https://en.wikipedia.org/wiki/Fringe_season_5",
+      "resolved_url": "https://en.wikipedia.org/wiki/Fringe_season_5",
+      "fetched_utc": "2026-10-06T21:13:35Z",
+      "sha256": "a2b72a07f49ee3cfbf95e88e858ba8b7aac54c66c5c5622a4139698774b7b196"
+    },
+    "https://en.wikipedia.org/wiki/List_of_Sherlock_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Sherlock_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Sherlock_episodes",
+      "fetched_utc": "2026-10-06T21:13:36Z",
+      "sha256": "12ea21134d472650d8b033895968bba6daf79b784b077aa1d18a4b7c8655b059"
+    },
+    "https://en.wikipedia.org/wiki/List_of_Firefly_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Firefly_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Firefly_episodes",
+      "fetched_utc": "2026-10-06T21:13:37Z",
+      "sha256": "2088386ae235ce723fdccb4fa37ff842973bd0d8a9a905ed2c771a0d717f1cb5"
+    },
+    "https://en.wikipedia.org/wiki/List_of_Person_of_Interest_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Person_of_Interest_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Person_of_Interest_episodes",
+      "fetched_utc": "2026-10-06T21:13:39Z",
+      "sha256": "2ca9af4ba9ea9428a0bb7366e70433344aba41cc35c11edad057d608ee74505e"
+    },
+    "https://en.wikipedia.org/wiki/Person_of_Interest_season_1": {
+      "requested_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_1",
+      "resolved_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_1",
+      "fetched_utc": "2026-10-06T21:13:40Z",
+      "sha256": "f233be0d7ab04b47c97cf1e3180a014af33a4c7af71ad85135b167e940192ebc"
+    },
+    "https://en.wikipedia.org/wiki/Person_of_Interest_season_2": {
+      "requested_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_2",
+      "resolved_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_2",
+      "fetched_utc": "2026-10-06T21:13:41Z",
+      "sha256": "1534d96412fda5c664c16c3d3aca8dd8f74de0218d71bc190f4beec64bf3e263"
+    },
+    "https://en.wikipedia.org/wiki/Person_of_Interest_season_3": {
+      "requested_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_3",
+      "resolved_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_3",
+      "fetched_utc": "2026-10-06T21:13:42Z",
+      "sha256": "97edd892b7f82910915fc2d819028adb219f5ae93e6e2ed408f908dbf89e3021"
+    },
+    "https://en.wikipedia.org/wiki/Person_of_Interest_season_4": {
+      "requested_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_4",
+      "resolved_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_4",
+      "fetched_utc": "2026-10-06T21:13:43Z",
+      "sha256": "8205b5ba289ff869b96b89cf851d7134a51b0444a33cd702e5d32577b04baa5b"
+    },
+    "https://en.wikipedia.org/wiki/Person_of_Interest_season_5": {
+      "requested_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_5",
+      "resolved_url": "https://en.wikipedia.org/wiki/Person_of_Interest_season_5",
+      "fetched_utc": "2026-10-06T21:13:45Z",
+      "sha256": "cbf960a5930805d4df8264ed53d7b2c304885182470577b4c12cd2fcf0e3d4c3"
+    },
+    "https://en.wikipedia.org/wiki/List_of_Homeland_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Homeland_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Homeland_episodes",
+      "fetched_utc": "2026-10-06T21:13:46Z",
+      "sha256": "c7041bc15e0214aca9e36d7335b233a9c9313aafc021b8d5834589be0147fd31"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_1": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_1",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_1",
+      "fetched_utc": "2026-10-06T21:13:47Z",
+      "sha256": "4891175e99511b5ab715afff4c7aadc9e3d7538d8ea8eb31c312ae892729e18a"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_2": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_2",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_2",
+      "fetched_utc": "2026-10-06T21:13:48Z",
+      "sha256": "9b26411359910c2b55458abd388daa9ab2daf2a06f6b6ae66e01b16e0159c5ef"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_3": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_3",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_3",
+      "fetched_utc": "2026-10-06T21:13:49Z",
+      "sha256": "5c2ec6e34afe27466bb6c2f1b491aad0bc34e4fdbb96be6dc0a4a7e407c838eb"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_4": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_4",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_4",
+      "fetched_utc": "2026-10-06T21:13:50Z",
+      "sha256": "f34daf20c996c8dac5cb4df2aa41eabe9da0a24e69d7b13c5310f818ef7d9d8d"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_5": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_5",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_5",
+      "fetched_utc": "2026-10-06T21:13:51Z",
+      "sha256": "c2d7b52d21b873db84f612172f2a86fd055ed11ce85efccc3c7446f220613ecb"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_6": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_6",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_6",
+      "fetched_utc": "2026-10-06T21:13:53Z",
+      "sha256": "c44159e8edff8f91815fadbb5a2a1cf0b70e41312654e65c102c7e1a2d850ec8"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_7": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_7",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_7",
+      "fetched_utc": "2026-10-06T21:13:54Z",
+      "sha256": "8ce51a139d3985656d9f2a77551198ba226d4bbca9a5f462d11397de7a3b7dab"
+    },
+    "https://en.wikipedia.org/wiki/Homeland_season_8": {
+      "requested_url": "https://en.wikipedia.org/wiki/Homeland_season_8",
+      "resolved_url": "https://en.wikipedia.org/wiki/Homeland_season_8",
+      "fetched_utc": "2026-10-06T21:13:55Z",
+      "sha256": "7426258e3f5e4c35f2d43b1456944955f12550a40a5d33e52a8958783f58c74c"
+    },
+    "https://en.wikipedia.org/wiki/List_of_Nikita_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Nikita_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Nikita_episodes",
+      "fetched_utc": "2026-10-06T21:13:56Z",
+      "sha256": "b808891c588d3a64e27649dc22bf724b5582d32dad222ccab39b351dd52015fb"
+    },
+    "https://en.wikipedia.org/wiki/Nikita_season_1": {
+      "requested_url": "https://en.wikipedia.org/wiki/Nikita_season_1",
+      "resolved_url": "https://en.wikipedia.org/wiki/Nikita_season_1",
+      "fetched_utc": "2026-10-06T21:13:57Z",
+      "sha256": "b99476472e99dad268293d5af8fd12952d611bcf28564e4c9d637094263adfee"
+    },
+    "https://en.wikipedia.org/wiki/Nikita_season_2": {
+      "requested_url": "https://en.wikipedia.org/wiki/Nikita_season_2",
+      "resolved_url": "https://en.wikipedia.org/wiki/Nikita_season_2",
+      "fetched_utc": "2026-10-06T21:13:59Z",
+      "sha256": "3d5549af5306827ce9165726d317fb4672a338ac6ba82be463efbe9cfd1fe27d"
+    },
+    "https://en.wikipedia.org/wiki/Nikita_season_3": {
+      "requested_url": "https://en.wikipedia.org/wiki/Nikita_season_3",
+      "resolved_url": "https://en.wikipedia.org/wiki/Nikita_season_3",
+      "fetched_utc": "2026-10-06T21:14:00Z",
+      "sha256": "c09ecdab086d4e077333936bfd0ece3e3c1024a94763ac9eb52b7fd3995bae08"
+    },
+    "https://en.wikipedia.org/wiki/Nikita_season_4": {
+      "requested_url": "https://en.wikipedia.org/wiki/Nikita_season_4",
+      "resolved_url": "https://en.wikipedia.org/wiki/Nikita_season_4",
+      "fetched_utc": "2026-10-06T21:14:01Z",
+      "sha256": "f8ebc6279984c25a9e544d0cd30866a7ffc211fe205f08581631a115ffb55996"
+    },
+    "https://en.wikipedia.org/wiki/List_of_Life_on_Mars_(British_TV_series)_episodes": {
+      "requested_url": "https://en.wikipedia.org/wiki/List_of_Life_on_Mars_(British_TV_series)_episodes",
+      "resolved_url": "https://en.wikipedia.org/wiki/List_of_Life_on_Mars_(British_TV_series)_episodes",
+      "fetched_utc": "2026-10-06T21:14:03Z",
+      "sha256": "40d5bf012e580cbb2c30e91569a9aeea5a1981cc7fd98d40914505b639af6bf7"
+    },
+    "https://en.wikipedia.org/wiki/Dream_Logic": {
+      "requested_url": "https://en.wikipedia.org/wiki/Dream_Logic",
+      "resolved_url": "https://en.wikipedia.org/wiki/Dream_Logic",
+      "fetched_utc": "2026-10-06T21:17:24Z",
+      "sha256": "d4e3a69e95a1ed6aa5d2730215f9539df7791119b9178bd7a64c9c38ae76cc1e"
+    },
+    "https://en.wikipedia.org/wiki/Unearthed_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Unearthed_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Unearthed_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:26Z",
+      "sha256": "af61458a4dc2df5f15fb8a2ae991d4266f6af0075eb499e908d4bb64d37842dd"
+    },
+    "https://en.wikipedia.org/wiki/Jacksonville_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Jacksonville_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Jacksonville_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:27Z",
+      "sha256": "0b24c0019e796def656627c3f055100c30503fba158033206ae81775a405ecd0"
+    },
+    "https://en.wikipedia.org/wiki/Peter_(Fringe_episode)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Peter_(Fringe_episode)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Peter_(Fringe_episode)",
+      "fetched_utc": "2026-10-06T21:17:28Z",
+      "sha256": "d9b7014138c6b5afa5fc9957e7e34c28dc815d5265b0b1ee105a993b2cfa7560"
+    },
+    "https://en.wikipedia.org/wiki/The_Man_from_the_Other_Side": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Man_from_the_Other_Side",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Man_from_the_Other_Side",
+      "fetched_utc": "2026-10-06T21:17:29Z",
+      "sha256": "2be4caf369c2cda9b2d6925cf42440f42003ddfdd4984528d9007585245b91f5"
+    },
+    "https://en.wikipedia.org/wiki/Brown_Betty_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Brown_Betty_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Brown_Betty_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:30Z",
+      "sha256": "fcf73aaa8ccb29d401ecc60b00dab885731c8a28e6976d0a7173e2f41c7c60d1"
+    },
+    "https://en.wikipedia.org/wiki/Over_There_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Over_There_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Over_There_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:32Z",
+      "sha256": "160fec1cb8cb71267ca15bc46df7c549c7c9f30640adabc96edf20584b90fbac"
+    },
+    "https://en.wikipedia.org/wiki/Reciprocity_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Reciprocity_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Reciprocity_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:33Z",
+      "sha256": "49b1d47d5db550fea18b88f47736323be1374fa41e02f9ded106eca3498195d0"
+    },
+    "https://en.wikipedia.org/wiki/Lysergic_Acid_Diethylamide_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Lysergic_Acid_Diethylamide_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Lysergic_Acid_Diethylamide_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:34Z",
+      "sha256": "cfe99c890ef45595ea1a714d7e265d2d089f051393675fb47d0472012427f7e8"
+    },
+    "https://en.wikipedia.org/wiki/6:02_AM_EST": {
+      "requested_url": "https://en.wikipedia.org/wiki/6:02_AM_EST",
+      "resolved_url": "https://en.wikipedia.org/wiki/6:02_AM_EST",
+      "fetched_utc": "2026-10-06T21:19:46Z",
+      "sha256": "78e12a9fb25badd3f8fad912f2d5081dc9b5d3ac03f24066ac0e1627a0740a37"
+    },
+    "https://en.wikipedia.org/wiki/The_Consultant_(Fringe)": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Consultant_(Fringe)",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Consultant_(Fringe)",
+      "fetched_utc": "2026-10-06T21:17:35Z",
+      "sha256": "0d5a0c0d5e115a548d7c8e13b4be832246a83cca0eba0610a0dc27a9c8703e99"
+    },
+    "https://en.wikipedia.org/wiki/A_Study_in_Pink": {
+      "requested_url": "https://en.wikipedia.org/wiki/A_Study_in_Pink",
+      "resolved_url": "https://en.wikipedia.org/wiki/A_Study_in_Pink",
+      "fetched_utc": "2026-10-06T21:17:37Z",
+      "sha256": "056b6e1dfaa4ad446f021417896f2b76af494f811fedc1f2bd3be4f55da9f7dc"
+    },
+    "https://en.wikipedia.org/wiki/The_Blind_Banker": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Blind_Banker",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Blind_Banker",
+      "fetched_utc": "2026-10-06T21:17:38Z",
+      "sha256": "438110a678f07fca086e17fd219416759b93aafd83a9bcd013b8bdffb74c5921"
+    },
+    "https://en.wikipedia.org/wiki/The_Great_Game_(Sherlock)": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Great_Game_(Sherlock)",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Great_Game_(Sherlock)",
+      "fetched_utc": "2026-10-06T21:17:39Z",
+      "sha256": "2158c1f4bd72c1b6b4053258400ccefacccc141dfa56c77ef5dbeb5e07bdd68b"
+    },
+    "https://en.wikipedia.org/wiki/A_Scandal_in_Belgravia": {
+      "requested_url": "https://en.wikipedia.org/wiki/A_Scandal_in_Belgravia",
+      "resolved_url": "https://en.wikipedia.org/wiki/A_Scandal_in_Belgravia",
+      "fetched_utc": "2026-10-06T21:17:40Z",
+      "sha256": "4c687c3baba77528d6ef75969c8c22dff29a6d3bf214040f73901cfbea80e4d5"
+    },
+    "https://en.wikipedia.org/wiki/The_Hounds_of_Baskerville": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Hounds_of_Baskerville",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Hounds_of_Baskerville",
+      "fetched_utc": "2026-10-06T21:17:41Z",
+      "sha256": "f92e771e7b85afc200753a08a525e259814edf21b2828c271f4a8e1a51b6e4c9"
+    },
+    "https://en.wikipedia.org/wiki/The_Reichenbach_Fall": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Reichenbach_Fall",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Reichenbach_Fall",
+      "fetched_utc": "2026-10-06T21:17:43Z",
+      "sha256": "e07cc9d847f23593c5e609a7897872d386586e19ef8ff4038efef496274c82fb"
+    },
+    "https://en.wikipedia.org/wiki/Bushwhacked_(Firefly)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Bushwhacked_(Firefly)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Bushwhacked_(Firefly)",
+      "fetched_utc": "2026-10-06T21:17:44Z",
+      "sha256": "6967b9700a520a78ba67d5d2d358d4a736947cf7f3e6837eae220094f6a6511c"
+    },
+    "https://en.wikipedia.org/wiki/Shindig_(Firefly)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Shindig_(Firefly)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Shindig_(Firefly)",
+      "fetched_utc": "2026-10-06T21:17:45Z",
+      "sha256": "5029bdae2a8ad2be1d4e4acec8f2f230cba7308b09144ca1207699d427e899e6"
+    },
+    "https://en.wikipedia.org/wiki/Our_Mrs._Reynolds": {
+      "requested_url": "https://en.wikipedia.org/wiki/Our_Mrs._Reynolds",
+      "resolved_url": "https://en.wikipedia.org/wiki/Our_Mrs._Reynolds",
+      "fetched_utc": "2026-10-06T21:17:46Z",
+      "sha256": "cb7a9c7aff3c1d30cbe921d7645b065e1291b8d2e222c208be5d4aaa5f2c3651"
+    },
+    "https://en.wikipedia.org/wiki/Out_of_Gas_(Firefly)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Out_of_Gas_(Firefly)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Out_of_Gas_(Firefly)",
+      "fetched_utc": "2026-10-06T21:19:48Z",
+      "sha256": "e2208673759f54fd39babf0304f8de8c5cf58c1168f1fd084e4626a470b65572"
+    },
+    "https://en.wikipedia.org/wiki/Ariel_(Firefly_episode)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Ariel_(Firefly_episode)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Ariel_(Firefly_episode)",
+      "fetched_utc": "2026-10-06T21:17:47Z",
+      "sha256": "6406a4cc0069492be6baabed9193b5b77740b493d547e7b7d6f47b87203dd2b8"
+    },
+    "https://en.wikipedia.org/wiki/Trash_(Firefly)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Trash_(Firefly)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Trash_(Firefly)",
+      "fetched_utc": "2026-10-06T21:17:49Z",
+      "sha256": "dd4dc11d8ce12ec01258cde259b9703b306b7bb5863f45e2e66d3284e98af644"
+    },
+    "https://en.wikipedia.org/wiki/Heart_of_Gold_(Firefly)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Heart_of_Gold_(Firefly)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Heart_of_Gold_(Firefly)",
+      "fetched_utc": "2026-10-06T21:17:50Z",
+      "sha256": "b012a61a8b314006b86f63861fa9f72a2b010c70c28f6c6314da4de38140fdb0"
+    },
+    "https://en.wikipedia.org/wiki/Mission_Creep_(Person_of_Interest)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Mission_Creep_(Person_of_Interest)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Mission_Creep_(Person_of_Interest)",
+      "fetched_utc": "2026-10-06T21:17:51Z",
+      "sha256": "185f0974e05d2291f1ede21960287895920eeb44a5ef02c2942bb141250f57e2"
+    },
+    "https://en.wikipedia.org/wiki/Firewall_(Person_of_Interest)": {
+      "requested_url": "https://en.wikipedia.org/wiki/Firewall_(Person_of_Interest)",
+      "resolved_url": "https://en.wikipedia.org/wiki/Firewall_(Person_of_Interest)",
+      "fetched_utc": "2026-10-06T21:17:52Z",
+      "sha256": "7888ba4b183255ed01156f80d42cfb1ac07344e0eeea96cea678f82a7d877882"
+    },
+    "https://en.wikipedia.org/wiki/The_Vest": {
+      "requested_url": "https://en.wikipedia.org/wiki/The_Vest",
+      "resolved_url": "https://en.wikipedia.org/wiki/The_Vest",
+      "fetched_utc": "2026-10-06T21:17:54Z",
+      "sha256": "ba58c29ed549049400e5c86f26aeff551dc55f116e40a728cf698a6b050e59b3"
+    }
+  },
+  "episodes": 416,
+  "episodes_with_plot": 416,
+  "detailed_episode_plots": 27,
+  "by_work": {
+    "Fringe": {
+      "episodes": 100,
+      "with_plot": 100
+    },
+    "Sherlock": {
+      "episodes": 14,
+      "with_plot": 14
+    },
+    "Firefly": {
+      "episodes": 14,
+      "with_plot": 14
+    },
+    "PersonOfInterest": {
+      "episodes": 103,
+      "with_plot": 103
+    },
+    "Homeland": {
+      "episodes": 96,
+      "with_plot": 96
+    },
+    "Nikita": {
+      "episodes": 73,
+      "with_plot": 73
+    },
+    "LifeOnMars2006": {
+      "episodes": 16,
+      "with_plot": 16
+    }
+  },
+  "notes": [
+    "Public plot text stored locally under gitignored data/raw with attribution/source hashes",
+    "Episode metadata/plots collected independently of spoiler labels",
+    "All seasons included; no viewer-progress personalization",
+    "No model inference or training",
+    "Raw source text is not redistributed in committed reports"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "complete": false,
+  "reason": "request_budget",
+  "api_requests_this_invocation": 8,
+  "predictions": {
+    "alone": 4,
+    "rag": 4
+  }
+}

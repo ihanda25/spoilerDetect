@@ -1,0 +1,2351 @@
+[
+  {
+    "id": "real-8d6f3e107020fae5",
+    "title": "Inception",
+    "excerpt": "But Arthur's level at that point is the hotel level; he never goes any deeper. He is at the exact same level when the second kick of hitting the water occurs, and for some reason",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 4.999393696603516,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 4.82950470549552,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 3.8871261727064867,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-c451c3925da2d618",
+    "title": "Inception",
+    "excerpt": "The gravity/kick effect only effectively permeates the next level down. This is why they need to set up a chain of kicks to move all they back to the fist dream level. In the third",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 3.3348828898065275,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 2.660453172818587,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p2",
+        "text": "Coordinated kicks return the team through the layers.",
+        "score": 1.9010405971452873,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-181eeee6a40b0df4",
+    "title": "Inception",
+    "excerpt": "Exactly. The totem is \"an elegant solution for keeping track of reality.\" And reality is the garden on the cliff, something emphasized not only by the comparison of life to a dream and dreamers to",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 4.82950470549552,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 1.652551990554266,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 1.2501621867953105,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-241424661d510ace",
+    "title": "Breaking Bad",
+    "excerpt": ">Ever since the middle of season one where he was given the out (the rich couple offered to pay) I just couldn't stand him. Ah, you should have kept watching as this was explained. I'm",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 2.933745343558148,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 1.5367429426913586,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-f1b5a4fafd3c61b9",
+    "title": "Sintel",
+    "excerpt": "We're almost done. Shhh... Hey, sit still.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": []
+  },
+  {
+    "id": "real-89aa80ddc9cfd17b",
+    "title": "Sintel",
+    "excerpt": "You're a fool for traveling alone, so completely unprepared. You're lucky your blood's still flowing.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Her search leads through a mountain ambush and a shaman’s hut; the spear points toward dragon territory.",
+        "score": 1.8970704547100454,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p4",
+        "text": "She departs grieving, followed by Scales’s offspring.",
+        "score": 1.074582565705148,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 0.7032708108690513,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-6ec4ebe7b53e35dd",
+    "title": "Breaking Bad",
+    "excerpt": "I really love this sort of thing. It shows to me that apps are dying and soon everything will be HTML/CSS and cross device. Well done!",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 1.4764289157467214,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 0.4364312110236967,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 0.3941466306560311,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-9bdc0c0b503c5989",
+    "title": "Sintel",
+    "excerpt": "Good night, Scales.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "She departs grieving, followed by Scales’s offspring.",
+        "score": 1.074582565705148,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 0.7032708108690513,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-56931649e3580dc8",
+    "title": "Sintel",
+    "excerpt": "Get him, Scales! Come on!",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Sintel rescues the injured young dragon, but another dragon carries him away.",
+        "score": 1.4637890769588906,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p4",
+        "text": "She departs grieving, followed by Scales’s offspring.",
+        "score": 1.074582565705148,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 0.7032708108690513,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-9043ebbfe8b9e757",
+    "title": "Breaking Bad",
+    "excerpt": "In the 11th episode of season 2, Walt meets Gustavo Fring. And then the show really takes off.",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 4.747601588014397,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 1.286829052887999,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 0.7882932613120622,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-f686ff442c178524",
+    "title": "Sintel",
+    "excerpt": "This blade has a dark past. It has shed much innocent blood.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 1.8168917979470496,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p1",
+        "text": "Her search leads through a mountain ambush and a shaman’s hut; the spear points toward dragon territory.",
+        "score": 1.132861544054523,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-b8e7b02dff904091",
+    "title": "Sintel",
+    "excerpt": "I'm searching for someone.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": []
+  },
+  {
+    "id": "real-a118a81bb9e1c201",
+    "title": "Sintel",
+    "excerpt": "What brings you to the land of the gatekeepers?",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Her reflection reveals the years consumed by her quest.",
+        "score": 0.3393301114782497,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p0",
+        "text": "Sintel rescues the injured young dragon, but another dragon carries him away.",
+        "score": 0.3037636789863524,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p1",
+        "text": "Her search leads through a mountain ambush and a shaman’s hut; the spear points toward dragon territory.",
+        "score": 0.251121706376394,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-501b0421ca5055b1",
+    "title": "Sintel",
+    "excerpt": "I have failed. You've only failed to see... These are dragon lands, Sintel. You are closer than you know.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Sintel rescues the injured young dragon, but another dragon carries him away.",
+        "score": 2.264045890273797,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p1",
+        "text": "Her search leads through a mountain ambush and a shaman’s hut; the spear points toward dragon territory.",
+        "score": 0.47049758728912355,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 0.43298005965531866,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-bf4a5e2bad17538b",
+    "title": "Sintel",
+    "excerpt": "Someone very dear? A kindred spirit? A dragon.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Her search leads through a mountain ambush and a shaman’s hut; the spear points toward dragon territory.",
+        "score": 1.6033591313436466,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 1.13625087052437,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p0",
+        "text": "Sintel rescues the injured young dragon, but another dragon carries him away.",
+        "score": 0.8002568133149067,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "real-3fdfb26159e427bc",
+    "title": "Breaking Bad",
+    "excerpt": "There's a bit of a lull after the end of season one, and towards the end of season 2. However, it really starts to pick up after that, and season 4 is something special. It",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 4.41017425930487,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 2.551016048059607,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 1.1824398919680934,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-476ea97b14ed5143",
+    "title": "Breaking Bad",
+    "excerpt": "I know it's not what you meant but http://www.calcresult.com/reference/development/CSS-syntax-t... :)",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Her grieving father’s air-traffic error causes a collision.",
+        "score": 0.44388993899474144,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 0.3941466306560311,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 0.28892094717227607,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-9ae8db99f9951127",
+    "title": "Inception",
+    "excerpt": "I agree - kind of a cheap magic trick if you ask me...",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 2.0194313379230273,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 0.8754687373539,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-dfd9673cda202d62",
+    "title": "Breaking Bad",
+    "excerpt": "From the comments page: \"A tribute to the best fucking series in the world.\" Amen to that. Best.Show.Ever.Bitch.",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 3.417004761111584,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 1.264186995171608,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p3",
+        "text": "Her grieving father’s air-traffic error causes a collision.",
+        "score": 0.44388993899474144,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-b1d8614aa1713cc3",
+    "title": "Inception",
+    "excerpt": "> A Scanner Darkly ( http://www.imdb.com/title/tt0405296/ ) It's worth watching for many reasons, but it'd be worth watching for this scene alone: http://www.youtube.com/watch?v=Z2HP25bKztE",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 2.1261383621451855,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 1.563337030989107,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-2782ebbfa1975662",
+    "title": "Inception",
+    "excerpt": "Shane Caruth also starred in the movie, wrote it, directed it, edited, and wrote the soundtrack all on his own dime. http://en.wikipedia.org/wiki/Primer_(film)",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Fischer accepts the idea; Cobb rescues Saito, returns home and leaves his spinning top unobserved.",
+        "score": 1.2501621867953105,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 1.1839046293010635,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 0.37469344944141053,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-c130863e51be23ac",
+    "title": "Inception",
+    "excerpt": "Talk about timing. I just wrote up a list for a friend that includes a bunch of weird movies (most of them being head trips). My list includes two Cronenberg movies as well! Though, to",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 3.257194160351501,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 0.8754687373539,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-1c7f8b38b3f5f9fd",
+    "title": "Breaking Bad",
+    "excerpt": "Different strokes for different folks. I forced my self to sit through 6 hours of the wire before I declared it mind numbingly dull and realized I wasn't going to get what others were getting",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 2.6154305027839158,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 1.724606850222435,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 0.4364312110236967,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-2e90fd9cacf21ca2",
+    "title": "Inception",
+    "excerpt": "\"Space\" mostly works here, although the frames don't come off well aligned.",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Coordinated kicks return the team through the layers.",
+        "score": 0.14623760838593225,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 0.11679379461695262,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 0.0870113769896297,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-8ad288232fd8b2b6",
+    "title": "Inception",
+    "excerpt": "I really enjoyed Dark City. The directors cut is best, though, because it doesn’t give away the twist at the beginning like the theatrical cut did.",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 1.4733057381095203,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 1.3886234837177698,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p2",
+        "text": "Coordinated kicks return the team through the layers.",
+        "score": 0.14623760838593225,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-7ffdd5b466a2cb92",
+    "title": "Breaking Bad",
+    "excerpt": "Breaking bad is great. However, The Wire is definitely the best TV show ever.",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 1.1390015870371946,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-94c9c04895a96024",
+    "title": "Breaking Bad",
+    "excerpt": "Does she like rollercoasters? I feel like it's a show for people who like extreme tension and the catharsis of relief, cause my wife and mother-in-law totally dig it.",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 2.6154305027839158,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 2.5129001115344973,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 1.0142731053682488,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-41b24af89d7dcd5a",
+    "title": "Breaking Bad",
+    "excerpt": "I forced myself to watch about four episodes of Breaking Bad on the advice of so many raving reviews, but I just couldn't get into it. Though I don't enjoy watching much TV to begin",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 2.278003174074389,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-ae5e8d9a977020a5",
+    "title": "Inception",
+    "excerpt": "I had the same feeling. I actually switched over to a wheel mouse because I tried using this on an Apple touchpad and it was not a happy animation. I'm pretty forgiving about the smoothness",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 2.353979060638572,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 1.652551990554266,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 1.2501621867953105,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-4b448a2503ec4385",
+    "title": "Breaking Bad",
+    "excerpt": "I agree. And the end of the season 4 is imo one of the best things I ever saw on a screen.",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Across season one, Walt kills Krazy-8, hides his activities from Skyler, declines Elliott and Gretchen’s assistance with treatment, and develops a dangerous arrangement with Tuco.",
+        "score": 2.2620951008873313,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 2.1321710852304805,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 0.7882932613120622,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-60f237edf22920d5",
+    "title": "Breaking Bad",
+    "excerpt": "A truly great show. I'm a typical guy though so I kind of skim through some of the dark, emotional scenes haha",
+    "slice": "real_content_dev",
+    "public_premise": "A chemistry teacher diagnosed with cancer partners with former student Jesse to make methamphetamine for his family.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "In season two Hank kills Tuco, Saul helps the business and introduces Walt to distributor Gus Fring after Combo dies.",
+        "score": 1.1390015870371946,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p3",
+        "text": "Her grieving father’s air-traffic error causes a collision.",
+        "score": 0.44388993899474144,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      },
+      {
+        "id": "p2",
+        "text": "Walt misses his daughter’s birth for a delivery and later lets Jane choke.",
+        "score": 0.3941466306560311,
+        "source_url": "https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)"
+      }
+    ]
+  },
+  {
+    "id": "real-2e63c87d4efc0ade",
+    "title": "Inception",
+    "excerpt": "\"I can't decide between The Prestige, Inception, and maybe Dark Knight.\" I'm surprised that Memento didn't make your Christopher Nolan short-list. Perhaps you didn't care for it, you haven't seen it, or you simply forgot",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 1.572310545144019,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 0.3807223014534488,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p0",
+        "text": "The team targets Fischer across a rainy city, Arthur’s hotel and Eames’s fortress.",
+        "score": 0.37469344944141053,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-b3a1f22364027938",
+    "title": "Inception",
+    "excerpt": "I too very much like the dialogue in Primer for that 'eavesdropping on people who know each other well' feeling it has.",
+    "slice": "real_content_dev",
+    "public_premise": "Cobb steals secrets through shared dreams and is offered a return home for successfully planting an idea.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Cobb’s projection of Mal disrupts the plan, and he acknowledges implanting her belief that reality was a dream.",
+        "score": 1.3154515518835004,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p2",
+        "text": "Coordinated kicks return the team through the layers.",
+        "score": 0.14623760838593225,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      },
+      {
+        "id": "p1",
+        "text": "Yusuf drives the van; Arthur remains at his level and improvises an elevator kick after the van falls.",
+        "score": 0.11679379461695262,
+        "source_url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  {
+    "id": "real-c4f44935a070ac06",
+    "title": "Sintel",
+    "excerpt": "A dangerous quest for a lone hunter. I've been alone for as long as I can remember.",
+    "slice": "real_content_dev",
+    "public_premise": "A young traveler seeks her lost dragon companion Scales.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Her reflection reveals the years consumed by her quest.",
+        "score": 1.6351780842350834,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p1",
+        "text": "Her search leads through a mountain ambush and a shaman’s hut; the spear points toward dragon territory.",
+        "score": 1.132861544054523,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      },
+      {
+        "id": "p2",
+        "text": "She finds a cave and attacks an adult dragon, recognizing its wing scar too late: she has killed the grown Scales.",
+        "score": 0.7032708108690513,
+        "source_url": "https://en.wikipedia.org/wiki/Sintel"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-sixth-sense-01",
+    "title": "The Sixth Sense",
+    "excerpt": "child psychologist Malcolm Crowe",
+    "slice": "source_plot_challenge",
+    "public_premise": "A psychologist helps a troubled boy who reports encounters with ghosts.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Malcolm treats Cole after being shot by a former patient.",
+        "score": 0.7734689568480076,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      },
+      {
+        "id": "p2",
+        "text": "Malcolm eventually understands that the shooting killed him and that he too is a ghost.",
+        "score": 0.6482671472862798,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-sixth-sense-02",
+    "title": "The Sixth Sense",
+    "excerpt": "he has been dead the entire time while working with Cole",
+    "slice": "source_plot_challenge",
+    "public_premise": "A psychologist helps a troubled boy who reports encounters with ghosts.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Malcolm eventually understands that the shooting killed him and that he too is a ghost.",
+        "score": 1.7742848779508242,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      },
+      {
+        "id": "p3",
+        "text": "He says farewell to his sleeping wife and departs.",
+        "score": 0.8045458345785078,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      },
+      {
+        "id": "p0",
+        "text": "Malcolm treats Cole after being shot by a former patient.",
+        "score": 0.7734689568480076,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-sixth-sense-03",
+    "title": "The Sixth Sense",
+    "excerpt": "reveals that her mother poisoned Kyra's food",
+    "slice": "source_plot_challenge",
+    "public_premise": "A psychologist helps a troubled boy who reports encounters with ghosts.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Cole learns to help spirits, including a girl whose mother poisoned her, and gains his mother’s trust.",
+        "score": 4.609735787423572,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      },
+      {
+        "id": "p2",
+        "text": "Malcolm eventually understands that the shooting killed him and that he too is a ghost.",
+        "score": 1.63891585929185,
+        "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-fight-club-01",
+    "title": "Fight Club",
+    "excerpt": "The unnamed Narrator works an office job",
+    "slice": "source_plot_challenge",
+    "public_premise": "An unhappy office worker and Tyler Durden establish an underground fighting club.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "The narrator discovers Tyler is another identity of himself.",
+        "score": 1.2508518930197012,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      },
+      {
+        "id": "p0",
+        "text": "The narrator meets Marla through support groups and moves in with Tyler after his apartment explodes.",
+        "score": 0.9864100498645294,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      },
+      {
+        "id": "p3",
+        "text": "He shoots himself to suppress Tyler, but the planned destruction of financial buildings proceeds while he watches with Marla.",
+        "score": 0.3072891824702925,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-fight-club-02",
+    "title": "Fight Club",
+    "excerpt": "The Narrator realizes he and Tyler are the same person",
+    "slice": "source_plot_challenge",
+    "public_premise": "An unhappy office worker and Tyler Durden establish an underground fighting club.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "The narrator meets Marla through support groups and moves in with Tyler after his apartment explodes.",
+        "score": 2.452790484475627,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      },
+      {
+        "id": "p3",
+        "text": "He shoots himself to suppress Tyler, but the planned destruction of financial buildings proceeds while he watches with Marla.",
+        "score": 2.157426809843386,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      },
+      {
+        "id": "p2",
+        "text": "The narrator discovers Tyler is another identity of himself.",
+        "score": 1.6758262943084037,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-fight-club-03",
+    "title": "Fight Club",
+    "excerpt": "He shoots himself in the cheek",
+    "slice": "source_plot_challenge",
+    "public_premise": "An unhappy office worker and Tyler Durden establish an underground fighting club.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "He shoots himself to suppress Tyler, but the planned destruction of financial buildings proceeds while he watches with Marla.",
+        "score": 3.4845794605055453,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      },
+      {
+        "id": "p0",
+        "text": "The narrator meets Marla through support groups and moves in with Tyler after his apartment explodes.",
+        "score": 1.466380434611098,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      },
+      {
+        "id": "p2",
+        "text": "The narrator discovers Tyler is another identity of himself.",
+        "score": 1.2508518930197012,
+        "source_url": "https://en.wikipedia.org/wiki/Fight_Club"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-shutter-island-film-01",
+    "title": "Shutter Island (film)",
+    "excerpt": "Edward \"Teddy\" Daniels and his new partner Chuck Aule travel",
+    "slice": "source_plot_challenge",
+    "public_premise": "Two apparent marshals investigate a missing patient at an isolated psychiatric hospital.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Chuck is his psychiatrist, and the investigation was therapeutic roleplay.",
+        "score": 2.2422604329038784,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      },
+      {
+        "id": "p0",
+        "text": "Teddy suspects a conspiracy while searching the hospital and lighthouse.",
+        "score": 1.8251381000518425,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      },
+      {
+        "id": "p3",
+        "text": "After briefly acknowledging reality, Andrew appears to relapse and is led away for a lobotomy; his final question leaves his intention ambiguous.",
+        "score": 0.7320896544080194,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-shutter-island-film-02",
+    "title": "Shutter Island (film)",
+    "excerpt": "\"Teddy\" is really Andrew Laeddis",
+    "slice": "source_plot_challenge",
+    "public_premise": "Two apparent marshals investigate a missing patient at an isolated psychiatric hospital.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Doctors explain he is actually patient Andrew Laeddis, who killed his wife after she drowned their children.",
+        "score": 2.109023010319623,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      },
+      {
+        "id": "p0",
+        "text": "Teddy suspects a conspiracy while searching the hospital and lighthouse.",
+        "score": 1.4080157671998066,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      },
+      {
+        "id": "p3",
+        "text": "After briefly acknowledging reality, Andrew appears to relapse and is led away for a lobotomy; his final question leaves his intention ambiguous.",
+        "score": 0.8596739118032198,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-shutter-island-film-03",
+    "title": "Shutter Island (film)",
+    "excerpt": "Dolores carried out the killings",
+    "slice": "source_plot_challenge",
+    "public_premise": "Two apparent marshals investigate a missing patient at an isolated psychiatric hospital.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Teddy suspects a conspiracy while searching the hospital and lighthouse.",
+        "score": 0.8106181100701046,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      },
+      {
+        "id": "p2",
+        "text": "Chuck is his psychiatrist, and the investigation was therapeutic roleplay.",
+        "score": 0.8106181100701046,
+        "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-arrival-film-01",
+    "title": "Arrival (film)",
+    "excerpt": "a linguist engaged by the United States Army",
+    "slice": "source_plot_challenge",
+    "public_premise": "Linguist Louise Banks works with scientist Ian Donnelly to communicate with visiting extraterrestrials.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "The aliens’ language allows non-linear experience of time.",
+        "score": 1.5520183549539572,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      },
+      {
+        "id": "p0",
+        "text": "International mistrust threatens war, and soldiers bomb a vessel.",
+        "score": 0.6034306175185682,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      },
+      {
+        "id": "p3",
+        "text": "Information from a future encounter lets Louise persuade General Shang to halt an attack.",
+        "score": 0.4972758959066231,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-arrival-film-02",
+    "title": "Arrival (film)",
+    "excerpt": "daughter will not be born until sometime in the future",
+    "slice": "source_plot_challenge",
+    "public_premise": "Linguist Louise Banks works with scientist Ian Donnelly to communicate with visiting extraterrestrials.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Louise’s apparent memories of Hannah are visions of her future daughter.",
+        "score": 2.2446429404533834,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      },
+      {
+        "id": "p1",
+        "text": "The aliens’ language allows non-linear experience of time.",
+        "score": 1.5520183549539572,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      },
+      {
+        "id": "p3",
+        "text": "Information from a future encounter lets Louise persuade General Shang to halt an attack.",
+        "score": 0.8077037608112604,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-arrival-film-03",
+    "title": "Arrival (film)",
+    "excerpt": "Hannah will die from an incurable disease",
+    "slice": "source_plot_challenge",
+    "public_premise": "Linguist Louise Banks works with scientist Ian Donnelly to communicate with visiting extraterrestrials.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Information from a future encounter lets Louise persuade General Shang to halt an attack.",
+        "score": 2.557978649134435,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      },
+      {
+        "id": "p2",
+        "text": "Louise’s apparent memories of Hannah are visions of her future daughter.",
+        "score": 0.8688419765160655,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      },
+      {
+        "id": "p4",
+        "text": "She chooses a family with Ian despite foreseeing Hannah’s fatal illness and their separation.",
+        "score": 0.7802515937142008,
+        "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-get-out-01",
+    "title": "Get Out",
+    "excerpt": "Chris Washington travels",
+    "slice": "source_plot_challenge",
+    "public_premise": "Black photographer Chris visits the family of his white girlfriend Rose.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Chris’s friend Rod arrives and rescues him.",
+        "score": 0.6414161812941768,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      },
+      {
+        "id": "p0",
+        "text": "Hypnosis immobilizes Chris, and the household’s behavior grows alarming.",
+        "score": 0.5904201951488799,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      },
+      {
+        "id": "p2",
+        "text": "Chris blocks the hypnotic trigger using chair stuffing and fights his way out.",
+        "score": 0.527510387457405,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-get-out-02",
+    "title": "Get Out",
+    "excerpt": "transplants the brains of wealthy white people into Black bodies",
+    "slice": "source_plot_challenge",
+    "public_premise": "Black photographer Chris visits the family of his white girlfriend Rose.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "He discovers Rose helps lure Black victims into a scheme transplanting white people’s brains into their bodies.",
+        "score": 7.4901219382854425,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      },
+      {
+        "id": "p0",
+        "text": "Hypnosis immobilizes Chris, and the household’s behavior grows alarming.",
+        "score": 0.958994023249855,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      },
+      {
+        "id": "p2",
+        "text": "Chris blocks the hypnotic trigger using chair stuffing and fights his way out.",
+        "score": 0.856812339636019,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-get-out-03",
+    "title": "Get Out",
+    "excerpt": "Rod emerges from the car and picks up Chris",
+    "slice": "source_plot_challenge",
+    "public_premise": "Black photographer Chris visits the family of his white girlfriend Rose.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Chris’s friend Rod arrives and rescues him.",
+        "score": 2.6334802673103694,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      },
+      {
+        "id": "p0",
+        "text": "Hypnosis immobilizes Chris, and the household’s behavior grows alarming.",
+        "score": 1.8645429903423818,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      },
+      {
+        "id": "p2",
+        "text": "Chris blocks the hypnotic trigger using chair stuffing and fights his way out.",
+        "score": 1.6658742423579924,
+        "source_url": "https://en.wikipedia.org/wiki/Get_Out"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-knives-out-01",
+    "title": "Knives Out",
+    "excerpt": "Harlan Thrombey attends his birthday party at his estate",
+    "slice": "source_plot_challenge",
+    "public_premise": "Detective Benoit Blanc investigates wealthy novelist Harlan Thrombey’s death among his family and staff.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "She inherits the estate.",
+        "score": 2.118763190479731,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      },
+      {
+        "id": "p0",
+        "text": "Nurse Marta thinks she mixed Harlan’s medicine, and Harlan kills himself to protect her.",
+        "score": 1.9089313864454256,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      },
+      {
+        "id": "p4",
+        "text": "Marta tricks him into a confession; his attempted stabbing uses a prop knife.",
+        "score": 1.3687858339078816,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-knives-out-02",
+    "title": "Knives Out",
+    "excerpt": "Ransom then overdosed Fran with morphine",
+    "slice": "source_plot_challenge",
+    "public_premise": "Detective Benoit Blanc investigates wealthy novelist Harlan Thrombey’s death among his family and staff.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Ransom kills housekeeper Fran to conceal evidence.",
+        "score": 2.9890168149823966,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      },
+      {
+        "id": "p2",
+        "text": "Blanc uncovers Ransom’s attempted medication sabotage, but Marta actually administered the right drug.",
+        "score": 0.8802632718717679,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-knives-out-03",
+    "title": "Knives Out",
+    "excerpt": "the knife is a harmless retractable stage knife",
+    "slice": "source_plot_challenge",
+    "public_premise": "Detective Benoit Blanc investigates wealthy novelist Harlan Thrombey’s death among his family and staff.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Marta tricks him into a confession; his attempted stabbing uses a prop knife.",
+        "score": 3.3884988376214995,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      },
+      {
+        "id": "p5",
+        "text": "He is arrested, and Marta keeps the inheritance.",
+        "score": 2.4705190482671395,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      },
+      {
+        "id": "p1",
+        "text": "She inherits the estate.",
+        "score": 0.9533704174556181,
+        "source_url": "https://en.wikipedia.org/wiki/Knives_Out"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-parasite-01",
+    "title": "Parasite",
+    "excerpt": "Kim Ki-taek and Chung-sook live in a semi-basement flat",
+    "slice": "source_plot_challenge",
+    "public_premise": "An impoverished family obtains jobs with a wealthy household while concealing their relationship.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Ki-taek kills Mr Park and hides in the bunker.",
+        "score": 4.829388587042366,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      },
+      {
+        "id": "p3",
+        "text": "At a garden party Geun-sae attacks Ki-woo and kills Ki-jung; Chung-sook kills him.",
+        "score": 4.635095821428539,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      },
+      {
+        "id": "p2",
+        "text": "A fight and a flood undermine the Kims’ plan.",
+        "score": 1.8577443920381413,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-parasite-02",
+    "title": "Parasite",
+    "excerpt": "Moon-gwang's husband, Geun-sae, has been hiding from loan sharks",
+    "slice": "source_plot_challenge",
+    "public_premise": "An impoverished family obtains jobs with a wealthy household while concealing their relationship.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Former housekeeper Moon-gwang reveals that her husband Geun-sae secretly occupies a bunker beneath the house.",
+        "score": 5.625746490276853,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      },
+      {
+        "id": "p3",
+        "text": "At a garden party Geun-sae attacks Ki-woo and kills Ki-jung; Chung-sook kills him.",
+        "score": 1.734095860515635,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-parasite-03",
+    "title": "Parasite",
+    "excerpt": "stabs him with Geun-sae's knife",
+    "slice": "source_plot_challenge",
+    "public_premise": "An impoverished family obtains jobs with a wealthy household while concealing their relationship.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "At a garden party Geun-sae attacks Ki-woo and kills Ki-jung; Chung-sook kills him.",
+        "score": 3.0313127371027075,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      },
+      {
+        "id": "p1",
+        "text": "Former housekeeper Moon-gwang reveals that her husband Geun-sae secretly occupies a bunker beneath the house.",
+        "score": 1.734095860515635,
+        "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-seven-01",
+    "title": "Seven",
+    "excerpt": "William Somerset is one week from retirement",
+    "slice": "source_plot_challenge",
+    "public_premise": "Detectives Somerset and Mills investigate killings organized around the seven deadly sins.",
+    "passages": []
+  },
+  {
+    "id": "source-plot-seven-02",
+    "title": "Seven",
+    "excerpt": "package contains her severed head",
+    "slice": "source_plot_challenge",
+    "public_premise": "Detectives Somerset and Mills investigate killings organized around the seven deadly sins.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "A package contains the head of Mills’s wife Tracy, who was pregnant.",
+        "score": 4.008562008057515,
+        "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-seven-03",
+    "title": "Seven",
+    "excerpt": "Mills, distraught and enraged, shoots Doe dead",
+    "slice": "source_plot_challenge",
+    "public_premise": "Detectives Somerset and Mills investigate killings organized around the seven deadly sins.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Doe surrenders and leads them into the countryside for the final two sins.",
+        "score": 1.6134712612739002,
+        "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)"
+      },
+      {
+        "id": "p3",
+        "text": "Doe claims envy of Mills’s life.",
+        "score": 1.017450551611653,
+        "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)"
+      },
+      {
+        "id": "p4",
+        "text": "Mills kills Doe in rage, completing the killer’s intended pattern through wrath.",
+        "score": 0.7967986247561136,
+        "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-usual-suspects-01",
+    "title": "The Usual Suspects",
+    "excerpt": "Roger \"Verbal\" Kint, a physically disabled con artist",
+    "slice": "source_plot_challenge",
+    "public_premise": "A survivor recounts criminal associates’ involvement in a deadly ship incident during police questioning.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Verbal describes five suspects meeting after a police lineup and committing robberies before being coerced by a lawyer acting for Keyser Söze.",
+        "score": 0.760364313520658,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      },
+      {
+        "id": "p3",
+        "text": "Verbal’s disability disappears as he leaves, and a facial sketch identifies him as Söze.",
+        "score": 0.7280189259373975,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      },
+      {
+        "id": "p1",
+        "text": "A ship raid kills the others and a witness who could identify Söze.",
+        "score": 0.5379228192210483,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-usual-suspects-02",
+    "title": "The Usual Suspects",
+    "excerpt": "Verbal fabricated his entire story",
+    "slice": "source_plot_challenge",
+    "public_premise": "A survivor recounts criminal associates’ involvement in a deadly ship incident during police questioning.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "After releasing Verbal, Kujan notices his account was assembled from objects in the office.",
+        "score": 1.6851474477636228,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      },
+      {
+        "id": "p3",
+        "text": "Verbal’s disability disappears as he leaves, and a facial sketch identifies him as Söze.",
+        "score": 0.36400946296869874,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      },
+      {
+        "id": "p0",
+        "text": "Verbal describes five suspects meeting after a police lineup and committing robberies before being coerced by a lawyer acting for Keyser Söze.",
+        "score": 0.3053957986440265,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-usual-suspects-03",
+    "title": "The Usual Suspects",
+    "excerpt": "Verbal Kint is actually Keyzer Söze",
+    "slice": "source_plot_challenge",
+    "public_premise": "A survivor recounts criminal associates’ involvement in a deadly ship incident during police questioning.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Verbal’s disability disappears as he leaves, and a facial sketch identifies him as Söze.",
+        "score": 1.2449950480335592,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      },
+      {
+        "id": "p0",
+        "text": "Verbal describes five suspects meeting after a police lineup and committing robberies before being coerced by a lawyer acting for Keyser Söze.",
+        "score": 0.9161873959320794,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      },
+      {
+        "id": "p1",
+        "text": "A ship raid kills the others and a witness who could identify Söze.",
+        "score": 0.7702569296984714,
+        "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-oldboy-2003-film-01",
+    "title": "Oldboy (2003 film)",
+    "excerpt": "who is imprisoned for 15 years",
+    "slice": "source_plot_challenge",
+    "public_premise": "A man released after fifteen years of unexplained confinement searches for his captor and motive.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Woo-jin staged it as revenge for gossip Dae-su spread about Woo-jin’s incestuous relationship with his sister, who died by suicide.",
+        "score": 1.802699240772462,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+        "id": "p2",
+        "text": "Mi-do is Dae-su’s daughter; hypnosis arranged their relationship.",
+        "score": 1.6192177987228555,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+        "id": "p3",
+        "text": "Dae-su removes his tongue to beg for secrecy.",
+        "score": 1.172182105713934,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-oldboy-2003-film-02",
+    "title": "Oldboy (2003 film)",
+    "excerpt": "reveals that Mi-do is Dae-su's daughter",
+    "slice": "source_plot_challenge",
+    "public_premise": "A man released after fifteen years of unexplained confinement searches for his captor and motive.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Mi-do is Dae-su’s daughter; hypnosis arranged their relationship.",
+        "score": 6.992235242660435,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+        "id": "p0",
+        "text": "Dae-su befriends Mi-do and begins a relationship while investigating his imprisonment.",
+        "score": 2.4812092104447343,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+        "id": "p1",
+        "text": "Woo-jin staged it as revenge for gossip Dae-su spread about Woo-jin’s incestuous relationship with his sister, who died by suicide.",
+        "score": 1.0605101543156885,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-oldboy-2003-film-03",
+    "title": "Oldboy (2003 film)",
+    "excerpt": "Woo-jin fatally shoots himself in the head",
+    "slice": "source_plot_challenge",
+    "public_premise": "A man released after fifteen years of unexplained confinement searches for his captor and motive.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Woo-jin kills himself.",
+        "score": 5.172361296561173,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+        "id": "p1",
+        "text": "Woo-jin staged it as revenge for gossip Dae-su spread about Woo-jin’s incestuous relationship with his sister, who died by suicide.",
+        "score": 2.255864896266638,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      },
+      {
+        "id": "p5",
+        "text": "Dae-su later seeks hypnosis to forget the discovery, with an ambiguous outcome.",
+        "score": 1.5038645518481402,
+        "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-psycho-1960-film-01",
+    "title": "Psycho (1960 film)",
+    "excerpt": "Marion Crane embezzles $40,000",
+    "slice": "source_plot_challenge",
+    "public_premise": "Marion Crane steals money and stops at Norman Bates’s roadside motel.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Marion’s sister Lila and lover Sam investigate.",
+        "score": 0.7715462332983233,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      },
+      {
+        "id": "p5",
+        "text": "Norman is detained and Marion’s car recovered.",
+        "score": 0.7715462332983233,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      },
+      {
+        "id": "p0",
+        "text": "Marion is killed while showering, and Norman conceals her body and car.",
+        "score": 0.6462424841310768,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-psycho-1960-film-02",
+    "title": "Psycho (1960 film)",
+    "excerpt": "Norman killed his mother",
+    "slice": "source_plot_challenge",
+    "public_premise": "Marion Crane steals money and stops at Norman Bates’s roadside motel.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "He had killed his mother and her lover and subsequently enacted a murderous mother identity.",
+        "score": 3.4204131894916037,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      },
+      {
+        "id": "p3",
+        "text": "Lila discovers the preserved corpse of Norman’s mother; Norman attacks dressed as her.",
+        "score": 1.7766838719133582,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      },
+      {
+        "id": "p0",
+        "text": "Marion is killed while showering, and Norman conceals her body and car.",
+        "score": 1.6061884069165173,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-psycho-1960-film-03",
+    "title": "Psycho (1960 film)",
+    "excerpt": "a shadowy figure enters the bathroom with a kitchen knife and stabs her to death",
+    "slice": "source_plot_challenge",
+    "public_premise": "Marion Crane steals money and stops at Norman Bates’s roadside motel.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "He had killed his mother and her lover and subsequently enacted a murderous mother identity.",
+        "score": 2.4075163898115157,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      },
+      {
+        "id": "p3",
+        "text": "Lila discovers the preserved corpse of Norman’s mother; Norman attacks dressed as her.",
+        "score": 1.9260461437196081,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      },
+      {
+        "id": "p0",
+        "text": "Marion is killed while showering, and Norman conceals her body and car.",
+        "score": 1.2463220162515682,
+        "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-saw-2004-film-01",
+    "title": "Saw (2004 film)",
+    "excerpt": "Adam Stanheight, a photographer, awakens in a dilapidated bathtub",
+    "slice": "source_plot_challenge",
+    "public_premise": "Adam and doctor Lawrence Gordon awaken chained in a room and face a deadly survival test.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "Adam survives and kills Zep, learning Zep was also a coerced participant.",
+        "score": 2.2052391467629984,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      },
+      {
+        "id": "p4",
+        "text": "The apparent corpse in the room is John Kramer, the actual Jigsaw.",
+        "score": 1.5208907315416138,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      },
+      {
+        "id": "p5",
+        "text": "He rises and locks Adam inside after revealing that Adam’s key was lost down the drain.",
+        "score": 0.8633505807686152,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-saw-2004-film-02",
+    "title": "Saw (2004 film)",
+    "excerpt": "John Kramer, who is the real Jigsaw Killer",
+    "slice": "source_plot_challenge",
+    "public_premise": "Adam and doctor Lawrence Gordon awaken chained in a room and face a deadly survival test.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "The apparent corpse in the room is John Kramer, the actual Jigsaw.",
+        "score": 7.2306149980150645,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      },
+      {
+        "id": "p1",
+        "text": "Detective Tapp pursues the apparent hostage-taker Zep.",
+        "score": 0.8073261670415337,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      },
+      {
+        "id": "p5",
+        "text": "He rises and locks Adam inside after revealing that Adam’s key was lost down the drain.",
+        "score": 0.5748851023601442,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-saw-2004-film-03",
+    "title": "Saw (2004 film)",
+    "excerpt": "leaving Adam alone to die",
+    "slice": "source_plot_challenge",
+    "public_premise": "Adam and doctor Lawrence Gordon awaken chained in a room and face a deadly survival test.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Gordon amputates his foot and shoots Adam, then crawls away to get help.",
+        "score": 2.124340428063812,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      },
+      {
+        "id": "p5",
+        "text": "He rises and locks Adam inside after revealing that Adam’s key was lost down the drain.",
+        "score": 0.8633505807686152,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      },
+      {
+        "id": "p3",
+        "text": "Adam survives and kills Zep, learning Zep was also a coerced participant.",
+        "score": 0.6843484152213847,
+        "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-others-2001-film-01",
+    "title": "The Others (2001 film)",
+    "excerpt": "Grace keeps the home darkened",
+    "slice": "source_plot_challenge",
+    "public_premise": "Grace protects her light-sensitive children in a darkened house where unexplained visitors appear.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Three servants arrive, and Grace grows convinced that intruders haunt the home.",
+        "score": 2.2421644166159034,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      },
+      {
+        "id": "p5",
+        "text": "The living family leaves, while Grace and her children remain.",
+        "score": 0.8902327956737041,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      },
+      {
+        "id": "p4",
+        "text": "The supposed intruders are living occupants; Grace’s household are ghosts.",
+        "score": 0.8522307632892138,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-others-2001-film-02",
+    "title": "The Others (2001 film)",
+    "excerpt": "Grace realizes that the intruders are the living family",
+    "slice": "source_plot_challenge",
+    "public_premise": "Grace protects her light-sensitive children in a darkened house where unexplained visitors appear.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "The supposed intruders are living occupants; Grace’s household are ghosts.",
+        "score": 4.982360879649774,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      },
+      {
+        "id": "p5",
+        "text": "The living family leaves, while Grace and her children remain.",
+        "score": 3.4793976502703465,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      },
+      {
+        "id": "p0",
+        "text": "Three servants arrive, and Grace grows convinced that intruders haunt the home.",
+        "score": 2.722019176256923,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-others-2001-film-03",
+    "title": "The Others (2001 film)",
+    "excerpt": "smothered her children with a pillow and shot herself",
+    "slice": "source_plot_challenge",
+    "public_premise": "Grace protects her light-sensitive children in a darkened house where unexplained visitors appear.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "During a séance, Grace learns she smothered her children and killed herself.",
+        "score": 6.253054376834554,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      },
+      {
+        "id": "p5",
+        "text": "The living family leaves, while Grace and her children remain.",
+        "score": 2.433868546265301,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      },
+      {
+        "id": "p1",
+        "text": "Her husband briefly returns, then leaves.",
+        "score": 0.8498890053096816,
+        "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-prestige-01",
+    "title": "The Prestige",
+    "excerpt": "the two men become bitter rivals",
+    "slice": "source_plot_challenge",
+    "public_premise": "Rival stage magicians pursue increasingly elaborate illusions and sabotage each other.",
+    "passages": [
+      {
+        "id": "p5",
+        "text": "The surviving brother retrieves his daughter as the theater burns.",
+        "score": 1.0105106960327221,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      },
+      {
+        "id": "p4",
+        "text": "The brothers shared one identity and different romances.",
+        "score": 0.7810109076731778,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      },
+      {
+        "id": "p3",
+        "text": "Borden’s identical twin, previously disguised as Fallon, kills the surviving Angier.",
+        "score": 0.6562340170981731,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-prestige-02",
+    "title": "The Prestige",
+    "excerpt": "“Borden” is in fact a pair of identical twins",
+    "slice": "source_plot_challenge",
+    "public_premise": "Rival stage magicians pursue increasingly elaborate illusions and sabotage each other.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Borden is convicted of Angier’s apparent murder and executed.",
+        "score": 3.883253774872533,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      },
+      {
+        "id": "p3",
+        "text": "Borden’s identical twin, previously disguised as Fallon, kills the surviving Angier.",
+        "score": 2.114643523320326,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      },
+      {
+        "id": "p0",
+        "text": "Julia’s drowning sparks Angier and Borden’s rivalry.",
+        "score": 0.7455700765686807,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-prestige-03",
+    "title": "The Prestige",
+    "excerpt": "Tesla's machine, it created a clone",
+    "slice": "source_plot_challenge",
+    "public_premise": "Rival stage magicians pursue increasingly elaborate illusions and sabotage each other.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Angier commissions Tesla’s duplicating machine, using copies whose nightly performances end with one drowning.",
+        "score": 2.9782597277026888,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      },
+      {
+        "id": "p0",
+        "text": "Julia’s drowning sparks Angier and Borden’s rivalry.",
+        "score": 0.6645663019003175,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      },
+      {
+        "id": "p2",
+        "text": "Borden is convicted of Angier’s apparent murder and executed.",
+        "score": 0.45461890909740366,
+        "source_url": "https://en.wikipedia.org/wiki/The_Prestige"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-memento-01",
+    "title": "Memento",
+    "excerpt": "Leonard has anterograde amnesia",
+    "slice": "source_plot_challenge",
+    "public_premise": "Leonard, unable to form lasting new memories, uses tattoos, photographs and notes to pursue his wife’s attacker.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Natalie manipulates Leonard into driving away Dodd.",
+        "score": 0.522685695856904,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      },
+      {
+        "id": "p1",
+        "text": "Leonard kills Jimmy under Teddy’s guidance.",
+        "score": 0.522685695856904,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      },
+      {
+        "id": "p2",
+        "text": "Teddy claims the original attacker was killed earlier, Leonard’s wife survived the assault, and Leonard repeatedly invents new revenge targets.",
+        "score": 0.4813156790784427,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-memento-02",
+    "title": "Memento",
+    "excerpt": "Teddy explains that he helped Leonard kill the real attacker a year ago",
+    "slice": "source_plot_challenge",
+    "public_premise": "Leonard, unable to form lasting new memories, uses tattoos, photographs and notes to pursue his wife’s attacker.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Teddy claims the original attacker was killed earlier, Leonard’s wife survived the assault, and Leonard repeatedly invents new revenge targets.",
+        "score": 2.9834200138777236,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      },
+      {
+        "id": "p3",
+        "text": "Leonard deliberately destroys evidence and records Teddy’s license number as a clue.",
+        "score": 2.2068716203746024,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      },
+      {
+        "id": "p4",
+        "text": "His later search therefore leads him to kill Teddy.",
+        "score": 2.132197962461782,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-memento-03",
+    "title": "Memento",
+    "excerpt": "Leonard's wife survived the assault",
+    "slice": "source_plot_challenge",
+    "public_premise": "Leonard, unable to form lasting new memories, uses tattoos, photographs and notes to pursue his wife’s attacker.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Teddy claims the original attacker was killed earlier, Leonard’s wife survived the assault, and Leonard repeatedly invents new revenge targets.",
+        "score": 5.12898002738409,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      },
+      {
+        "id": "p5",
+        "text": "The narrative’s competing accounts remain unreliable.",
+        "score": 1.7407197568475534,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      },
+      {
+        "id": "p1",
+        "text": "Leonard kills Jimmy under Teddy’s guidance.",
+        "score": 1.045371391713808,
+        "source_url": "https://en.wikipedia.org/wiki/Memento_(film)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-rebecca-01",
+    "title": "Rebecca",
+    "excerpt": "the unnamed narrator dreams of her husband's estate",
+    "slice": "source_plot_challenge",
+    "public_premise": "An unnamed young woman marries widower Maxim de Winter and struggles with his first wife’s legacy at Manderley.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Discovery of Rebecca’s submerged body prompts Maxim to admit shooting her and sinking the boat; their admired marriage was a facade.",
+        "score": 2.804902496821425,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      },
+      {
+        "id": "p3",
+        "text": "The couple returns to see Manderley burning, following Danvers’s disappearance.",
+        "score": 1.1777501590120563,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      },
+      {
+        "id": "p0",
+        "text": "Mrs Danvers undermines the new wife.",
+        "score": 0.48447650464745856,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-rebecca-02",
+    "title": "Rebecca",
+    "excerpt": "Maxim shot and killed Rebecca",
+    "slice": "source_plot_challenge",
+    "public_premise": "An unnamed young woman marries widower Maxim de Winter and struggles with his first wife’s legacy at Manderley.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "An investigation discovers Rebecca had terminal cancer and could not have been pregnant, undermining a threatened accusation against Maxim.",
+        "score": 1.824623440505756,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      },
+      {
+        "id": "p1",
+        "text": "Discovery of Rebecca’s submerged body prompts Maxim to admit shooting her and sinking the boat; their admired marriage was a facade.",
+        "score": 1.6868197121318949,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-rebecca-03",
+    "title": "Rebecca",
+    "excerpt": "Rebecca had cancer and would have died within a few months",
+    "slice": "source_plot_challenge",
+    "public_premise": "An unnamed young woman marries widower Maxim de Winter and struggles with his first wife’s legacy at Manderley.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "An investigation discovers Rebecca had terminal cancer and could not have been pregnant, undermining a threatened accusation against Maxim.",
+        "score": 4.993931578973424,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      },
+      {
+        "id": "p1",
+        "text": "Discovery of Rebecca’s submerged body prompts Maxim to admit shooting her and sinking the boat; their admired marriage was a facade.",
+        "score": 1.6868197121318949,
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-jane-eyre-01",
+    "title": "Jane Eyre",
+    "excerpt": "Jane's childhood at Gateshead Hall",
+    "slice": "source_plot_challenge",
+    "public_premise": "An orphan overcomes harsh upbringing and becomes a governess, developing feelings for her employer Rochester.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Jane leaves, inherits money, finds cousins and rejects St John’s marriage proposal.",
+        "score": 1.8842625640861852,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      },
+      {
+        "id": "p1",
+        "text": "At Thornfield she loves Rochester, but their wedding is stopped by disclosure of his living wife Bertha, confined in the house.",
+        "score": 1.056548867725055,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      },
+      {
+        "id": "p4",
+        "text": "Jane returns and marries him.",
+        "score": 0.7368860649487675,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-jane-eyre-02",
+    "title": "Jane Eyre",
+    "excerpt": "his wife set the house on fire and died",
+    "slice": "source_plot_challenge",
+    "public_premise": "An orphan overcomes harsh upbringing and becomes a governess, developing feelings for her employer Rochester.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "At Thornfield she loves Rochester, but their wedding is stopped by disclosure of his living wife Bertha, confined in the house.",
+        "score": 3.8368753888659057,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      },
+      {
+        "id": "p3",
+        "text": "Bertha later dies in a fire after Rochester attempts rescue and is injured.",
+        "score": 1.6383036918933487,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      },
+      {
+        "id": "p0",
+        "text": "Jane endures the Reeds and Lowood school, where Helen dies.",
+        "score": 1.274122795193502,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-jane-eyre-03",
+    "title": "Jane Eyre",
+    "excerpt": "already married to Mr Mason's sister, Bertha",
+    "slice": "source_plot_challenge",
+    "public_premise": "An orphan overcomes harsh upbringing and becomes a governess, developing feelings for her employer Rochester.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Jane leaves, inherits money, finds cousins and rejects St John’s marriage proposal.",
+        "score": 1.3567521766287802,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      },
+      {
+        "id": "p3",
+        "text": "Bertha later dies in a fire after Rochester attempts rescue and is injured.",
+        "score": 0.856812339636019,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      },
+      {
+        "id": "p1",
+        "text": "At Thornfield she loves Rochester, but their wedding is stopped by disclosure of his living wife Bertha, confined in the house.",
+        "score": 0.6672287856907412,
+        "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-great-gatsby-01",
+    "title": "The Great Gatsby",
+    "excerpt": "Gatsby's neighbor and a bond salesman",
+    "slice": "source_plot_challenge",
+    "public_premise": "Nick Carraway observes his wealthy neighbor Gatsby and the social world around Daisy and Tom Buchanan.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Tom directs Myrtle’s husband George toward Gatsby; George kills Gatsby and then himself.",
+        "score": 2.346544208556293,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      },
+      {
+        "id": "p1",
+        "text": "Their affair leads to a confrontation.",
+        "score": 1.9112329359676568,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      },
+      {
+        "id": "p5",
+        "text": "Few attend Gatsby’s funeral.",
+        "score": 1.4623206151584673,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-great-gatsby-02",
+    "title": "The Great Gatsby",
+    "excerpt": "George fatally shoots Gatsby in his mansion's swimming pool",
+    "slice": "source_plot_challenge",
+    "public_premise": "Nick Carraway observes his wealthy neighbor Gatsby and the social world around Daisy and Tom Buchanan.",
+    "passages": [
+      {
+        "id": "p4",
+        "text": "Tom directs Myrtle’s husband George toward Gatsby; George kills Gatsby and then himself.",
+        "score": 3.0265083201556515,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      },
+      {
+        "id": "p2",
+        "text": "Driving Gatsby’s car, Daisy fatally strikes Tom’s mistress Myrtle.",
+        "score": 2.853932151509273,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      },
+      {
+        "id": "p0",
+        "text": "Gatsby pursues reunion with Daisy, his former love, despite her marriage to Tom.",
+        "score": 1.6310618148903058,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-the-great-gatsby-03",
+    "title": "The Great Gatsby",
+    "excerpt": "Tom reveals Gatsby is a swindler",
+    "slice": "source_plot_challenge",
+    "public_premise": "Nick Carraway observes his wealthy neighbor Gatsby and the social world around Daisy and Tom Buchanan.",
+    "passages": [
+      {
+        "id": "p1",
+        "text": "Their affair leads to a confrontation.",
+        "score": 1.9112329359676568,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      },
+      {
+        "id": "p4",
+        "text": "Tom directs Myrtle’s husband George toward Gatsby; George kills Gatsby and then himself.",
+        "score": 1.0690358776726487,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      },
+      {
+        "id": "p2",
+        "text": "Driving Gatsby’s car, Daisy fatally strikes Tom’s mistress Myrtle.",
+        "score": 1.04702595510595,
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-01",
+    "title": "Strange Case of Dr Jekyll and Mr Hyde",
+    "excerpt": "a reserved and morally upright lawyer",
+    "slice": "source_plot_challenge",
+    "public_premise": "Lawyer Utterson investigates the troubling connection between respected Jekyll and violent Hyde.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Hyde tramples a girl and later murders Carew.",
+        "score": 2.4862247348912,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      },
+      {
+        "id": "p3",
+        "text": "Utterson and Poole break into the laboratory and discover Hyde dead.",
+        "score": 0.9700931195195623,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      },
+      {
+        "id": "p4",
+        "text": "Jekyll’s account explains his serum-created alternate identity, increasingly involuntary transformations, and the failure of replacement ingredients.",
+        "score": 0.5196508487873834,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-02",
+    "title": "Strange Case of Dr Jekyll and Mr Hyde",
+    "excerpt": "instigated Lanyon's deterioration and death",
+    "slice": "source_plot_challenge",
+    "public_premise": "Lawyer Utterson investigates the troubling connection between respected Jekyll and violent Hyde.",
+    "passages": [
+      {
+        "id": "p2",
+        "text": "Lanyon dies after witnessing Hyde transform into Jekyll.",
+        "score": 1.7146785015928765,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      },
+      {
+        "id": "p1",
+        "text": "Jekyll’s seclusion worsens.",
+        "score": 1.4217461885352296,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      },
+      {
+        "id": "p4",
+        "text": "Jekyll’s account explains his serum-created alternate identity, increasingly involuntary transformations, and the failure of replacement ingredients.",
+        "score": 1.2915541603379495,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-03",
+    "title": "Strange Case of Dr Jekyll and Mr Hyde",
+    "excerpt": "Hyde, his desires having been caged for so long, killed Carew",
+    "slice": "source_plot_challenge",
+    "public_premise": "Lawyer Utterson investigates the troubling connection between respected Jekyll and violent Hyde.",
+    "passages": [
+      {
+        "id": "p0",
+        "text": "Hyde tramples a girl and later murders Carew.",
+        "score": 2.4862247348912,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      },
+      {
+        "id": "p5",
+        "text": "With the original supply exhausted, Jekyll expects his own identity to disappear permanently.",
+        "score": 0.9224913853357198,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      },
+      {
+        "id": "p4",
+        "text": "Jekyll’s account explains his serum-created alternate identity, increasingly involuntary transformations, and the failure of replacement ingredients.",
+        "score": 0.771903311550566,
+        "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-and-then-there-were-none-01",
+    "title": "And Then There Were None",
+    "excerpt": "Eight people are invited to a small, isolated island",
+    "slice": "source_plot_challenge",
+    "public_premise": "Ten people gather on an isolated island and are accused of responsibility for past deaths.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "A later confession reveals Wargrave organized the murders, deceived Armstrong into helping stage his death, killed Armstrong and ultimately shot himself to leave a seemingly impossible mystery.",
+        "score": 1.6428209899516095,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      },
+      {
+        "id": "p0",
+        "text": "The guests die in a sequence echoing a nursery rhyme, while figurines disappear.",
+        "score": 1.0242684451586452,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-and-then-there-were-none-02",
+    "title": "And Then There Were None",
+    "excerpt": "Wargrave killed the others one by one",
+    "slice": "source_plot_challenge",
+    "public_premise": "Ten people gather on an isolated island and are accused of responsibility for past deaths.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "A later confession reveals Wargrave organized the murders, deceived Armstrong into helping stage his death, killed Armstrong and ultimately shot himself to leave a seemingly impossible mystery.",
+        "score": 1.623852246855001,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      },
+      {
+        "id": "p1",
+        "text": "Wargrave apparently dies, Armstrong disappears, and the remaining guests suspect each other.",
+        "score": 1.1381249200172578,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      },
+      {
+        "id": "p0",
+        "text": "The guests die in a sequence echoing a nursery rhyme, while figurines disappear.",
+        "score": 0.3740894529556325,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      }
+    ]
+  },
+  {
+    "id": "source-plot-and-then-there-were-none-03",
+    "title": "And Then There Were None",
+    "excerpt": "Wargrave shot himself",
+    "slice": "source_plot_challenge",
+    "public_premise": "Ten people gather on an isolated island and are accused of responsibility for past deaths.",
+    "passages": [
+      {
+        "id": "p3",
+        "text": "A later confession reveals Wargrave organized the murders, deceived Armstrong into helping stage his death, killed Armstrong and ultimately shot himself to leave a seemingly impossible mystery.",
+        "score": 2.2343277239041663,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      },
+      {
+        "id": "p1",
+        "text": "Wargrave apparently dies, Armstrong disappears, and the remaining guests suspect each other.",
+        "score": 0.7514492798593798,
+        "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+      }
+    ]
+  }
+]

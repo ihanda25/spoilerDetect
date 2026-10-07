@@ -1,0 +1,86 @@
+{
+  "warning": "Development agreement with AI labels; not human gold. Abstentions count as missed positives in recall.",
+  "arms": {
+    "alone": {
+      "all": {
+        "invalid": 1,
+        "positives": 35,
+        "tp": 35,
+        "uncertain_reference": 2,
+        "negatives": 42,
+        "tn": 40,
+        "abstentions": 1,
+        "fp": 1,
+        "pending": 15,
+        "recall": 1.0,
+        "false_positive_rate": 0.023809523809523808,
+        "coverage": 0.987012987012987
+      },
+      "real_content_dev": {
+        "invalid": 1,
+        "positives": 5,
+        "tp": 5,
+        "uncertain_reference": 2,
+        "negatives": 27,
+        "tn": 26,
+        "abstentions": 1,
+        "recall": 1.0,
+        "false_positive_rate": 0.0,
+        "coverage": 0.96875
+      },
+      "source_plot_challenge": {
+        "invalid": 0,
+        "negatives": 15,
+        "tn": 14,
+        "positives": 30,
+        "tp": 30,
+        "fp": 1,
+        "pending": 15,
+        "recall": 1.0,
+        "false_positive_rate": 0.06666666666666667,
+        "coverage": 1.0
+      }
+    },
+    "rag": {
+      "all": {
+        "invalid": 12,
+        "positives": 34,
+        "tp": 21,
+        "fn": 2,
+        "uncertain_reference": 2,
+        "negatives": 42,
+        "tn": 41,
+        "abstentions": 12,
+        "pending": 16,
+        "recall": 0.6176470588235294,
+        "false_positive_rate": 0.0,
+        "coverage": 0.8421052631578947
+      },
+      "real_content_dev": {
+        "invalid": 1,
+        "positives": 5,
+        "tp": 3,
+        "fn": 2,
+        "uncertain_reference": 2,
+        "negatives": 27,
+        "tn": 26,
+        "abstentions": 1,
+        "recall": 0.6,
+        "false_positive_rate": 0.0,
+        "coverage": 0.96875
+      },
+      "source_plot_challenge": {
+        "invalid": 11,
+        "negatives": 15,
+        "tn": 15,
+        "positives": 29,
+        "tp": 18,
+        "abstentions": 11,
+        "pending": 16,
+        "recall": 0.6206896551724138,
+        "false_positive_rate": 0.0,
+        "coverage": 0.75
+      }
+    }
+  }
+}

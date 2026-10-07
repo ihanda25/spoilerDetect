@@ -1,0 +1,20 @@
+{
+  "status": "complete",
+  "gpu_inference_started": true,
+  "validation_reviews": 63836,
+  "test_reviews": 64405,
+  "export_verified": true,
+  "tests_passed": 5,
+  "data_zip": "models/roberta-imdb-data.zip",
+  "colab_url": "https://colab.research.google.com/drive/1O3uMsIJqaXK0-5f27l9F2vc9EYmhVDEX#scrollTo=lW5VxX5pcXM0",
+  "blocker": null,
+  "next_action": "IMDb comparison complete. Keep original metrics and product-excerpt evaluation separate; no retraining or new GPU job started.",
+  "started_local": "2026-10-06 10:20 America/Indiana/Indianapolis",
+  "last_observed_validation_reviews": 1024,
+  "last_observed_rate_reviews_per_second": 36.7,
+  "last_observed_validation_eta_seconds": 1711,
+  "data_zip_runtime_verified": true,
+  "validation_reviews_completed": 63836,
+  "test_reviews_completed": 64405,
+  "local_verification_passed": true
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-06",
+  "reviewer": "assistant",
+  "scope": "Six focused spot checks; not representative, not a human gold evaluation; remaining sample pending",
+  "judgments": [
+    {
+      "id": "tvtropes:train:3525",
+      "adequacy": "partial",
+      "reason": "Killing shapeshifters and Walter discovering it are supported; memory-storage-device motivation is absent."
+    },
+    {
+      "id": "tvtropes:train:3376",
+      "adequacy": "partial",
+      "reason": "Correct episode and machine activation are present; Oppenheimer comparison is absent."
+    },
+    {
+      "id": "tvtropes:train:3462",
+      "adequacy": "supported",
+      "reason": "Selected episode explicitly identifies Walternate as Secretary of Defense."
+    },
+    {
+      "id": "tvtropes:validation:327",
+      "adequacy": "partial",
+      "reason": "Murder and necklace removal supported; handler arranging murder not established."
+    },
+    {
+      "id": "tvtropes:validation:636",
+      "adequacy": "partial",
+      "reason": "Guard assignment, rampage and cleaner reveal supported; Amanda attribution absent."
+    },
+    {
+      "id": "tvtropes:validation:399",
+      "adequacy": "retrieval_miss",
+      "reason": "Retrieved episodes do not support the ending-specific cut and numbness; background only covers the broad return."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-06",
+  "purpose": "User-authorized exploratory one-epoch TV adaptation, sentence vs episode-context",
+  "training_quality": "Unverified original corpus labels and retrieved contexts; not production gold",
+  "model": "Zritze/imdb-spoiler-robertaOrigDatasetLR1",
+  "revision": "56fee120f8495ccfc5001e3fbd1478656d17001a",
+  "source_sha256": "4f5cb14dced32badd088a385e4c53ab1889abfc152b1e54902efa712ba8b38a7",
+  "training_rows": 744,
+  "validation_rows": 198,
+  "epochs_per_arm": 1,
+  "arms": [
+    "sentence",
+    "context"
+  ],
+  "test_excluded": true,
+  "hashes": {
+    "train.jsonl": "e5014dc34cb66cfbe872be010563bdfad2ed5250f48640d7fea1038e8cadd6b6",
+    "validation.jsonl": "6c1c5e4a7edc3de8db01e75fff125fe25dc464bca2b79d004f3e19e3f3af0485"
+  },
+  "package_sha256": "595515efe4a164d6a8ab28ae3838c37bb2db00f58cec13ee01a09f0a8459c745"
+}

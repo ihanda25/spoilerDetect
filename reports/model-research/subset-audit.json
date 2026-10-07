@@ -1,0 +1,30 @@
+{
+  "revision": "9da61fd253654914524f7eba74b0fa6461c0f974",
+  "accessed": "2026-10-02",
+  "splits": {
+    "train": {
+      "url": "https://huggingface.co/datasets/bhavyagiri/imdb-spoiler/resolve/9da61fd253654914524f7eba74b0fa6461c0f974/data/train.csv",
+      "rows": 22956,
+      "label_counts": {
+        "0": 16919,
+        "1": 6037
+      },
+      "empty_texts": 0,
+      "extra_exact_duplicate_rows": 1,
+      "unique_source_indices": 22956
+    },
+    "validation": {
+      "url": "https://huggingface.co/datasets/bhavyagiri/imdb-spoiler/resolve/9da61fd253654914524f7eba74b0fa6461c0f974/data/valid.csv",
+      "rows": 5740,
+      "label_counts": {
+        "0": 4231,
+        "1": 1509
+      },
+      "empty_texts": 0,
+      "extra_exact_duplicate_rows": 0,
+      "unique_source_indices": 5740
+    }
+  },
+  "cross_split_exact_text_overlap": 1,
+  "cross_split_source_index_overlap": 0
+}

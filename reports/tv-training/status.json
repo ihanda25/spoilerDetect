@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-06",
+  "training_status": "both_one_epoch_arms_complete",
+  "results_saved_locally": true,
+  "model_backups_status": "blocked_browser_downloads_no_verified_local_files",
+  "second_epoch_started": false,
+  "runtime_url": "https://colab.research.google.com/drive/1O3uMsIJqaXK0-5f27l9F2vc9EYmhVDEX#scrollTo=DjVFTp3EHWfV",
+  "model_backups": {},
+  "backup_attempts": [
+    "large files.download",
+    "large sidebar download failed to fetch",
+    "64 MiB data URI output unavailable",
+    "64 MiB files.download no local file",
+    "64 MiB sidebar download no verified local file"
+  ]
+}

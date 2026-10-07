@@ -1,0 +1,21 @@
+{
+  "warning": "Raw classification only; does not certify valid supporting evidence.",
+  "arms": {
+    "alone": {
+      "tp": 7,
+      "tn": 5,
+      "fp": 0,
+      "fn": 0,
+      "abstentions": 1,
+      "malformed": 0
+    },
+    "context": {
+      "tp": 7,
+      "tn": 6,
+      "fp": 0,
+      "fn": 0,
+      "abstentions": 0,
+      "malformed": 0
+    }
+  }
+}

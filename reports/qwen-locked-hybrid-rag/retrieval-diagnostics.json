@@ -1,0 +1,12 @@
+{
+  "chunks": 801,
+  "episodes": {
+    "Fringe": 100,
+    "Sherlock": 14,
+    "Firefly": 14,
+    "PersonOfInterest": 103
+  },
+  "rows_with_passages": 100,
+  "cross_title_passages": 0,
+  "warning": "Passage availability and source coverage are not relevance/answerability measures; retrieval relevance not independently labeled."
+}

@@ -1,0 +1,486 @@
+{
+  "status": "independently checked",
+  "normalization": "Whitespace, curly/straight quotation marks and dash variants only; source citation formatting removed while retaining link text.",
+  "rows": [
+    {
+      "id": "source-plot-the-sixth-sense-01",
+      "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "2caca3124dffb43902cb94bfc0f6f47141509f28d23ed8add73ac1669202dd64"
+    },
+    {
+      "id": "source-plot-the-sixth-sense-02",
+      "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "d75ff4811796300c0e08f186e592ece43cf3235d4bdd82be118d51dc2408882b"
+    },
+    {
+      "id": "source-plot-the-sixth-sense-03",
+      "source_url": "https://en.wikipedia.org/wiki/The_Sixth_Sense",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "3ad0ff74b6d70e1f498b40e02f6cc9ab4d884d8e786ee377084fd5dc62382140"
+    },
+    {
+      "id": "source-plot-fight-club-01",
+      "source_url": "https://en.wikipedia.org/wiki/Fight_Club",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "3f258e48033bf8d22d7dd59323344e0ae5ff6634d520598b911dba1058659a31"
+    },
+    {
+      "id": "source-plot-fight-club-02",
+      "source_url": "https://en.wikipedia.org/wiki/Fight_Club",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "5890d63c324c75b4ee27e1d7415268e96ebd5a7628c467a7d15d4cbffa13f37e"
+    },
+    {
+      "id": "source-plot-fight-club-03",
+      "source_url": "https://en.wikipedia.org/wiki/Fight_Club",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "fe296278b99438ca8116801de964e9fdacbdb54d314359828c5ade2542eaaa69"
+    },
+    {
+      "id": "source-plot-shutter-island-film-01",
+      "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "b3949827089f1a8b7b3999b4ed38c3c4cf156b2d26837d415e5cc192a8aabdf1"
+    },
+    {
+      "id": "source-plot-shutter-island-film-02",
+      "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "d210f3a0086a36d8f0f5859a464b07353e0c5f207fc908c7b78f34da72c97baa"
+    },
+    {
+      "id": "source-plot-shutter-island-film-03",
+      "source_url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "19c72e98df4530423eb65f964ae947ed9bdf67efb5860169ae1078d89f7bed03"
+    },
+    {
+      "id": "source-plot-arrival-film-01",
+      "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "cb457829181dc6a91d25584c2015b2f3e6074210e0a6c07900c108228e7f56a9"
+    },
+    {
+      "id": "source-plot-arrival-film-02",
+      "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "aa3288f240f84dbf09610391bc2342e09556c381291b1b792ecc474608a767df"
+    },
+    {
+      "id": "source-plot-arrival-film-03",
+      "source_url": "https://en.wikipedia.org/wiki/Arrival_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "f739868fff30dddd3ed8b4a7b040e92198d970a3789c89a35ac03029145db2e6"
+    },
+    {
+      "id": "source-plot-get-out-01",
+      "source_url": "https://en.wikipedia.org/wiki/Get_Out",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "85615331076dd102ac1bfbc6c0e3d26c5363952abea3041dede5add0daa54cdb"
+    },
+    {
+      "id": "source-plot-get-out-02",
+      "source_url": "https://en.wikipedia.org/wiki/Get_Out",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "00a3caf3c0d203369bcf6c4f7349760b0fc839bef512b93bb5da6f563b3a2406"
+    },
+    {
+      "id": "source-plot-get-out-03",
+      "source_url": "https://en.wikipedia.org/wiki/Get_Out",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "54c375efcb321396817442ba49a35c656b9a924402f89e3b8ffd2f4f1bc3a28f"
+    },
+    {
+      "id": "source-plot-knives-out-01",
+      "source_url": "https://en.wikipedia.org/wiki/Knives_Out",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "700a56b908488572bbf2b2e6cc36f30a80b78e948bc6ddf74c6ff14de77c3a34"
+    },
+    {
+      "id": "source-plot-knives-out-02",
+      "source_url": "https://en.wikipedia.org/wiki/Knives_Out",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "8a3253f4f767a74fb65c9a269f14c471feaa75d15e9c6e150a1fd216d211d4f7"
+    },
+    {
+      "id": "source-plot-knives-out-03",
+      "source_url": "https://en.wikipedia.org/wiki/Knives_Out",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "8384cae429b3ac0ab80d16214f252d904c87e57da6294b359527a168a5b7c9a1"
+    },
+    {
+      "id": "source-plot-parasite-01",
+      "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "1023c1bd6aa488390ef733600beb1e4f895311d1211dd7888eed4b55ab87dd3a"
+    },
+    {
+      "id": "source-plot-parasite-02",
+      "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "b135373d0b42b8715feaaba0f4d867883968af7568523b469a49955406269b65"
+    },
+    {
+      "id": "source-plot-parasite-03",
+      "source_url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "ab5d599a0050f8f9e05de22da05ce8b48699217ac1f800874a157f0a24555701"
+    },
+    {
+      "id": "source-plot-seven-01",
+      "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "f3e24b4bce69ebcecb87a192fc2991db6263342de6ec7b9087f2ff41ccb8d237"
+    },
+    {
+      "id": "source-plot-seven-02",
+      "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "cf5712d6edeb426e1e7f169fabddb064d58ce99bbe0051f65c22c0c3e69b0b64"
+    },
+    {
+      "id": "source-plot-seven-03",
+      "source_url": "https://en.wikipedia.org/wiki/Seven_(1995_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "25f33f36efbc89be185c6c6b3b54314825f43ed5d39bb429361feddfcd502f99"
+    },
+    {
+      "id": "source-plot-the-usual-suspects-01",
+      "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "036b2c1819f76094396d83f1877999e12e017a0493816b212064861eb80cf56d"
+    },
+    {
+      "id": "source-plot-the-usual-suspects-02",
+      "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "9430777d3b4faecfe0922ecae1d9f0b25a51be16b11aafea98f3fdb1299227f8"
+    },
+    {
+      "id": "source-plot-the-usual-suspects-03",
+      "source_url": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "b649629ad9c8d0c40405b2494532c4271e40fb7a45e29be6bb978ce2aeef1d0a"
+    },
+    {
+      "id": "source-plot-oldboy-2003-film-01",
+      "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "d309208943c8eb460bada996cbe5faef62cb59ae10b02c17464f173c34fe6147"
+    },
+    {
+      "id": "source-plot-oldboy-2003-film-02",
+      "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "79fc9a0a85ee4c787730f15932994ecd3c3d7770cb729f1856e006ecbc43cb69"
+    },
+    {
+      "id": "source-plot-oldboy-2003-film-03",
+      "source_url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "fc97894882cb7937d39afba609bc04d264c3469cf36dc66056a2fb07cbe098e0"
+    },
+    {
+      "id": "source-plot-psycho-1960-film-01",
+      "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "3848532411e1707c5fc39d27d97ab38bc30104eefc735960eeba00199d2c7651"
+    },
+    {
+      "id": "source-plot-psycho-1960-film-02",
+      "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "bfd01d23cd3ed1f88d2ba620b19122cded292e46ba9fe29c7231d501808193da"
+    },
+    {
+      "id": "source-plot-psycho-1960-film-03",
+      "source_url": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "ed5e09ce9fae9a5a32f4ad5eacd31031c9d59d2030eb169b32ff86ea35ed99ea"
+    },
+    {
+      "id": "source-plot-saw-2004-film-01",
+      "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "835ad06310e0975eb19e552372235bf5592d85bb4dad1331910c2c02b979823d"
+    },
+    {
+      "id": "source-plot-saw-2004-film-02",
+      "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "12bf41e01ea4f955ff2f51a3d3dcd92b33666cd747e3257539294866d694a4c4"
+    },
+    {
+      "id": "source-plot-saw-2004-film-03",
+      "source_url": "https://en.wikipedia.org/wiki/Saw_(2004_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "a546672112fb623bbaa63886dda3a847f2d28045f03f75f18e35c6a0a0b9a728"
+    },
+    {
+      "id": "source-plot-the-others-2001-film-01",
+      "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "60e3a435f8a9d0e9ebfdaa49be883130716669701dde24850a0e99e268630970"
+    },
+    {
+      "id": "source-plot-the-others-2001-film-02",
+      "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "696f68c4c2bcf44780a9b2bd83becfc435d0d5459e4e2497e2f03d2c956447b9"
+    },
+    {
+      "id": "source-plot-the-others-2001-film-03",
+      "source_url": "https://en.wikipedia.org/wiki/The_Others_(2001_film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "d5fe03537e251664267833fefb044c48a44e1fa02e7e9bbded41262ad296ae91"
+    },
+    {
+      "id": "source-plot-the-prestige-01",
+      "source_url": "https://en.wikipedia.org/wiki/The_Prestige",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "09bccd613a69b6cc73e7cfb663dd6f945f5225afff83688f25385eda0a7008d8"
+    },
+    {
+      "id": "source-plot-the-prestige-02",
+      "source_url": "https://en.wikipedia.org/wiki/The_Prestige",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "fb7308d073832a3dde6207953ccd3137f414d7af5c049f1a0ae0d79afaee6fad"
+    },
+    {
+      "id": "source-plot-the-prestige-03",
+      "source_url": "https://en.wikipedia.org/wiki/The_Prestige",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "36bd8ec18e5effcaea780b1985a08f5d046b6944cfd3053b50e9e271eeee511d"
+    },
+    {
+      "id": "source-plot-memento-01",
+      "source_url": "https://en.wikipedia.org/wiki/Memento_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "cc3ed8d33b02a12c672e86309a4ccce0ed1a764741960cbc7a6e2f439493ac41"
+    },
+    {
+      "id": "source-plot-memento-02",
+      "source_url": "https://en.wikipedia.org/wiki/Memento_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "7979e6144e6b5f7541e364bf6f3b09abf944ba8f0c216ba299f984ee217eb594"
+    },
+    {
+      "id": "source-plot-memento-03",
+      "source_url": "https://en.wikipedia.org/wiki/Memento_(film)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "3057693a99b5494d4a3e2f583960e9f0c9e2d80e697559b964a6eb3551c24485"
+    },
+    {
+      "id": "source-plot-rebecca-01",
+      "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "9b0ca392935f721f7b29cc5c1536d87445c8db0d3e33b1240f633f442da91a41"
+    },
+    {
+      "id": "source-plot-rebecca-02",
+      "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "acbd2f9010e9e7d0df5fb8491cf21b06f53e5aad608cd6a387071a9ff66e12ed"
+    },
+    {
+      "id": "source-plot-rebecca-03",
+      "source_url": "https://en.wikipedia.org/wiki/Rebecca_(novel)",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "597f533abf9974e406223282d87d1e706aca4b589f7e152d2c572bd5f64f4a29"
+    },
+    {
+      "id": "source-plot-jane-eyre-01",
+      "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "77f5f0bbed5eca3a96277e0a512b25e6e50f19ed7159e26b0a964346d30c4a5e"
+    },
+    {
+      "id": "source-plot-jane-eyre-02",
+      "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "ef0ca69d62bc89aec35893f6650a3064d267a7636e3697a3678c1f23dd4edae4"
+    },
+    {
+      "id": "source-plot-jane-eyre-03",
+      "source_url": "https://en.wikipedia.org/wiki/Jane_Eyre",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "1f08ab7270f9e9872874fa8fce7aadbfe6f41dbca87f4ce328e93d8de07b366e"
+    },
+    {
+      "id": "source-plot-the-great-gatsby-01",
+      "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "d3b7cf372a4d01822a3e4c3c99e02b288ff68d5424c051224d82f3cc82a5e7f8"
+    },
+    {
+      "id": "source-plot-the-great-gatsby-02",
+      "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "e84254b6b23dc49d0920e82f4e4b3a87ef650158406acd66d3f0344cc70c1b28"
+    },
+    {
+      "id": "source-plot-the-great-gatsby-03",
+      "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "875e8479b0b308772f70ca7a9364159f959995cc4c70717221c1519d59e7cf99"
+    },
+    {
+      "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-01",
+      "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "c1965663b2233e8c7b9a2aa636821009e5d3d5e3c7372fc6ab63efb024dc8efa"
+    },
+    {
+      "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-02",
+      "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "e110f05d059ebb3a85092a6a1dc54c8744989875bab6dfed12311a7a16f799cc"
+    },
+    {
+      "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-03",
+      "source_url": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "aef6e8a731be263625c45396e532517050144e6b2968e43348c24ff496462908"
+    },
+    {
+      "id": "source-plot-and-then-there-were-none-01",
+      "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "ef17a57fa3c56407ba9077dc455c248745d2fa2241864a872a12722b8452e298"
+    },
+    {
+      "id": "source-plot-and-then-there-were-none-02",
+      "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "fe890aea6398fca7eb3cdfaecaa5370c006b849d23303ec6f88ea46e0289ed07"
+    },
+    {
+      "id": "source-plot-and-then-there-were-none-03",
+      "source_url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None",
+      "verified": true,
+      "method": "Independent web page check: contiguous match after whitespace and typographic normalization",
+      "verified_at": "2026-10-05T23:12:26.366Z",
+      "text_sha256": "6c8e909a3a9dc0a0c51bf012b3cbc798e946bbcd52a43c1044ff0b0f542e51c9"
+    }
+  ]
+}

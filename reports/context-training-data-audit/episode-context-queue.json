@@ -1,0 +1,114 @@
+[
+  {
+    "page": "Fringe",
+    "source_split": "train",
+    "canonical_title": "Fringe (2008 TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Fringe_(TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:train:3525",
+      "tvtropes:train:3419",
+      "tvtropes:train:3506",
+      "tvtropes:train:3376",
+      "tvtropes:train:3335",
+      "tvtropes:train:3431",
+      "tvtropes:train:3237"
+    ]
+  },
+  {
+    "page": "Sherlock",
+    "source_split": "train",
+    "canonical_title": "Sherlock (2010 TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:train:8554",
+      "tvtropes:train:8536",
+      "tvtropes:train:8552",
+      "tvtropes:train:8613",
+      "tvtropes:train:8488",
+      "tvtropes:train:8433",
+      "tvtropes:train:8476"
+    ]
+  },
+  {
+    "page": "Firefly",
+    "source_split": "train",
+    "canonical_title": "Firefly (2002 TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Firefly_(TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:train:2905",
+      "tvtropes:train:2913",
+      "tvtropes:train:2931",
+      "tvtropes:train:2942",
+      "tvtropes:train:2921",
+      "tvtropes:train:2891",
+      "tvtropes:train:2973",
+      "tvtropes:train:2966"
+    ]
+  },
+  {
+    "page": "PersonOfInterest",
+    "source_split": "train",
+    "canonical_title": "Person of Interest (2011 TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:train:7198",
+      "tvtropes:train:7244",
+      "tvtropes:train:7223",
+      "tvtropes:train:7222",
+      "tvtropes:train:7208",
+      "tvtropes:train:7199",
+      "tvtropes:train:7261",
+      "tvtropes:train:7286"
+    ]
+  },
+  {
+    "page": "Homeland",
+    "source_split": "validation",
+    "canonical_title": "Homeland (2011 TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Homeland_(TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:validation:342",
+      "tvtropes:validation:327",
+      "tvtropes:validation:334",
+      "tvtropes:validation:331",
+      "tvtropes:validation:324",
+      "tvtropes:validation:319"
+    ]
+  },
+  {
+    "page": "Nikita",
+    "source_split": "validation",
+    "canonical_title": "Nikita (2010 TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Nikita_(TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:validation:610",
+      "tvtropes:validation:636",
+      "tvtropes:validation:561",
+      "tvtropes:validation:549",
+      "tvtropes:validation:584",
+      "tvtropes:validation:559",
+      "tvtropes:validation:577"
+    ]
+  },
+  {
+    "page": "LifeOnMars2006",
+    "source_split": "validation",
+    "canonical_title": "Life on Mars (2006 British TV series)",
+    "series_source_url": "https://en.wikipedia.org/wiki/Life_on_Mars_(British_TV_series)",
+    "next_action": "Resolve episode/season references and acquire episode-level context; review fragments and source labels; do not infer omitted event from series summary",
+    "sample_review_ids": [
+      "tvtropes:validation:394",
+      "tvtropes:validation:367",
+      "tvtropes:validation:399",
+      "tvtropes:validation:376",
+      "tvtropes:validation:386",
+      "tvtropes:validation:398"
+    ]
+  }
+]

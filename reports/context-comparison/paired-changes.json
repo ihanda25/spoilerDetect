@@ -1,0 +1,218 @@
+[
+  {
+    "id": "real-c451c3925da2d618",
+    "work_title": "Inception",
+    "slice": "real_content_dev",
+    "label": 1,
+    "llm_title": 1,
+    "llm_context": null
+  },
+  {
+    "id": "real-6ec4ebe7b53e35dd",
+    "work_title": "Breaking Bad",
+    "slice": "real_content_dev",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": null
+  },
+  {
+    "id": "real-b1d8614aa1713cc3",
+    "work_title": "Inception",
+    "slice": "real_content_dev",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": null
+  },
+  {
+    "id": "real-1c7f8b38b3f5f9fd",
+    "work_title": "Breaking Bad",
+    "slice": "real_content_dev",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": null
+  },
+  {
+    "id": "real-8ad288232fd8b2b6",
+    "work_title": "Inception",
+    "slice": "real_content_dev",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": null
+  },
+  {
+    "id": "real-7ffdd5b466a2cb92",
+    "work_title": "Breaking Bad",
+    "slice": "real_content_dev",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": null
+  },
+  {
+    "id": "real-41b24af89d7dcd5a",
+    "work_title": "Breaking Bad",
+    "slice": "real_content_dev",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": null
+  },
+  {
+    "id": "source-plot-the-sixth-sense-01",
+    "work_title": "The Sixth Sense",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-fight-club-01",
+    "work_title": "Fight Club",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-shutter-island-film-01",
+    "work_title": "Shutter Island (film)",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-shutter-island-film-02",
+    "work_title": "Shutter Island (film)",
+    "slice": "source_plot_challenge",
+    "label": 1,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-shutter-island-film-03",
+    "work_title": "Shutter Island (film)",
+    "slice": "source_plot_challenge",
+    "label": 1,
+    "llm_title": 1,
+    "llm_context": null
+  },
+  {
+    "id": "source-plot-arrival-film-01",
+    "work_title": "Arrival (film)",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-get-out-01",
+    "work_title": "Get Out",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-get-out-03",
+    "work_title": "Get Out",
+    "slice": "source_plot_challenge",
+    "label": 1,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-parasite-01",
+    "work_title": "Parasite",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-parasite-02",
+    "work_title": "Parasite",
+    "slice": "source_plot_challenge",
+    "label": 1,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-the-usual-suspects-01",
+    "work_title": "The Usual Suspects",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-oldboy-2003-film-01",
+    "work_title": "Oldboy (2003 film)",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-psycho-1960-film-01",
+    "work_title": "Psycho (1960 film)",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-saw-2004-film-01",
+    "work_title": "Saw (2004 film)",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-saw-2004-film-02",
+    "work_title": "Saw (2004 film)",
+    "slice": "source_plot_challenge",
+    "label": 1,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-the-others-2001-film-01",
+    "work_title": "The Others (2001 film)",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-the-prestige-01",
+    "work_title": "The Prestige",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": 0,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-memento-01",
+    "work_title": "Memento",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  },
+  {
+    "id": "source-plot-strange-case-of-dr-jekyll-and-mr-hyde-02",
+    "work_title": "Strange Case of Dr Jekyll and Mr Hyde",
+    "slice": "source_plot_challenge",
+    "label": 1,
+    "llm_title": 1,
+    "llm_context": null
+  },
+  {
+    "id": "source-plot-and-then-there-were-none-01",
+    "work_title": "And Then There Were None",
+    "slice": "source_plot_challenge",
+    "label": 0,
+    "llm_title": null,
+    "llm_context": 1
+  }
+]
